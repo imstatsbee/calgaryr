@@ -1,13 +1,16 @@
 name: "CalgaryR"
 output_dir: "."
 navbar:
-  title: "CalgaryR"
   left:
     - text: "Home"
       href: index.html
-    - text: "Be Speaker"
+    - text: "Be Our Speakers"
       href: be_speaker.html 
     - text: "Meetings"
       href: meetings.html
+    - text: "For Community"
+      href: projects.html
+    - text: "Notes"
+      href: notes.html
 
 
