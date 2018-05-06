@@ -1,0 +1,9 @@
+name: "CalgaryR"
+output_dir: "."
+navbar:
+  title: "CalgaryR"
+  left:
+    - text: "CalgaryR"
+      href: index.html
+    - text: "About Us"
+      href: about.html 
