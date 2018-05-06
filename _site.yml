@@ -3,7 +3,11 @@ output_dir: "."
 navbar:
   title: "CalgaryR"
   left:
-    - text: "CalgaryR"
+    - text: "Home"
       href: index.html
-    - text: "About Us"
-      href: about.html 
+    - text: "Be Speaker"
+      href: be_speaker.html 
+    - text: "Meetings"
+      href: meetings.html
+
+
