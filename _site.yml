@@ -8,9 +8,10 @@ navbar:
       href: be_speaker.html 
     - text: "Meetings"
       href: meetings.html
-    - text: "For Community"
+    - text: "Community Projects"
       href: projects.html
-    - text: "Notes"
+    - text: "Study Togehter"
       href: notes.html
+
 
 
