@@ -12,6 +12,6 @@ navbar:
       href: projects.html
     - text: "Study Togehter"
       href: notes.html
-
-
+    - text: "Opportunities"
+      href: jobs.html
 
