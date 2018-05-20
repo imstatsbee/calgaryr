@@ -16,4 +16,7 @@ navbar:
       href: notes.html
     - text: "Opportunities"
       href: jobs.html
+    - text: "DATATHON"
+      href: datathon.html
+
 
