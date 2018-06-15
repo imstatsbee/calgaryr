@@ -5,14 +5,14 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Be Our Speakers"
-      href: be_speaker.html 
+      href: be_speaker.html
     - text: "Meetings"
       href: meetings.html
     - text: "Community Project"
       href: projects.html
     - text: "Open Data Project"
       href: opendata.html
-    - text: "Study Togehter"
+    - text: "Study Together"
       href: notes.html
     - text: "Opportunities"
       href: jobs.html
