@@ -1,0 +1,92 @@
+---
+title: "**Study Together**"
+output: html_document
+---
+<br>
+
+If you want to list your study group or project here, please email the brief description and your contact info to <<imstatsbee@gmail.com>>. 
+
+<br>
+
+#### **Data Mining** <del>(from 2018-July-15 to unlimited)</del>
+
+This section is led by Simon Olivier Guienguere <<simonolivier.guie1@ucalgary.ca>>
+
+* <del>Friday evening at 6 pm (location: TBA at the foothills campus)</del>
+* Topics will be announced later 
+
+<br>
+
+#### **Kaggle Case Studies** (from unknown to unknown)
+
+This study group will be led by Lourdes Pelayo <<loperam@gmail.com>>
+
+* Location: TBA (around McCraig Tower/Foothills Medical Center)
+* Time: TBA (after the work, every week or every two weeks)
+* Topics: TBA
+
+
+<br>
+
+#### **Python programming for data mining** (from unknown to unknown)
+
+This study group will be led by <!-- --> name <<contact@email.address>>
+
+* Location: TBA
+* Time: TBA
+* Topics: TBA 
+
+
+<br>
+
+
+#### **SAS Basic Programming** (from unknown to unknown)
+
+This study group will be led by <!-- --> name <<contact@email.address>>
+
+* Location: TBA
+* Time: TBA
+* Topics: TBA 
+
+
+<br>
+
+
+#### **Geostatistics for Oil & Gas Industry** (from unknown to unknown)
+
+This study group will be led by <!-- --> name <<contact@email.address>>
+
+* Location: TBA
+* Time: TBA
+* Topics: TBA 
+
+
+<br>
+
+#### **IBM SPSS Modeler with Data mining, text minng, predictive analysis** (from unknown to unknown)
+
+This study group will be led by <!-- --> name <<contact@email.address>>
+
+* Location: TBA
+* Time: TBA
+* Topics: TBA 
+
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+### **Looking for R Tutors** 
+
+The following individuals are available to be hired as **PRIVATE TUTORS**.   This list is created as a service for the members and the **CalgaryR** group does not take any responsibility for the hiring process.   All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here.   Note also that appearance of tutor's name on this list does not guarantee of the tutor by the group.
+
+* Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
+* Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
+
+
+
