@@ -12,7 +12,7 @@ If you want to list your study group or project here, please email the brief des
 
 This study group is led by Simon Olivier Guienguere <<simonolivier.guie1@ucalgary.ca>>
 
-![](./img/dm_simon_2018aug06.png){width=400px}
+![](./img/dm_simon_2018aug06.gif){width=400px}
 
 Numerous industries successfully apply Data Mining techniques to extract information or to Discover Patterns in their large datasets. It helps the Retail industry model Customer Response. It helps Banks Predict Customer Profitability. It serves similar use cases in Telecom, Manufacturing, the Automotive Industry, and Higher Education. What about Healthcare?
 
