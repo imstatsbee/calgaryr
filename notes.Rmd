@@ -8,12 +8,15 @@ If you want to list your study group or project here, please email the brief des
 
 <br>
 
-#### **Data Mining** <del>(from 2018-July-15 to unlimited)</del>
+#### **Data Mining in Health Care** 
 
-This section is led by Simon Olivier Guienguere <<simonolivier.guie1@ucalgary.ca>>
+This study group is led by Simon Olivier Guienguere <<simonolivier.guie1@ucalgary.ca>>
 
-* <del>Friday evening at 6 pm (location: TBA at the foothills campus)</del>
-* Topics will be announced later 
+![](./img/dm_simon_2018aug06.png){width=400px}
+
+Numerous industries successfully apply Data Mining techniques to extract information or to Discover Patterns in their large datasets. It helps the Retail industry model Customer Response. It helps Banks Predict Customer Profitability. It serves similar use cases in Telecom, Manufacturing, the Automotive Industry, and Higher Education. What about Healthcare?
+
+* [Register!  Friday August 10, 2018 at Health Science Library 1459 from 5 pm to 6 pm](https://www.eventbrite.ca/e/data-mining-in-healthcare-tickets-48749286428?utm_term=eventurl_text){target="_blank"}
 
 <br>
 
