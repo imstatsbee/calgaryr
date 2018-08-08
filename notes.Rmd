@@ -10,7 +10,7 @@ If you want to list your study group or project here, please email the brief des
 
 #### **Data Mining in Health Care** 
 
-This study group is led by Simon Olivier Guienguere <<simonolivier.guie1@ucalgary.ca>>
+This study group is led by [Simon Olivier Guienguere](https://www.linkedin.com/in/simon-olivier-guienguere-63526929/){target="_blank"} <<simonolivier.guie1@ucalgary.ca>>
 
 ![](./img/dm_simon_2018aug06.gif){width=400px}
 
@@ -43,7 +43,7 @@ This study group will be led by <!-- --> name <<contact@email.address>>
 <br>
 
 
-#### **SAS Basic Programming** (from unknown to unknown)
+#### **SAS Basic (intermediated and macro) Programming** (from unknown to unknown)
 
 This study group will be led by <!-- --> name <<contact@email.address>>
 
