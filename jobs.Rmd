@@ -1,53 +1,35 @@
 ---
-title: "**Careers**"
+title: "**Career Connect**"
 output: html_document
 ---
 
-## **Companies Introduction**
+Please contact [Chel](mailto:imstatsbee@gmail.com) for maintaining this page.  Note that only Calgary-headquartered companies are listed here.  The definition of **data scientist** is not well defined; however, this term is used in a very broad sense based on the contents noted on the following pages:
+
+* [What is a data scientist? 14 definitions of a data scientist!](http://bigdata-madesimple.com/what-is-a-data-scientist-14-definitions-of-a-data-scientist/){target="_blank"}
+* [Data science from Wikipedia](https://en.wikipedia.org/wiki/Data_science){target="_blank"}
+* [What is data science? A data science definition](https://www.springboard.com/blog/data-science-definition/){target="_blank"}
+
+
+The following criteria are considered to list 
+
+* Does this company need data scientist?  (What kinds of tasks are carried out by the data scientists?)
+* Does this company provide opportunities for training/education for future data scientists?
+
 
 [**RS Energy Group**](https://www.rseg.com/about/careers){target="_blank"}
-
-Description about RS Engergy Group 
 
 <br>
 
 [**Imperial Oil**](https://www.imperialoil.ca/){target="_blank"}
 
-Descrption about Imperial Oil 
-
 <br>
 
 [**Cadeon**](http://cadeon.com/){target="_blank"}
 
-Description about Cadeon
-
-<br>
-<br>
 <br>
 
+[**Alberta Health Services**](http://albertahealthservices.ca){target="_blank"}
 
-* <del>[Development Data Analyst at **The Mustard Seed**](https://theseed.ca/wp-content/uploads/2018/05/201805-02-Development-Data-Analyst.pdf){target="_blank"}</del>
+<br>
 
-* <del>[Data Analyst, Paediatrics, Cumming School of Medicine](http://careers.ucalgary.ca/jobs/2803915-data-analyst-paediatrics-cumming-school-of-medicine){target="_blank"}</del>
-
-
-* <del>[Intellectual Property Analyst at **Corporate Analytics & Innovation, City of Calgary**](https://recruiting.calgary.ca/psc/pdhr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&TargetFrameName=){target="_blank"} </del>
-
-* <del>[Strategic Crime & Intelligence Analyst at **Calgary Police Service, City of Calgary**](https://recruiting.calgary.ca/psc/pdhr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&TargetFrameName=){target="_blank"}</del>
-
-
-* <del>[Biostatistician - Research Administration at **Tom Baker Cancer Center** (**Alberta Health Services**)](https://careers.albertahealthservices.ca/jobs/biostatistician-research-administration-68708){target="_blank"}</del>
-
-
-* <del>[Management Systems Analyst at **City of Calgary**](https://recruiting.calgary.ca/psc/pdhr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST_FL&JobOpeningId=300757&PostingSeq=1&SiteId=1&bid=326&){target="_blank"}</del>
-
-
-* <del>[Analyst Data Management (70485) at **Canadian Pacific**](https://career4.successfactors.com/career?company=CPR&career_job_req_id=70485&career_ns=job_listing&navBarLevel=JOB_SEARCH&jobPipeline=Indeed){target="_blank"}</del>
-
-* <del>[Manager - Data Scientist at **Ernst & Young Global Limited**](https://eygbl.referrals.selectminds.com/experienced-opportunities/jobs/manager-%E2%80%93-data-scientist-44608){target="_blank"} </del>
-
-
-* <del> [Director, Data & Business Intelligence (67380) at **Westjet**](https://career4.successfactors.com/career?career_ns=job_listing&company=WestJet&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&site=VjItUnUyR1hvaHNudXZSOFFoaDZWYUtYQT09%5d&career_job_req_id=67380&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=7MOy9z1oAevLz7LlHf76KhJgyjg%3d){target="_blank"} </del>
-
-
-
+<br>
