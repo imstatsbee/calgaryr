@@ -15,12 +15,9 @@ The following criteria are considered to list
 * Does this company need data scientist?  (What kinds of tasks are carried out by the data scientists?)
 * Does this company provide opportunities for training/education for future data scientists?
 
-
-[**RS Energy Group**](https://www.rseg.com/about/careers){target="_blank"}
-
 <br>
 
-[**Imperial Oil**](https://www.imperialoil.ca/){target="_blank"}
+[**Alberta Health Services**](http://albertahealthservices.ca){target="_blank"}
 
 <br>
 
@@ -28,7 +25,14 @@ The following criteria are considered to list
 
 <br>
 
-[**Alberta Health Services**](http://albertahealthservices.ca){target="_blank"}
+[**Cenovus**](http://cenovus.com/){target="_blank"}
+
+<br>
+
+[**Imperial Oil**](https://www.imperialoil.ca/){target="_blank"}
+
+<br>
+[**RS Energy Group**](https://www.rseg.com/about/careers){target="_blank"}
 
 <br>
 
