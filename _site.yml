@@ -4,17 +4,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Be Our Speakers"
+    - text: "Be Our Speaker"
       href: be_speaker.html
-    - text: "Meetings"
+    - text: "Meeting"
       href: meetings.html
     - text: "Community Project"
       href: projects.html
-    - text: "Open Data Project"
+    - text: "Open Data "
       href: opendata.html
     - text: "Study Together"
       href: notes.html
-    - text: "Opportunities"
+    - text: "Career Connet"
       href: jobs.html
     - text: "DATATHON"
       href: datathon.html
