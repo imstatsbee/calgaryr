@@ -8,10 +8,8 @@ navbar:
       href: be_speaker.html
     - text: "Meeting"
       href: meetings.html
-    - text: "Community Project"
+    - text: "Projects"
       href: projects.html
-    - text: "Open Data "
-      href: opendata.html
     - text: "Study Together"
       href: notes.html
     - text: "Career Connet"

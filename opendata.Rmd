@@ -3,24 +3,3 @@ title: "**Open Data Project**"
 output: html_document
 ---
 
-<br>
-
-We would like to know our city better as a member of the city.   Datasets are available from the [Open Calgary](https://data.calgary.ca/){target="_blank"}.  
-
-<br>
-
-
-
-## City of Calgary 
-
-* [City of Calgary Open Data](https://data.calgary.ca/){target="_blank"}
-* [Calgary Civic Census](http://www.calgary.ca/CA/city-clerks/Pages/Election-and-information-services/Civic-Census/CensusResults.aspx){target="_blank"}
-* [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
-
-<br>
-
-## Government of Alberta 
-
-* Alberta Open Data
-
-
