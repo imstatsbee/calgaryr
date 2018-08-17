@@ -6,13 +6,18 @@ navbar:
       href: index.html
     - text: "Be Our Speaker"
       href: be_speaker.html
-    - text: "Meeting"
-      href: meetings.html
+    - text: "Meetings"
+      icon: fa-gear
+      menu:
+        - text: "2018-2019"
+          href: meetings1819.html
+        - text: "2017-2018"
+          href: meetings1718.html
     - text: "Projects"
       href: projects.html
-    - text: "Study Together"
+    - text: "Workshops"
       href: notes.html
-    - text: "Career Connet"
+    - text: "Career Connect"
       href: jobs.html
     - text: "DATATHON"
       href: datathon.html
