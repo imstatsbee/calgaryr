@@ -1,0 +1,225 @@
+---
+title: "**Meetings in 2017-2018**"
+output: html_document
+---
+
+
+
+* 2018-May-23 [**Probabilistic topic modeling and Natural Language Processing**](https://www.meetup.com/Calgary-R-User-Group/events/250461813/){target="_blank"}, by Mark Barley, Menome Techonologies Inc. 
+
+
+Mark will be presenting on the use of probabilistic topic modeling and natural language processing in relation to the graph database neo4j. Menome Technologies Inc. is a Calgary Alberta Canada based organization whose mission is to help organizations fully realize the value of their data. Mark is a Calgary native interested in information theory and organizational science. After graduating from Western Canada High School in 2012 he went on to study Computer Science and Philosophy at the University of Calgary, graduating with a specialization in Multi Agent Systems. Mark has been a core contributor to Menome's platform and philosophy since starting with us in May 2017.
+Mark will lead us through an introduction to their process with some of the applied use-cases they have in production to represent a model in a graph database, and classifying new textual documents against that model to extract defining characteristics of that documents contents.
+
+Article classifier
+
+File harvester->File classifier
+
+Graph operations post-processing of files
+
+Mark will then give a demonstration using an open data source to provide some applied context from their corporate work to illustrate how topic modeling is used in real world use cases.
+
+
+
+<br>
+
+* 2018-APR-25 [**We use both SAS and R**](https://www.meetup.com/Calgary-R-User-Group/events/249121911/){target="_blank"}
+
+1. **Creating an Open Analytics Ecosystem**, by Matthew Joyce, System Engineer, SAS
+
+He will discuss the importance of building a scalable and open analytics platform within an organization. Organizations are often challenged today by the variety of languages and applications to choose from and need to easily deploy models into production. I will discuss how to leverage the power of open source by giving you the ability to able to create models in multiple languages, and executing those models on a single enterprise platform.
+
+2. **Professional Data Analysis with R, SAS, Python and Beyond**, Dayne Sorvisto, Inegration Consultant
+
+This talk will primarily be an introduction to SAS programming for R users. The focus of the talk will be on using SAS in the workplace and writing professional code. The goal of the first half of the talk is to show how common data manipulation and modeling tasks can be accomplished in different ways in both R and SAS. The trade-offs of each language will be discussed with reference to real-world business problems. In the second half of the talk, Dayne will share some personal experiences using other popular alternatives to R like Python. The talk will finish with a fun demo using his favorite machine learning library TensorFlow.
+
+<br>
+
+* 2018-APR-11 [**Data Analytics in Sports & Entertainment**](https://www.meetup.com/Calgary-R-User-Group/events/246555479/){target="_blank"}, by Vince Ircandia, Founder and CEO of StellarAlgo
+
+vince will be on-hand to discuss both the business and technical aspects of his Calgary-based company, which enables organizations to build cohesive, transparent and sophisticated cultures anchored in data-based decision-making. StellarAlgo's clients include a number of professional sports teams, including the Calgary Flames, Vancouver Canucks, Portland Trail Blazers and LA Galaxy, as well as Seattle's Museum of Pop Culture.
+
+
+<br>
+
+* 2018-MAR-28 [**How many words did William Shakespeare know? Really? **](https://www.meetup.com/Calgary-R-User-Group/events/245398867/){target="_blank"}, by Chel Hee Lee, Postdoc, Mathematics and Statistics, UCalgary 
+
+He will focus on the practical aspects of R programming when developing a package. For the purpose of illustration, the problem of estimating the unknown size (such as the number of words William Shakespeare know or the number of households during the outbreak of cholera) is going to be mainly discussed. The participants have an opportunity to learn the following basics:
+
+1) a concept of estimating equation that cannot be solved by hand,
+2) several numerical techniques to solve that equation,
+3) error-handling when writing a user-defined function, and
+4) methods for objective-oriented programming
+
+This workshop will take you to the next stage of R programming for your work. If time is permitted, we will see another example of Bayesian linear regression.
+
+<center>
+<img src="./img/C1718/20180328/fig05.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2018-MAR-14 [**The Essentials of Text-Mining and Sentiment Analysis**](https://www.meetup.com/Calgary-R-User-Group/events/248099457/){target="_blank"}, by Tatiana Meleshko and Alex Tennant, Data Scientists at [Cybera] (https://www.cybera.ca/){target="_blank"}
+
+As an introduction to text-mining and sentiment analysis we will outline our trials, tribulations and workflow experienced during our analysis of 65,000 pages of documents submitted to the CRTC as part of its Basic Service Objective consultation in 2015. These documents contained a variety of questions and answers from a number of invested parties, ranging from personal letters to official responses from various telecom service providers, from which we hoped to extract useful information. Faced with a variety of document types and unpredictable formats, we approached the analysis with a variety of tools to sort and process the documents.
+
+We shall outline our use of the neo4j graph database in order categorize each document and visualize the relationships between them. We will describe the use of "fuzzy" text searches with solr as well as more more abstract searches using gensim's doc2vec to locate and extract elements of text relevant to the questions we set out to answer. After we have outlined our process of text extraction, we discuss our approach using sentiment, N-gram, text2vec word filters, LDA topic analysis, and what can be learned from the visualization of the hidden relationships between words. Finally, we will present the resulting tool we made available for anyone to browse and explore the documents submitted to the consultation on their own. This introductory talk will provide you with a basic understanding of text-mining which will aid you in your own document processing expeditions.
+
+
+
+<center>
+<img src="./img/C1718/20180314/fig3.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2018-FEB-28 [**Understanding Computer Vision**](https://www.meetup.com/Calgary-R-User-Group/events/247390933/){target="_blank"}, bu Calvenn Tsuu, Founder of Talented Component Co. Ltd 
+
+
+He will increase our understanding of how to connect computer with powerful vision. The first hour will show us how the computer sees the world. Then we can think and talk about what we can do about those pixels. Calvenn will describe these aspects of powerful vision tools:
+
+* Understand pixels and lens
+* Calibrating the Camera
+* Basic transforms
+* Present and practice use of OpenCV
+
+These techniques for OpenCV is based on Python and Jupyter Notebook. Learning Objectives from this talk are:
+
+* Understand design considerations on OpenCV
+* Understand effective techniques to create visualizations
+* Understand best practice tips for OpenCV
+
+
+<center>
+<img src="./img/C1718/20180228/fig2.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2018-FEB-14 No event - Valentine Day
+
+
+<br>
+
+* 2018-JAN-31 [**Creating Powerful Visualizations**](https://www.meetup.com/Calgary-R-User-Group/events/245364402/){target="_blank"}, by Yogi Schulz, Founder of Corvelle Consulting
+
+Yogi Schulz will increase our understanding of how to create powerful visualizations. We've all sat through unreadable, confusing, boring, or even misleading presentations with their associated charts. We'll talk about how to make charts more powerful so that we communicate our message better.
+
+Yogi will describe these aspects of powerful visualizations:
+1. Understand visualizations
+2. Create visualizations
+3. Refine visualizations
+4. Present and practice visualizations
+
+These techniques for powerful visualizations apply regardless of which of your favorite software tools you are using.
+
+Learning Objectives:
+
+1. Understand design considerations that lead to powerful visualizations
+2. Understand effective techniques to create visualizations
+3. Understand best practice tips for presenting visualizations
+
+Biography: He founded Corvelle Consulting. The firm specializes in project management and information technology related management consulting in the upstream oil & gas industry.
+
+<center>
+<img src="./img/C1718/20180131/fig1.png" height="200px" width="400px">
+</center>
+
+
+<br>
+* 2018-JAN-17 [**Interactive session to identify talks**](https://www.meetup.com/Calgary-R-User-Group/events/245364518/){target="_blank"}, by Cliff Sobchuk 
+
+
+This is your day to provide input in to direction of the Calgary R users group meetup.
+
+It will be a day of participation and involvement from everyone. We will have flip chart paper on each of the tables that will be used to write down topics of interest from everyone. The goal is to get direct input from the group on the specific areas in which people are interested. This will be done during the first 20 to 30 minutes of the meeting depending on how many ideas we are able to gather.
+
+The next part of the meeting will be to silently vote on your top three by using stickers to identify your topics of interest. We will then take those topics and determine the top ones that we can address this year. If there are a number of topics that are of similar counts, we may require a tie breaker round.
+
+<center>
+<img src="./img/C1718/20180117/fig2.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2018-JAN-03 No event - New Yeaer holiday
+
+<br>
+* 2017-DEC-20 No event - Chirstmas holiday
+
+
+<br>
+
+* 2017-DEC-06 [**Feature Selection Methods for Classification in Machine Learning**](https://www.meetup.com/Calgary-R-User-Group/events/244193351/){target="_blank"}, by Brendan Cord Lethebe, Biostatistician, Clinical Research Unit, University of Calgary 
+
+Using machine learning feature selection methods for classification purposes. Methods used will be: Forward Stepwise Logistic Regression, LASSO logistic regression, the C5.0 decision tree, Rpart Decision trees, and CHAID decision trees. Learning to use multiple methods to create interpretable classifiers. Also, simple bootstrapping and cross-fold validation methods will be implemented.
+
+<center>
+<img src="./img/C1718/20171206/fig3.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2017-NOV-22 [**Time-series Prediction with R**](https://www.meetup.com/Calgary-R-User-Group/events/244193373/){target="_blank"}
+
+In this session, we will go through a public data set and learn how to plot the time series, how to adjust trend and seasonality in the time series and how to use the Forecast library to predict the time series.
+
+
+
+<br>
+
+* 2017-NOV-08 [**Intermediate Data Cleaning Techniques using R**](https://www.meetup.com/Calgary-R-User-Group/events/244192826/){target="_blank"}
+
+This lecture provides a practical guideline for writing data cleaning script. We start with understanding variable types and measurement scale for analysis. In the first session (30 mins), we will explore indexing and matching techniques, data type conversion and recoding, and string manipulation and standardization in terms of technical correctness of data. In the second session (30 mins), techniques for handling missing and special values and determining outliers are explored in terms of data consistency. If time is permitted, a brief introduction to imputation technique will be provided.
+
+
+<br>
+
+* 2017-OCT-25 [**Examples of developing application using R**](https://www.meetup.com/Calgary-R-User-Group/events/244136287/){target="_blank"}
+
+
+R has been used in various areas as well as many different ways. In this talk, three types of examples in developing application will be presented. These include using R as a standalone program, a part of modules, and a main procedure. In addition, the common goal of these examples is to reduce the human resource and to improve the performance.
+
+
+<br>
+
+* 2017-OCT-11 [**Word Cloud using Twitter Data (Regular Expression) and Tidy Data Methodology**](https://www.meetup.com/Calgary-R-User-Group/events/243830285/){target="_blank"}
+
+
+A visualization technique for text data will be explored. We start with extracting data from Twitter and discuss how to clean up the text for analysis. New R users can learn the basics of regular expression. Once stop words are removed, a word cloud will be generated.
+
+We continue to work with the Calgary Police Crime Statistics. We will reformat the data according Hadley Wickham's "Tidy Data" methodology and add 2017 Calgary census data to the existing dataset, and perform some more exploratory data analysis.
+
+<center>
+<img src="./img/C1718/20171011/step5.png" height="350px" width="350px">
+</center>
+
+
+<br>
+
+* 2017-SEP-27 [**Potentials and Challenges of Analyzing Public Data (Mapping)**](https://www.meetup.com/Calgary-R-User-Group/events/243365546/){target="_blank"}
+
+This workshop discuss the potentials and challanges of working with the Calgary Policy Crime Statistics which are publicaly available. A problem of mapping crime incidence is considered. Some useful R functions and techniques needed for working this problem are shared. Note that the basic types of data objects are briefly reviewed for new R learners. Finally, the problem of data quality assurance, importance of data dictionary, and issues on deriving information from data are addressed for further analysis.
+[Download the R codes](./codes/calgaryr_mapping_exercise.R){target="_blank"}
+
+<center>
+<img src="./img/C1718/20170927/map2012_assault_calgary.png" height="400" width="400">
+</center>
+
+
+
+<br>
+
+* 2017-SEP-13 [**Social Gathering 2017 in Calgary**](https://www.meetup.com/Calgary-R-User-Group/events/242831904/){target="_blank"}
+
+Calgary R Users Group is planning to have a social gathering on the evening of September 13 for brief talks and discussion on topics in data science. Everyone is welcome. It is a good opportunity to meet other R users.  
+
+<center>
+<img src="./img/C1718/20170927/open_license.png" width="450px" height="300px"> 
+</center>
+
