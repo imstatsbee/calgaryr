@@ -3,7 +3,7 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
-* 2018-SEP-19 looking for volunteers 
+* 2018-SEP-19 (reserved, Spatial-Temporal Gaussian Processes for Alberta wind power generation)
 
 * 2018-OCT-17  looking for volunteers 
 * 2018-NOV-21  looking for volunteers 
