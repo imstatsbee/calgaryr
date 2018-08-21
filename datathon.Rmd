@@ -65,6 +65,36 @@ The rule that you should keep is only to utilize at least one dataset from the [
 
 <br>
 
+#### **Guideline**
+
+Participants will be asked to develop and present a 10 minute presentation that contributes to one of the topics listed in the theme.
+
+* A assocication map of the open source datasets aligned to their topic of choice.  This map will help us see a potential connectivity between existing data sets and establish the standards for data sets which are newly developed.
+
+* A report including relevant analyses for the city to explore
+
+* Suggestions for improving the quality of the data required for the analysis.  For the case where data sets are not available, you may propose some methods or tools for data collection.
+
+
+<br>
+
+#### **Example**
+
+The following case study gives a blueprint for how a participant will work during this event.  Assume that you are a participant who is interested in the issue of security within the community, ex. Banff Trail, where you are currently living in Calgary.  
+
+1. You believe that your community has a high rate of breaking and enter when comparing it to other communities.  You are hence looking for some way to decrease this specific crime rate.  You have a theory that surveillance cameras, which are not installed in either location, maybe key to reducing break and enter crimes. 
+
+2. To address your idea, you start by searching for data about community crime rates.  You find that the information that you want to use can be found from the [Calgary Police Crime Statistics](https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/848s-4m4z){target="_blank"} data set which is provided by the City of Calgary.  
+
+3. You generate a crime map using Calgary community demographics and community boundaries which are also provided by the City of Calgary open data.  Now, you look for evidence to support your idea about surveillance cameras. 
+
+4. Even if your idea is not be supported by evidence, you can still address your thought.  If the number of surveillance camera in your community is few or they are not well located for break and enter purposes.  Hence, you now look for data that might support it. Unfortunately, you could not find any data that can be used to address your idea.  In this case, you start writing a proposal with the reasons why such data are needed and what data is required to be collected.   Subsequently, you suggest an analytical approach using this data to provide support for the thesis that surveillance cameras reduce break and enter crime. 
+
+5. You still question the surveillance dead zone areas although the required data for your purpose is not available.   You believe that traffic cameras may play such a role.  Hence, you search for information about traffic camera locations.   Using the point of view information from each camera, you make a bubble plot on the community map to show the traffic camera coverage which could be used for surveillance.  You achieved the goals of event perfectly. 
+
+<br>
+
+
 ### <a id="outcome">**Outcomes**</a>
 
 <br> 
@@ -119,34 +149,6 @@ No abstract is provided.
 
 <br>
 
-#### **Guideline**
-
-Participants will be asked to develop and present a 10 minute presentation that contributes to one of the topics listed in the theme.
-
-* A assocication map of the open source datasets aligned to their topic of choice.  This map will help us see a potential connectivity between existing data sets and establish the standards for data sets which are newly developed.
-
-* A report including relevant analyses for the city to explore
-
-* Suggestions for improving the quality of the data required for the analysis.  For the case where data sets are not available, you may propose some methods or tools for data collection.
-
-
-<br>
-
-#### **Example**
-
-The following case study gives a blueprint for how a participant will work during this event.  Assume that you are a participant who is interested in the issue of security within the community, ex. Banff Trail, where you are currently living in Calgary.  
-
-1. You believe that your community has a high rate of breaking and enter when comparing it to other communities.  You are hence looking for some way to decrease this specific crime rate.  You have a theory that surveillance cameras, which are not installed in either location, maybe key to reducing break and enter crimes. 
-
-2. To address your idea, you start by searching for data about community crime rates.  You find that the information that you want to use can be found from the [Calgary Police Crime Statistics](https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/848s-4m4z){target="_blank"} data set which is provided by the City of Calgary.  
-
-3. You generate a crime map using Calgary community demographics and community boundaries which are also provided by the City of Calgary open data.  Now, you look for evidence to support your idea about surveillance cameras. 
-
-4. Even if your idea is not be supported by evidence, you can still address your thought.  If the number of surveillance camera in your community is few or they are not well located for break and enter purposes.  Hence, you now look for data that might support it. Unfortunately, you could not find any data that can be used to address your idea.  In this case, you start writing a proposal with the reasons why such data are needed and what data is required to be collected.   Subsequently, you suggest an analytical approach using this data to provide support for the thesis that surveillance cameras reduce break and enter crime. 
-
-5. You still question the surveillance dead zone areas although the required data for your purpose is not available.   You believe that traffic cameras may play such a role.  Hence, you search for information about traffic camera locations.   Using the point of view information from each camera, you make a bubble plot on the community map to show the traffic camera coverage which could be used for surveillance.  You achieved the goals of event perfectly. 
-
-<br>
 
 
 ### <a id="agenda">**Agenda**</a>
