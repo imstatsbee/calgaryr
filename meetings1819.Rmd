@@ -3,16 +3,16 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
-* 2018-SEP-19 (reserved, Spatial-Temporal Gaussian Processes for Alberta wind power generation)
+* 2018-SEP-19 (confirmed, Spatial-Temporal Gaussian Processes for Alberta wind power generation)
 
-* 2018-OCT-17  looking for volunteers 
-* 2018-NOV-21  looking for volunteers 
-* 2018-DEC-19  looking for volunteers 
-* 2019-JAN-16  looking for volunteers 
-* 2019-FEB-20  looking for volunteers 
-* 2019-MAR-20  looking for volunteers 
-* 2019-APR-17  looking for volunteers 
-* 2019-MAY-22  looking for volunteers 
-* 2019-JUN-19  looking for volunteers 
+* 2018-OCT-17  (reserved, ???)
+* 2018-NOV-21  (reserved)
+* 2018-DEC-19  (reserved, ???) 
+* 2019-JAN-16  looking for volunteers (checking)
+* 2019-FEB-20  looking for volunteers (checking)
+* 2019-MAR-20  looking for volunteers (checking)
+* 2019-APR-17  looking for volunteers (checking)
+* 2019-MAY-22  looking for volunteers (checking)
+* 2019-JUN-19  looking for volunteers (checking)
 
  
