@@ -3,11 +3,14 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
-* 2018-SEP-19 (confirmed, Spatial-Temporal Gaussian Processes for Alberta wind power generation)
+* 2018-SEP-19 (confirmed) Spatial-Temporal Gaussian Processes for Alberta wind power generation, by Yilan Luo
 
-* 2018-OCT-17  (reserved, ???)
-* 2018-NOV-21  (reserved)
+* 2018-OCT-17  (reserved by Megan), potentially, application of group-based trajectory model
+
+* 2018-NOV-21  (reserved by Cliff)
+
 * 2018-DEC-19  (reserved, ???) 
+
 * 2019-JAN-16  looking for volunteers (checking)
 * 2019-FEB-20  looking for volunteers (checking)
 * 2019-MAR-20  looking for volunteers (checking)

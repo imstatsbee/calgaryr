@@ -26,4 +26,6 @@ We could not continue our activities withtout the following sponsors:
 
 <font size="4">  <b>[Department of Mathematics and Statistics, Faculty of Science, University of Calgary](http://math.ucalgary.ca/){target="_blank"} </b>  </font>
 
-<font size="4"> <b>[Department of Critical Care Medicine, Cumming School of Medicine, University of Calgary](https://www.albertahealthservices.ca/info/Page5135.aspx){target="_blank"} </b> </font>
+<font size="4"> <b>Department of Critical Care Medicine, Cumming School of Medicine, University of Calgary</b> </font>
+
+<font size="4"> <b>University of Calgary Biostatistics Center</b> </font>
