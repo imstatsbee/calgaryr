@@ -3,7 +3,10 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
-* 2018-SEP-19 (confirmed) Spatial-Temporal Gaussian Processes for Alberta wind power generation, by Yilan Luo
+* 2018-SEP-19  Spatial-Temporal Gaussian Processes for Wind Power Generation, by Yilan Luo, MSc Candidate, Mathematics and Statistics, University of Calgary 
+
+Wind is one of renewable and green energy sources contributing to Alberta's energy program and economics. We are interested in the spatio-temporal feature of wind power generation. Gasussian process is utilized to model this feature. Covariance function is an important characteristic of a spatio-temporal process, since it describes the association of random variables in space and time. We studied various covariance function models (separable, non-separable symmetric, and non-symmetric) by following Gneiting et al. (2006) and measured how good they are by comparison. A simple Kriging technique is used to demonstrate the performance of models when forecasting the future wind generation for both an existing wind farm and a new farm. RMSE and MAE are used to measure the accuracy of prediction. Finally, we are sharing our experiences on the choice of best practical scenario of new wind farms based on the aggregate wind power generation.
+
 
 * 2018-OCT-17  (reserved by Megan), potentially, application of group-based trajectory model
 
