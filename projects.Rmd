@@ -17,7 +17,7 @@ output: html_document
 
 We provide statistical services for a non-profit organization located in Calgary.  The workflow of this service as below:
 
-1. Filling out the intake form and email the form to [Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> (we are currently preparing the intake form)
+1. Filling out the intake form and email the form to one of organizers <!--[Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> --> (we are currently preparing the intake form)
 
 2. You are going to be invited to give a background information about the problem of interest for 15 minutes. 
 
