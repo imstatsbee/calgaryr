@@ -18,14 +18,15 @@ We could not continue our activities withtout the following sponsors:
 
 <br>
 
-[![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
+[![](./img/dccm.png){width=300px}](https://cumming.ucalgary.ca/labs/calgary-critical-care-research-network/){target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](./img/webhorizfulllarge.png){width=250px}](https://www.pims.math.ca/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br>
 
 <font size="4">  <b>[Department of Mathematics and Statistics, Faculty of Science, University of Calgary](http://math.ucalgary.ca/){target="_blank"} </b>  </font>
-
-<font size="4"> <b>Department of Critical Care Medicine, Cumming School of Medicine, University of Calgary</b> </font>
 
 <font size="4"> <b>[University of Calgary Biostatistics Centre](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}</b> </font>
