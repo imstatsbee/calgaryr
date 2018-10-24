@@ -15,9 +15,18 @@ The following criteria are considered to list
 * Does this company need data scientist?  (What kinds of tasks are carried out by the data scientists?)
 * Does this company provide opportunities for training/education for future data scientists?
 
+
+<br>
+
+[**AESO**](https://www.aeso.ca/){target="_blank"}
+
 <br>
 
 [**Alberta Health Services**](http://albertahealthservices.ca){target="_blank"}
+
+<br>
+
+[**ATB Financial**](https://www.atb.com/Pages/default.aspx){target="_blank"}
 
 <br>
 
