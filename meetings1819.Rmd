@@ -5,6 +5,52 @@ output: html_document
 
 </br>
 
+
+* 2018-NOV-21  Modern machine learning methods in SAGD, PIMS and Energy Datathon Summaries
+
+    This month we have three talks. The first is an applications of machine learning in SAGD reservoirs. The Second is a summary of the recent Untapped Energy Datathon. We'll close out with a summary from the PIMS datathon.
+
+    **Jamal Bajwa** will present on:  SAGD (Steam-Assisted Gravity Drainage) is a popular recovery method used in reservoirs containing Bitumen. Majority of the in-situ Oil Sands projects in Alberta use SAGD as their primary recovery method. While significant work has been done in the last two decades to improve first-principles modelling of recovery from SAGD-operated reservoirs, little has been done to systematically leverage operating data to inject steam optimally. In this work, we attempt to use modern machine learning methods to create empirical models for oil production as a function of steam injection. The production models serve as an input to an overarching optimization model that recommends optimal steam distribution across a well pad. The model development process is complete and the models are currently being put into production at Nexen's Long Lake facility.
+
+
+    **Marc Boulet** will present a summary on:  
+    The Untapped Energy datathon where 3 teams chose to address one of these five topics in the oil and gas industry:
+    Social license: Are sentiments towards large-scale pipeline projects TO BE BELIEVED? -
+    Aging Infrastructure: Finding the factors that contribute to FAILURES and EFFICIENCY of wells, pipelines and facilities.
+    Repurposing of Infrastructure: Finding the next life of suspended or abandoned wells - GEOTHERMAL, BABY!
+    Health & Safety: Safety data is not a competitive advantage - but safety can support an INDUSTRY ADVANTAGE.
+    New Business Models: Markets where data is made public/widely shared outperform markets that don’t - WE'LL PROVE IT!
+
+
+    **Ben Reeves** and **Cliff Sobchuk** will present a summary on:
+    The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgary’s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.
+    
+    RSVP via meetup at https://www.meetup.com/Calgary-R-User-Group/events/255956421/
+
+<br>
+
+* 2018-DEC-19  looking for volunteers (checking) 
+* 2019-JAN-16  looking for volunteers (checking)
+* 2019-FEB-20  looking for volunteers (checking)
+* 2019-MAR-20  looking for volunteers (checking)
+* 2019-APR-17  looking for volunteers (checking)
+* 2019-MAY-22  looking for volunteers (checking)
+* 2019-JUN-19  looking for volunteers (checking)
+
+
+</br>
+
+* 2018-SEP-19  Spatial-Temporal Gaussian Processes for Wind Power Generation, by Yilan Luo, MSc Candidate, Mathematics and Statistics, University of Calgary
+
+    Wind is one of renewable and green energy sources contributing to Alberta's energy program and economics. We are interested in the spatio-temporal feature of wind power generation. Gasussian process is utilized to model this feature. 
+    
+    Covariance function is an important characteristic of a spatio-temporal process, since it describes the association of random variables in space and time. We studied various covariance function models (separable, non-separable symmetric, and non-symmetric) by following Gneiting et al. (2006) and measured how good they are by comparison. 
+    
+    A simple Kriging technique is used to demonstrate the performance of models when forecasting the future wind generation for both an existing wind farm and a new farm. RMSE and MAE are used to measure the accuracy of prediction. Finally, we are sharing our experiences on the choice of best practical scenario of new wind farms based on the aggregate wind power generation.
+    
+    RSVP via our meetup https://www.meetup.com/Calgary-R-User-Group/events/254176561/ 
+
+
 * 2018-OCT-17  **Identification and prediction of health-related quality of life trajectories after a prostate cancer diagnosis**, by Megan Farris, Research Associate at the MEDLIOR Health Outcomes Research Ltd.
 
     RSVP via meetup at https://www.meetup.com/Calgary-R-User-Group/events/254987928/
@@ -21,47 +67,4 @@ output: html_document
     
 
 <br>
-
-* 2018-NOV-21  (reserved by Cliff)
-
-<br>
-
-* 2018-DEC-19  (reserved, ???) 
-
-<br>
-
-* 2019-JAN-16  looking for volunteers (checking)
-
-<br>
-
-* 2019-FEB-20  looking for volunteers (checking)
-
-<br>
-
-* 2019-MAR-20  looking for volunteers (checking)
-
-<br>
-
-* 2019-APR-17  looking for volunteers (checking)
-
-<br>
-
-* 2019-MAY-22  looking for volunteers (checking)
-
-<br>
-
-* 2019-JUN-19  looking for volunteers (checking)
-
-
-
-</br>
-
-* 2018-SEP-19  Spatial-Temporal Gaussian Processes for Wind Power Generation, by Yilan Luo, MSc Candidate, Mathematics and Statistics, University of Calgary 
-
-    Wind is one of renewable and green energy sources contributing to Alberta's energy program and economics. We are interested in the spatio-temporal feature of wind power generation. Gasussian process is utilized to model this feature. Covariance function is an important characteristic of a spatio-temporal process, since it describes the association of random variables in space and time. We studied various covariance function models (separable, non-separable symmetric, and non-symmetric) by following Gneiting et al. (2006) and measured how good they are by comparison. A simple Kriging technique is used to demonstrate the performance of models when forecasting the future wind generation for both an existing wind farm and a new farm. RMSE and MAE are used to measure the accuracy of prediction. Finally, we are sharing our experiences on the choice of best practical scenario of new wind farms based on the aggregate wind power generation.
-    
-    RSVP via our meetup https://www.meetup.com/Calgary-R-User-Group/events/254176561/ 
-
-
-
  
