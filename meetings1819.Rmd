@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-* 2018-DEC-19  Title is not determined 
+* 2018-DEC-19  **R and the Undocumented NHL API**
 
     Join us for pizza at 6pm. The three talks will be begin shortly thereafter.
 
@@ -25,7 +25,7 @@ output: html_document
 <br>
 
 
-* 2018-NOV-21  Modern machine learning methods in SAGD, PIMS and Energy Datathon Summaries
+* 2018-NOV-21  **Modern machine learning methods in SAGD, PIMS and Energy Datathon Summaries**
 
     This month we have three talks. The first is an applications of machine learning in SAGD reservoirs. The Second is a summary of the recent Untapped Energy Datathon. We'll close out with a summary from the PIMS datathon.
 
