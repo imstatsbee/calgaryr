@@ -3,6 +3,11 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
+
+* 2019-JAN-16  looking for volunteers (checking)
+
+
+
 <br>
 
 * 2018-DEC-19  **R and the Undocumented NHL API**
@@ -81,7 +86,6 @@ output: html_document
 <br>
  
 
-* 2019-JAN-16  looking for volunteers (checking)
 * 2019-FEB-20  looking for volunteers (checking)
 * 2019-MAR-20  looking for volunteers (checking)
 * 2019-APR-17  looking for volunteers (checking)
