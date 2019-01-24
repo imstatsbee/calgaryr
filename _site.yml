@@ -15,8 +15,8 @@ navbar:
           href: meetings1718.html
     - text: "Projects"
       href: projects.html
-    - text: "Workshops"
-      href: notes.html
+    - text: "Learning"
+      href: learning.html
     - text: "Career Connect"
       href: jobs.html
     - text: "DATATHON"

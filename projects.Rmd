@@ -7,8 +7,9 @@ output: html_document
 
 ### **Ongoing Projects**
 
-1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
+Please contact a project lead for participation
 
+1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
 
 <br>
 
@@ -34,15 +35,6 @@ Note that a service time cannot be asked to be shorten and a quality of service 
 
 <br>
 
-### **Other Communities You Should Go!**   
-
-There are excellent communities in Calgary.  Please visit the following: 
-
-* [Data for Good Community](https://www.meetup.com/Data-for-Good-Calgary){target="_blank"}
-* [Artifical Intelligence Community](https://www.meetup.com/meetup-group-wmHrkGoA){target="_blank"}
-* [PyData Calgary](https://www.meetup.com/PyData-Calgary){target="_blank"}
-* [SAS Users Group](https://www.sas.com/en_ca/user-groups/csug.html){target="_blank"}
-* [R-Fridays](https://github.com/montoyah/R-Fridays){target="_blank"}
 
 
 
