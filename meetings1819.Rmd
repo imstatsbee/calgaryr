@@ -3,6 +3,12 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
+* 2019-FEB-20  TBA by Saddip and volunteer (checking)
+* 2019-MAR-20  TBA by Dr. Alastair Muir 
+* 2019-APR-17  looking for volunteers (checking)
+* 2019-MAY-22  looking for volunteers (checking)
+* 2019-JUN-19  looking for volunteers (checking)
+
 
 * 2019-JAN-16  **Using R, Risk assessment in Oil&Gas and More about measures of association**
 
@@ -100,8 +106,3 @@ output: html_document
 <br>
  
 
-* 2019-FEB-20  looking for volunteers (checking)
-* 2019-MAR-20  looking for volunteers (checking)
-* 2019-APR-17  looking for volunteers (checking)
-* 2019-MAY-22  looking for volunteers (checking)
-* 2019-JUN-19  looking for volunteers (checking)
