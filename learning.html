@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Study Together</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="be_speaker.html">Be Our Speaker</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-gear"></span>
+     
+    Meetings
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="meetings1819.html">2018-2019</a>
+    </li>
+    <li>
+      <a href="meetings1718.html">2017-2018</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="learning.html">Learning</a>
+</li>
+<li>
+  <a href="jobs.html">Career Connect</a>
+</li>
+<li>
+  <a href="datathon.html">DATATHON</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><strong>Study Together</strong></h1>
+
+</div>
+
+
+<p><br></p>
+<p>If you want to list your study group or project here, please email the brief description and your contact info to &lt;<a href="mailto:imstatsbee@gmail.com">imstatsbee@gmail.com</a>&gt;.</p>
+<div id="wanted-volunteer-for-7th-canadian-statistics-student-conference-workshop" class="section level3">
+<h3>[WANTED] Volunteer for 7th Canadian Statistics Student Conference Workshop</h3>
+<p>Posted on Victoire Michal &lt;<a href="mailto:michal_victoire@orange.fr">michal_victoire@orange.fr</a>&gt; on January 24, 2019.</p>
+<pre><code>The seventh annual **Canadian Statistics Student Conference** (CSSC) will take place on Saturday, May 25th, 2019 at the University of Calgary, Calgary, Alberta, the day before the Statistical Society of Canada 2019 Annual Meeting opens.
+
+This conference is all about engaging students through research presentations, statistical skill development workshops and talks, and an interactive career session with invited statisticians from different professional areas.
+
+On this year&#39;s program, we are pleased to announce a keynote address on interdisciplinary work and successful leadership in the statistical field, given by Professor Charmaine Dean, the vice president for research at the University of Waterloo. In addition to the student scientific program, a career panel with speakers from government, industry and academia will be held, as well as a skills session on the breach between statistics and data mining. We are also hoping to hold a fully interactive workshop on managing big data.
+
+We are contacting your **CalgaryR** because we think you are the perfect candidates for hosting the workshop. As mentioned above, this workshop should be fully interactive, which means that students must be able to reproduce everything the speaker presents on their own laptops. It should last an hour and a half. 
+
+The topic for this year&#39;s workshop is **Big Data** because being able to deal with huge datasets seems to be a very useful skill students should have. The students attending this conference may be undergraduates or graduates who would learn a new package or future employees who would benefit from an industry expert.
+
+We thought of packages in R such as Sparks of H20 but every suggestion from any of you is of course very welcome!
+
+Thank you for your attention.
+
+Victoire Michal,
+MSc. Student at Université de Montréal,
+Member of the CSSC Organizing Committee.
+
+You can contact me if you have any further question at &lt;&lt;michal_victoire@orange.fr&gt;&gt;. </code></pre>
+</div>
+<div id="topics-requested" class="section level3">
+<h3>Topics requested</h3>
+<ul>
+<li>Kaggle Case Studies</li>
+<li>Python programming for data mining</li>
+<li>SAS Basic (intermediated and macro) Programming</li>
+<li>Geostatistics for Oil &amp; Gas Industry</li>
+<li>IBM SPSS Modeler with Data mining, text minng, predictive analysis</li>
+</ul>
+</div>
+<div id="in-the-past" class="section level3">
+<h3>In the past</h3>
+<div id="data-mining-in-health-care-closed" class="section level4">
+<h4><strong>Data Mining in Health Care (closed)</strong></h4>
+<p>This study group is led by <a href="https://www.linkedin.com/in/simon-olivier-guienguere-63526929/" target="_blank">Simon Olivier Guienguere</a> &lt;<a href="mailto:simonolivier.guie1@ucalgary.ca">simonolivier.guie1@ucalgary.ca</a>&gt;</p>
+<!-- ![](./img/dm_simon_2018aug06.gif){width=400px} -->
+<p>Numerous industries successfully apply Data Mining techniques to extract information or to Discover Patterns in their large datasets. It helps the Retail industry model Customer Response. It helps Banks Predict Customer Profitability. It serves similar use cases in Telecom, Manufacturing, the Automotive Industry, and Higher Education. What about Healthcare? <a href="https://www.eventbrite.ca/e/data-mining-in-healthcare-tickets-48749286428?utm_term=eventurl_text" target="_blank">Register! Friday August 10, 2018 at Health Science Library 1459 from 5 pm to 6 pm</a></p>
+<p><br></p>
+</div>
+</div>
+<div id="looking-for-r-tutors" class="section level3">
+<h3><strong>Looking for R Tutors</strong></h3>
+<p>The following individuals are available to be hired as <strong>PRIVATE TUTORS</strong>. This list is created as a service for the members and the <strong>CalgaryR</strong> group does not take any responsibility for the hiring process. All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here. Note also that appearance of tutor’s name on this list does not guarantee of the tutor by the group.</p>
+<ul>
+<li>Dayne Sorvisto &lt;<a href="mailto:daynesorvisto@yahoo.ca">daynesorvisto@yahoo.ca</a>&gt;</li>
+<li>Kimberly Rondeau &lt;<a href="mailto:kim.rondeau@ualberta.ca">kim.rondeau@ualberta.ca</a>&gt;</li>
+</ul>
+<p><br> <br></p>
+</div>
+<div id="other-communities-you-may-consider-to-go" class="section level3">
+<h3><strong>Other Communities You May Consider To Go!</strong></h3>
+<p>There are excellent communities in Calgary. Please visit the following:</p>
+<ul>
+<li><a href="https://www.meetup.com/PyData-Calgary" target="_blank">PyData Calgary</a></li>
+<li><a href="https://github.com/montoyah/R-Fridays" target="_blank">R-Fridays</a></li>
+<li><a href="https://www.meetup.com/meetup-group-wmHrkGoA" target="_blank">Artifical Intelligence Community</a></li>
+<li><a href="https://www.meetup.com/Data-for-Good-Calgary" target="_blank">Data for Good Community</a></li>
+<li><a href="https://www.sas.com/en_ca/user-groups/csug.html" target="_blank">SAS Users Group</a></li>
+</ul>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+This website is built since 2017-09-01 by using <a href="https://rmarkdown.rstudio.com/" target="_blank">Rmarkdown</a>.  Note that Information noted here comes with ABSOLUTELY NO WARRANTY and the contents are frequently changed without any notifications.
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
