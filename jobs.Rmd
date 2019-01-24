@@ -3,7 +3,9 @@ title: "**Career Connect**"
 output: html_document
 ---
 
-Please contact [Chel](mailto:imstatsbee@gmail.com) for maintaining this page.  Note that only Calgary-headquartered companies are listed here.  The definition of **data scientist** is not well defined; however, this term is used in a very broad sense based on the contents noted on the following pages:
+Please contact [Chel](mailto:imstatsbee@gmail.com) for maintaining this page.  Note that only Calgary-headquartered companies are listed here.  
+
+<!-- The definition of **data scientist** is not well defined; however, this term is used in a very broad sense based on the contents noted on the following pages:
 
 * [What is a data scientist? 14 definitions of a data scientist!](http://bigdata-madesimple.com/what-is-a-data-scientist-14-definitions-of-a-data-scientist/){target="_blank"}
 * [Data science from Wikipedia](https://en.wikipedia.org/wiki/Data_science){target="_blank"}
@@ -15,6 +17,7 @@ The following criteria are considered to list
 * Does this company need data scientist?  (What kinds of tasks are carried out by the data scientists?)
 * Does this company provide opportunities for training/education for future data scientists?
 
+-->
 
 <br>
 
