@@ -5,20 +5,36 @@ output: html_document
 
 <br>
 
-### **Ongoing Projects**
+## Open Data Projects 
 
-Please contact a project lead for participation
+### Data Sources 
+
+* [AESO](ets.aeso.ca){target="_blank"}
+
+* [Alberta Government Open Data](https://economicdashboard.alberta.ca/OilPrice){target="_blank"}
+
+* [Alberta Energy Regulator](https://www.aer.ca/providing-information/data-and-reports/statistical-reports){target="_blank"}
+
+* [ABMI](http://www.abmi.ca/home/data-analytics/da-top/da-product-overview){target="_blank"}
+
+* [City of Calgary - Open Calgary](https://data.calgary.ca/){target="_blank"}.  
+
+* [Calgary Civic Census](http://www.calgary.ca/CA/city-clerks/Pages/Election-and-information-services/Civic-Census/CensusResults.aspx){target="_blank"}
+
+* [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
+
+
+## **Ongoing Community Projects**
 
 1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
 
-<br>
 
 
-### **Community Service**
+## **Community Service for Statistical Analysis**
 
 We provide statistical services for a non-profit organization located in Calgary.  The workflow of this service as below:
 
-1. Filling out the intake form and email the form to one of organizers <!--[Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> --> (we are currently preparing the intake form)
+1. Please contact Chel via <<imstatsbee@gmail.com>> <s>Filling out the intake form and email the form to one of organizers</s> <!--[Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> (we are currently preparing the intake form)
 
 2. You are going to be invited to give a background information about the problem of interest for 15 minutes. 
 
@@ -32,42 +48,3 @@ We provide statistical services for a non-profit organization located in Calgary
 
 Note that a service time cannot be asked to be shorten and a quality of service cannot be guaranteed since the only available resources are personal time and efforts from volunteers. 
     
-
-<br>
-
-
-
-
-
-
-## Open Data Projects 
-
-<br>
-[AESO](ets.aeso.ca){target="_blank"}
-<br>
-[Alberta Government](https://economicdashboard.alberta.ca/OilPrice){target="_blank"}
-<br>
-[Alberta Energy Regulator](https://www.aer.ca/providing-information/data-and-reports/statistical-reports){target="_blank"}
-<br>
-[ABMI](http://www.abmi.ca/home/data-analytics/da-top/da-product-overview){target="_blank"}
-<br>
-
-We would like to know our city better as a member of the city.   Datasets are available from the [Open Calgary](https://data.calgary.ca/){target="_blank"}.  
-
-<br>
-
-
-### City of Calgary 
-
-* [City of Calgary Open Data](https://data.calgary.ca/){target="_blank"}
-* [Calgary Civic Census](http://www.calgary.ca/CA/city-clerks/Pages/Election-and-information-services/Civic-Census/CensusResults.aspx){target="_blank"}
-* [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
-
-<br>
-
-
-### Government of Alberta 
-
-* Alberta Open Data
-
-
