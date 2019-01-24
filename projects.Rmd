@@ -34,7 +34,9 @@ output: html_document
 
 We provide statistical services for a non-profit organization located in Calgary.  The workflow of this service as below:
 
-1. Please contact Chel via <<imstatsbee@gmail.com>> <s>Filling out the intake form and email the form to one of organizers</s> <!--[Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> (we are currently preparing the intake form)
+1. Please contact Chel via <<imstatsbee@gmail.com>> <s>Filling out the intake form and email the form to one of organizers (we are currently preparing the intake form)</s> 
+<!--[Alice Lam](https://www.linkedin.com/in/alice-lam-71796238/){target="_blank"} <<alicelam22@gmail.com>> -->
+
 
 2. You are going to be invited to give a background information about the problem of interest for 15 minutes. 
 
