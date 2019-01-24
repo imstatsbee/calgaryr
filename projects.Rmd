@@ -23,11 +23,18 @@ output: html_document
 
 * [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
 
+* [Data Hub from National Energy Board](https://www.neb-one.gc.ca/rsrccntr/dthb/index-eng.html){target="_blank"}
+
+* [Market Data from TMX WebStore for TSX and TSXV](https://www.tmxwebstore.com/products/#q=%7Cc=44%7Cm=%7Cpage=1){target="_blank"}
+
+<br>
 
 ## **Ongoing Community Projects**
 
 1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
 
+
+<br>
 
 
 ## **Community Service for Statistical Analysis**
