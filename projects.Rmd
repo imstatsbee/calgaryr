@@ -48,13 +48,21 @@ There are excellent communities in Calgary.  Please visit the following:
 
 
 
-## Open Data Project 
+## Open Data Projects 
+
+<br>
+[AESO](ets.aeso.ca){target="_blank"}
+<br>
+[Alberta Government](https://economicdashboard.alberta.ca/OilPrice){target="_blank"}
+<br>
+[Alberta Energy Regulator](https://www.aer.ca/providing-information/data-and-reports/statistical-reports){target="_blank"}
+<br>
+[ABMI](http://www.abmi.ca/home/data-analytics/da-top/da-product-overview){target="_blank"}
 <br>
 
 We would like to know our city better as a member of the city.   Datasets are available from the [Open Calgary](https://data.calgary.ca/){target="_blank"}.  
 
 <br>
-
 
 
 ### City of Calgary 

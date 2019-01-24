@@ -23,7 +23,7 @@ navbar:
       href: datathon.html
 output:
   html_document:
-    theme: united # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    theme: readable # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
     highlight: textmate
     include:
       after_body: footer.html
