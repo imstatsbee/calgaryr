@@ -3,12 +3,44 @@ title: "**Meetings in 2018-2019**"
 output: html_document
 ---
 
-* 2019-FEB-20  TBA by Saddip and volunteer (checking)
-* 2019-MAR-20  TBA by Dr. Alastair Muir 
+* 2019-FEB-20 **Predicting Traffic Collisions in Calgary using Open Data and Machine Learning**
+
+    Saadiq Mohiuddin will speak about his recent project Predicting Traffic Collisions in Calgary using Open Data and Machine Learning. He'll walk through some exploratory data analysis and how he created the visualization using Tensorflow and Mapbox.
+Saadiq Mohiuddin (@saadiqmohiuddin) is a transportation engineer at the City of Calgary with an interest in data visualization, machine learning and deep learning and using technology to better understand mobility in cities. He blogs at http://www.saadiqm.com.
+This project has garnered quite a bit of interest and was featured in a CBC article:
+https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.4852286
+
+    As a second speaker of the night Dr. Chel Lee will provide a short tutorial on creating a neural network in R. It will be about 20-30 minutes long and will go through the steps on creating your first neural network and some of the things to be aware of when using them.
+
+<br>
+
+* 2019-MAR-20  **Beating the World's Best in the Santander Bank Customer Value Prediction Competition**
+
+    Dr. Alastair Muir has been using advanced analytics in management consulting engagements around the world for over fifteen years.
+ 
+    He will show how to make a presentation to the executive on the project, to be followed by how to do the detective work necessary to create high performance, useful, and explainable models for an online banking application. The journey includes R, keras, LIME, and TensorFlow.
+
+    From the Kaggle challenge, "According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception."
+
+
+    Bio - Alastair Muir, PhD, MBBI combine operations research, customer demand patterns, product and supply chain design, process improvement, Lean Six Sigma, data science and Business Intelligence. My business improvement process begins with an understanding of your most important business problems and ends with a meaningful and implementable plan for process change.I have delivered operational excellence, business solutions and strategies to Energy, Resource and Manufacturing companies in diverse, multicultural and international settings.• Over 20 years of experience in Operations, Supply Chain, Manufacturing, R&D, Fraud Detection, Risk Assessment, Engineering, Nuclear
+    
+    * Lead development of Operational Excellence programs and governance for Fortune 50 companies
+    * Cost reductions and revenue enhancement > 450$M
+    * Coached, mentored, and trained over 4,000 GE leaders. Instructor at GE’s corporate training facility in Crotonville, NY.
+    * Business Strategy Development – restructuring analysis of 300,000 people quoted by CEO in Wall Street Journal
+    * Conducted briefings and strategic planning meetings with federal cabinet ministers and C-level executive.
+    * Project management with global teams in 14 countries worldwide
+    * "Lean Six Sigma Statistics", McGraw-Hill 2006, defines the organizational requirements of a successful operational excellence program at the executive level. It includes the lessons learned for conducting successful transactional improvement projects.
+    * Patented EDGE AI for solid state toxic gas detection
+
+<br>
+
 * 2019-APR-17  looking for volunteers (checking)
 * 2019-MAY-22  looking for volunteers (checking)
 * 2019-JUN-19  looking for volunteers (checking)
 
+<br>
 
 * 2019-JAN-16  **Using R, Risk assessment in Oil&Gas and More about measures of association**
 
