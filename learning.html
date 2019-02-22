@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -100,6 +99,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -114,7 +116,6 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
-
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -134,6 +135,43 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,18 +193,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -237,30 +334,6 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<p>If you want to list your study group or project here, please email the brief description and your contact info to &lt;<a href="mailto:imstatsbee@gmail.com">imstatsbee@gmail.com</a>&gt;.</p>
-<div id="wanted-volunteer-for-7th-canadian-statistics-student-conference-workshop" class="section level3">
-<h3>[WANTED] Volunteer for 7th Canadian Statistics Student Conference Workshop</h3>
-<p>Posted on the behalf of Victoire Michal &lt;<a href="mailto:michal_victoire@orange.fr">michal_victoire@orange.fr</a>&gt; on January 24, 2019.</p>
-<pre><code>The seventh annual **Canadian Statistics Student Conference** (CSSC) will take place on Saturday, May 25th, 2019 at the University of Calgary, Calgary, Alberta, the day before the Statistical Society of Canada 2019 Annual Meeting opens.
-
-This conference is all about engaging students through research presentations, statistical skill development workshops and talks, and an interactive career session with invited statisticians from different professional areas.
-
-On this year&#39;s program, we are pleased to announce a keynote address on interdisciplinary work and successful leadership in the statistical field, given by Professor Charmaine Dean, the vice president for research at the University of Waterloo. In addition to the student scientific program, a career panel with speakers from government, industry and academia will be held, as well as a skills session on the breach between statistics and data mining. We are also hoping to hold a fully interactive workshop on managing big data.
-
-We are contacting your **CalgaryR** because we think you are the perfect candidates for hosting the workshop. As mentioned above, this workshop should be fully interactive, which means that students must be able to reproduce everything the speaker presents on their own laptops. It should last an hour and a half. 
-
-The topic for this year&#39;s workshop is **Big Data** because being able to deal with huge datasets seems to be a very useful skill students should have. The students attending this conference may be undergraduates or graduates who would learn a new package or future employees who would benefit from an industry expert.
-
-We thought of packages in R such as Sparks of H20 but every suggestion from any of you is of course very welcome!
-
-Thank you for your attention.
-
-Victoire Michal,
-MSc. Student at UniversitÃ© de MontrÃ©al,
-Member of the CSSC Organizing Committee.
-
-You can contact me if you have any further question at &lt;&lt;michal_victoire@orange.fr&gt;&gt;. </code></pre>
-</div>
 <div id="topics-requested" class="section level3">
 <h3>Topics requested</h3>
 <ul>
@@ -284,10 +357,10 @@ You can contact me if you have any further question at &lt;&lt;michal_victoire@o
 <div id="looking-for-r-tutors" class="section level3">
 <h3><strong>Looking for R Tutors</strong></h3>
 <p>The following individuals are available to be hired as <strong>PRIVATE TUTORS</strong>. This list is created as a service for the members and the <strong>CalgaryR</strong> group does not take any responsibility for the hiring process. All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here. Note also that appearance of tutor’s name on this list does not guarantee of the tutor by the group.</p>
-<ul>
-<li>Dayne Sorvisto &lt;<a href="mailto:daynesorvisto@yahoo.ca">daynesorvisto@yahoo.ca</a>&gt;</li>
-<li>Kimberly Rondeau &lt;<a href="mailto:kim.rondeau@ualberta.ca">kim.rondeau@ualberta.ca</a>&gt;</li>
-</ul>
+<!-- 
+* Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
+* Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
+-->
 <p><br> <br></p>
 </div>
 <div id="other-communities-you-may-consider-to-go" class="section level3">

@@ -3,7 +3,7 @@ title: "**Career Connect**"
 output: html_document
 ---
 
-Please contact [Chel](mailto:imstatsbee@gmail.com) for maintaining this page.  Note that only Calgary-headquartered companies are listed here.  
+Note that only Calgary-headquartered companies are listed here.  
 
 <!-- The definition of **data scientist** is not well defined; however, this term is used in a very broad sense based on the contents noted on the following pages:
 

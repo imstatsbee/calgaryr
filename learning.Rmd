@@ -4,32 +4,6 @@ output: html_document
 ---
 <br>
 
-If you want to list your study group or project here, please email the brief description and your contact info to <<imstatsbee@gmail.com>>. 
-
-### [WANTED] Volunteer for 7th Canadian Statistics Student Conference Workshop 
-
-Posted on the behalf of Victoire Michal <<michal_victoire@orange.fr>> on January 24, 2019. 
-
-    The seventh annual **Canadian Statistics Student Conference** (CSSC) will take place on Saturday, May 25th, 2019 at the University of Calgary, Calgary, Alberta, the day before the Statistical Society of Canada 2019 Annual Meeting opens.
-    
-    This conference is all about engaging students through research presentations, statistical skill development workshops and talks, and an interactive career session with invited statisticians from different professional areas.
-    
-    On this year's program, we are pleased to announce a keynote address on interdisciplinary work and successful leadership in the statistical field, given by Professor Charmaine Dean, the vice president for research at the University of Waterloo. In addition to the student scientific program, a career panel with speakers from government, industry and academia will be held, as well as a skills session on the breach between statistics and data mining. We are also hoping to hold a fully interactive workshop on managing big data.
-    
-    We are contacting your **CalgaryR** because we think you are the perfect candidates for hosting the workshop. As mentioned above, this workshop should be fully interactive, which means that students must be able to reproduce everything the speaker presents on their own laptops. It should last an hour and a half. 
-    
-    The topic for this year's workshop is **Big Data** because being able to deal with huge datasets seems to be a very useful skill students should have. The students attending this conference may be undergraduates or graduates who would learn a new package or future employees who would benefit from an industry expert.
-    
-    We thought of packages in R such as Sparks of H20 but every suggestion from any of you is of course very welcome!
-    
-    Thank you for your attention.
-    
-    Victoire Michal,
-    MSc. Student at Université de Montréal,
-    Member of the CSSC Organizing Committee.
-    
-    You can contact me if you have any further question at <<michal_victoire@orange.fr>>. 
-
 ### Topics requested 
 
 * Kaggle Case Studies 
@@ -53,8 +27,10 @@ Numerous industries successfully apply Data Mining techniques to extract informa
 
 The following individuals are available to be hired as **PRIVATE TUTORS**.   This list is created as a service for the members and the **CalgaryR** group does not take any responsibility for the hiring process.   All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here.   Note also that appearance of tutor's name on this list does not guarantee of the tutor by the group.
 
+<!-- 
 * Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
 * Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
+-->
 
 <br>
 <br>

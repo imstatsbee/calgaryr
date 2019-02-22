@@ -29,10 +29,11 @@ output: html_document
 
 <br>
 
-## **Ongoing Community Projects**
+## **Personal Projects**
 
 1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
 
+2. **Writing about cities, urban planning, mapping, data visualization & creative coding** led by [Saadiq Mohiuddin](https://saadiqm.com/){target="_blank"} 
 
 <br>
 
