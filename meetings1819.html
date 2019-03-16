@@ -22,8 +22,9 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -99,9 +100,6 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
@@ -116,6 +114,7 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
+
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -135,43 +134,6 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -193,77 +155,18 @@ $(document).ready(function () {
 });
 </script>
 
+
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
 </script>
 
 <!-- code folding -->
+
 
 
 
@@ -338,12 +241,12 @@ $(document).ready(function () {
 <p>Dr. Alastair Muir has been using advanced analytics in management consulting engagements around the world for over fifteen years.</p>
 <p>He will show how to make a presentation to the executive on the project, to be followed by how to do the detective work necessary to create high performance, useful, and explainable models for an online banking application. The journey includes R, keras, LIME, and TensorFlow.</p>
 <p>From the Kaggle challenge, “According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception.”</p>
-<p>Bio - Alastair Muir, PhD, MBBI combine operations research, customer demand patterns, product and supply chain design, process improvement, Lean Six Sigma, data science and Business Intelligence. My business improvement process begins with an understanding of your most important business problems and ends with a meaningful and implementable plan for process change.I have delivered operational excellence, business solutions and strategies to Energy, Resource and Manufacturing companies in diverse, multicultural and international settings.• Over 20 years of experience in Operations, Supply Chain, Manufacturing, R&amp;D, Fraud Detection, Risk Assessment, Engineering, Nuclear</p>
+<p>Bio - Alastair Muir, PhD, MBBI combine operations research, customer demand patterns, product and supply chain design, process improvement, Lean Six Sigma, data science and Business Intelligence. My business improvement process begins with an understanding of your most important business problems and ends with a meaningful and implementable plan for process change.I have delivered operational excellence, business solutions and strategies to Energy, Resource and Manufacturing companies in diverse, multicultural and international settings.â€¢ Over 20 years of experience in Operations, Supply Chain, Manufacturing, R&amp;D, Fraud Detection, Risk Assessment, Engineering, Nuclear</p>
 <ul>
 <li>Lead development of Operational Excellence programs and governance for Fortune 50 companies</li>
 <li>Cost reductions and revenue enhancement &gt; 450$M</li>
-<li>Coached, mentored, and trained over 4,000 GE leaders. Instructor at GE’s corporate training facility in Crotonville, NY.</li>
-<li>Business Strategy Development – restructuring analysis of 300,000 people quoted by CEO in Wall Street Journal</li>
+<li>Coached, mentored, and trained over 4,000 GE leaders. Instructor at GEâ€™s corporate training facility in Crotonville, NY.</li>
+<li>Business Strategy Development â€“ restructuring analysis of 300,000 people quoted by CEO in Wall Street Journal</li>
 <li>Conducted briefings and strategic planning meetings with federal cabinet ministers and C-level executive.</li>
 <li>Project management with global teams in 14 countries worldwide</li>
 <li>“Lean Six Sigma Statistics”, McGraw-Hill 2006, defines the organizational requirements of a successful operational excellence program at the executive level. It includes the lessons learned for conducting successful transactional improvement projects.</li>
@@ -359,7 +262,7 @@ $(document).ready(function () {
 <p>Gas station prices are highly dependent on competition. Due to the nature of gasoline markets this competition is very local. Industry does not segment markets beyond the city level, potentially leaving profits on the table. Stations are also able to set their own prices to some extent (without the input from corporate), introducing variability into pricing. I use this variation to try and identify submarkts. I used python to scrap gasbuddy.com and pandas to clean the time-series data. I then imported the data into R and used the package tsclust to create a hierarchical cluster of the data based on euclidean distance and correlation. Other methods of clustering were investigated, most interestingly, dynamic time warping and Frechett Distance. These methods were abandoned because of their computationally expensive nature. I did not have the time or budget to set up my analysis on a large AWS cluster. I then set arbitrary cutoffs for the hierarchical clusters and used this classification as my labels. With these labels, created a KNN model to cluster the gas stations based on latitude and longitude. I then used a test set to validate the accuracy of my clustering algorithm. I had very promising results for gas stations that were very close to each other, however, I was unable to identify greater submarkets in a specific city (e.g., the north west of Calgary). I believe these poor results are due to the transient nature of markets and the poor quality of information gained from scrapping gasbuddy. Further analysis is needed to investigate how different clustering algorithms would work, along with diffferent hierarchical cutoff methods.</p>
 <p>Kai is a passionate cross-country ski racer and runs two learn to ski websites with his mother and a national level coach. He graduated from the University of Calgary with a BA-H in Economics and from City University of New York with a MS in Data Science. He currently works in the retail gasoline sector. Kai loves solving interesting and challenging problems and dreams of one day entering the healthcare sector.</p>
 <ul>
-<li>** Clouded Thoughts: Air Quality and Cognitive Performance**, by Arthur Novaes de Amorim</li>
+<li><strong>Clouded Thoughts: Air Quality and Cognitive Performance</strong>, by Arthur Novaes de Amorim</li>
 </ul>
 <p>This paper investigates the impact of air pollution on the quality of decision-making in tasks demanding a high degree of inductive reasoning. I exploit air pollution shocks in South Korea and Japan induced by natural phenomena called Asian dust storms to quantify the effect of air quality on the cognitive performance of expert players of the strategy board game Go. I develop performance measures in the game with the assistance of Leela Zero - a Go-playing artificial intelligence stronger than any human - as an expert evaluator of moves played by highly skilled humans. For players above 30 years of age, I find that exposure to an Asian dust storm increases the propensity to blunder by approximately 15 percent or, equivalently, 2 game moves. The effect dissipates for younger players, consistent with a well-established literature suggesting an older population is more vulnerable to health effects of air pollution. My finding suggests the heterogeneous effects of air pollution on cognitive performance of individuals potentially affects tournament outcomes and may thus lead to allocative inefficiencies.</p>
 <p>Arthur Novaes de Amorim is a PhD student in economics at the University of Calgary with interests at the intersection of environmental and behavioural economics. His research agenda is empirically-driven and focuses on applying concepts of statistical learning to unanswered questions of economist interest. Before starting his PhD, Arthur worked briefly as a research economist for Natural Resources Canada and extensively as a collaborative pianist and music teacher.</p></li>
@@ -384,15 +287,15 @@ $(document).ready(function () {
 <p>Microorganisms can have beneficial or detrimental impacts on a wide range of human activities, from our food and nutrients (outside and inside our bodies) to human-made infrastructure. Among the negative impacts on infrastructure, microbiologically influenced corrosion in upstream and downstream Oil &amp; Gas industry is a very relevant topic, especially for Alberta, given the close relationship that our province has with fossil fuels production. Some microorganisms, referred as sulfate-reducing microorganisms, are capable of using oil organics as a carbon source (cells building-block material) and respire chemical species present in oil/water, leading to the formation of corrosive compounds. When corrosion happens, it can cause oil spills and the interruption of oil and gas production, ultimately translated into billions of dollars in losses and a negative public image for the industry. Using nucleic acid-sequencing technologies and R, it is possible to identify what microorganisms are present in an oil sample and correlate their presence to environmental data (metadata) to generate very informative conclusions for the industry. The results can then be incorporated into the decision-making toolkit by operators as part of corrosion prevention/management in upstream and downstream operations.</p>
 <p>He is a data analyst/computatinoal biologist with a M.Sc. in environmental microbiology from the University of Calgary, and over seven years of experience doing what he likes the most in life: Finding patterns and correlations in complex data sets to answer often intricate questions. A biologist by training, Oscar has over four years of data analytics experience programing in R, with skills that include statistical analysis, advance graphics and report generation. Over the last three years, Oscar has been the sessional lecturer for a graduate-level course on R programing language at the University of Calgary, where he is also doing his Ph.D. on microbiologically influenced corrosion of pipelines. Oscar also has experience with the development of habitat exclusion programs of black vultures (Coragyps atratus) in a landfill, and the use of macroinvertebrates as water quality indicators, and fish characterization.</p>
 <p>Talk 2. <strong>Some Common and Less Common Measures of Correlations and their Implementation in the R Language</strong>, by Thomas Speidel</p>
-<p>Correlation is not causation; but it surely is a sign (Good, Hardin. Common Errors in Statistics and How to Avoid Them. Wiley; fourth edition 2012). Measures of correlation are common in many scientific fields as an exploratory tool used to quantify the strength of association between pairs of variables. The ubiquitous Pearson’s correlation coefficient is the default correlation measure in most analytical packages. However, there are more flexible measures in order to cover the eventuality of outliers, non-linear relationships, the type of quantitative variables, or other nuances in the data. In this talk, we will illustrate some common and less common measures of correlations and their applications in R. Time permitting, we will touch upon correlation in time series data where common measures applied to independent data are not appropriate in the presence of dependent data.</p>
+<p>Correlation is not causation; but it surely is a sign (Good, Hardin. Common Errors in Statistics and How to Avoid Them. Wiley; fourth edition 2012). Measures of correlation are common in many scientific fields as an exploratory tool used to quantify the strength of association between pairs of variables. The ubiquitous Pearsonâ€™s correlation coefficient is the default correlation measure in most analytical packages. However, there are more flexible measures in order to cover the eventuality of outliers, non-linear relationships, the type of quantitative variables, or other nuances in the data. In this talk, we will illustrate some common and less common measures of correlations and their applications in R. Time permitting, we will touch upon correlation in time series data where common measures applied to independent data are not appropriate in the presence of dependent data.</p>
 <p>He is a Canadian statistician and data scientist, working for Suncor Energy. For nearly a decade he has served as an applied cancer Statistician. Passionate about statistical literacy, he has brought his expertise to the Oil and Gas industry helping engineers and other professionals bridge the gap between the data and the information they need. Thomas’ expertise are in the area of predictive and explanatory modelling, time to event analysis, reproducibility and visualizations.</p></li>
 </ul>
 <p><br></p>
 <ul>
 <li><p>2018-DEC-19 <strong>R and the Undocumented NHL API</strong></p>
 <p><strong>Brett Wiens</strong> will present on his hobby analysing NHL statistics using the Undocumented NHL Stats API. The NHL has made extraordinary amounts of information available about teams, players, games, and even individual plays. Cleaned and organized, this is an extremely rich source of raw data that can be used for all sorts of analytics.</p>
-<p>Steeped in tradition, the NHL is a lush breeding ground for gut-based decision making, and “because-we’ve-always-done-it-that-way” thinking. Brett has developed a series of scripts, modules, and functions in R that gather, process, clean, and present this information with easy-to-digest visualizations through a Shiny interface. This presentation will touch on the collection of data, how it was cleaned and processed, some learnings made along the way, and ultimately the Shiny application to visualize information.</p>
-<p>Brett Wiens is a graduate of the Masters of Geographic Information Systems program at the University of Calgary and an avid Calgary Flames fan. He is a data scientist in Cenovus Energy’s Innovation and Analytics team.</p>
+<p>Steeped in tradition, the NHL is a lush breeding ground for gut-based decision making, and â€œbecause-weâ€™ve-always-done-it-that-wayâ€ thinking. Brett has developed a series of scripts, modules, and functions in R that gather, process, clean, and present this information with easy-to-digest visualizations through a Shiny interface. This presentation will touch on the collection of data, how it was cleaned and processed, some learnings made along the way, and ultimately the Shiny application to visualize information.</p>
+<p>Brett Wiens is a graduate of the Masters of Geographic Information Systems program at the University of Calgary and an avid Calgary Flames fan. He is a data scientist in Cenovus Energyâ€™s Innovation and Analytics team.</p>
 <p><strong>Tolu Sajobi</strong> is a professor in Community Health Epidemiology. He would like to discuss a proposed training program in data analytics. Some potential opportunities for collaboration among academic and industry experts will be discussed.</p>
 <p><strong>Theresa Smith</strong> is an environmental engineer who went back to school after the 2015 downturn. She graduated from a Masters in Business Analytics in 2017 and has been working at TransAlta for over a year as a data scientist. She has recently started a meetup group Women in Big Data (<a href="https://www.meetup.com/Women-in-Big-Data-Calgary/" class="uri">https://www.meetup.com/Women-in-Big-Data-Calgary/</a>). This group is a chapter of the larger Women in Big Data organization started by some bright minds at IBM in Seattle. The group aims to facilitate the advancement of women in STEM and data science through learning and networking opportunities.</p>
 <p>RSVP via meetup at <a href="https://www.meetup.com/Calgary-R-User-Group/events/257043155/" class="uri">https://www.meetup.com/Calgary-R-User-Group/events/257043155/</a></p></li>
@@ -403,8 +306,8 @@ $(document).ready(function () {
 <p>This month we have three talks. The first is an applications of machine learning in SAGD reservoirs. The Second is a summary of the recent Untapped Energy Datathon. We’ll close out with a summary from the PIMS datathon.</p>
 <p><strong>Jamal Bajwa</strong> will present on: SAGD (Steam-Assisted Gravity Drainage) is a popular recovery method used in reservoirs containing Bitumen. Majority of the in-situ Oil Sands projects in Alberta use SAGD as their primary recovery method. While significant work has been done in the last two decades to improve first-principles modelling of recovery from SAGD-operated reservoirs, little has been done to systematically leverage operating data to inject steam optimally. In this work, we attempt to use modern machine learning methods to create empirical models for oil production as a function of steam injection. The production models serve as an input to an overarching optimization model that recommends optimal steam distribution across a well pad. The model development process is complete and the models are currently being put into production at Nexen’s Long Lake facility.</p>
 <p><strong>Marc Boulet</strong> will present a summary on:<br />
-The Untapped Energy datathon where 3 teams chose to address one of these five topics in the oil and gas industry: Social license: Are sentiments towards large-scale pipeline projects TO BE BELIEVED? - Aging Infrastructure: Finding the factors that contribute to FAILURES and EFFICIENCY of wells, pipelines and facilities. Repurposing of Infrastructure: Finding the next life of suspended or abandoned wells - GEOTHERMAL, BABY! Health &amp; Safety: Safety data is not a competitive advantage - but safety can support an INDUSTRY ADVANTAGE. New Business Models: Markets where data is made public/widely shared outperform markets that don’t - WE’LL PROVE IT!</p>
-<p><strong>Ben Reeves</strong> and <strong>Cliff Sobchuk</strong> will present a summary on: The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgary’s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.</p>
+The Untapped Energy datathon where 3 teams chose to address one of these five topics in the oil and gas industry: Social license: Are sentiments towards large-scale pipeline projects TO BE BELIEVED? - Aging Infrastructure: Finding the factors that contribute to FAILURES and EFFICIENCY of wells, pipelines and facilities. Repurposing of Infrastructure: Finding the next life of suspended or abandoned wells - GEOTHERMAL, BABY! Health &amp; Safety: Safety data is not a competitive advantage - but safety can support an INDUSTRY ADVANTAGE. New Business Models: Markets where data is made public/widely shared outperform markets that donâ€™t - WE’LL PROVE IT!</p>
+<p><strong>Ben Reeves</strong> and <strong>Cliff Sobchuk</strong> will present a summary on: The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgaryâ€™s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.</p>
 <p>RSVP via meetup at <a href="https://www.meetup.com/Calgary-R-User-Group/events/255956421/" class="uri">https://www.meetup.com/Calgary-R-User-Group/events/255956421/</a></p></li>
 </ul>
 <p><br></p>
