@@ -4,29 +4,7 @@ output: html_document
 ---
 
 
-* 2019-MAR-20  **Beating the World's Best in the Santander Bank Customer Value Prediction Competition**
-
-    Dr. Alastair Muir has been using advanced analytics in management consulting engagements around the world for over fifteen years.
- 
-    He will show how to make a presentation to the executive on the project, to be followed by how to do the detective work necessary to create high performance, useful, and explainable models for an online banking application. The journey includes R, keras, LIME, and TensorFlow.
-
-    From the Kaggle challenge, "According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception."
-
-
-    Bio - Alastair Muir, PhD, MBBI combine operations research, customer demand patterns, product and supply chain design, process improvement, Lean Six Sigma, data science and Business Intelligence. My business improvement process begins with an understanding of your most important business problems and ends with a meaningful and implementable plan for process change.I have delivered operational excellence, business solutions and strategies to Energy, Resource and Manufacturing companies in diverse, multicultural and international settings.• Over 20 years of experience in Operations, Supply Chain, Manufacturing, R&D, Fraud Detection, Risk Assessment, Engineering, Nuclear
-    
-    * Lead development of Operational Excellence programs and governance for Fortune 50 companies
-    * Cost reductions and revenue enhancement > 450$M
-    * Coached, mentored, and trained over 4,000 GE leaders. Instructor at GE’s corporate training facility in Crotonville, NY.
-    * Business Strategy Development – restructuring analysis of 300,000 people quoted by CEO in Wall Street Journal
-    * Conducted briefings and strategic planning meetings with federal cabinet ministers and C-level executive.
-    * Project management with global teams in 14 countries worldwide
-    * "Lean Six Sigma Statistics", McGraw-Hill 2006, defines the organizational requirements of a successful operational excellence program at the executive level. It includes the lessons learned for conducting successful transactional improvement projects.
-    * Patented EDGE AI for solid state toxic gas detection
-
-<br>
-
-* 2019-APR-17 **Gas Price Micro Market** / **Air Quality and Cognitive Performance**
+* 2019-APR-17 [**Gas Price Micro Market** / **Air Quality and Cognitive Performance**](https://www.meetup.com/calgaryr/events/259954229/){target="_blank"}
 
 	* **Gas Price Micro Markets**, by Kai Lukowiak
 	
@@ -42,29 +20,50 @@ output: html_document
 
 <br>
 
-* 2019-MAY-22  looking for volunteers (checking)
-* 2019-JUN-19  looking for volunteers (checking)
+
+* 2019-MAR-20  [**Beating the World's Best in the Santander Bank Customer Value Prediction Competition**](https://www.meetup.com/calgaryr/events/259163330/){target="_blank"}
+
+    [[**Presentation is now available**](./slides/c1819/20190320_alastair_muir.pdf){target="_blank"}]
+
+    Dr. Alastair Muir has been using advanced analytics in management consulting engagements around the world for over fifteen years.
+ 
+    He will show how to make a presentation to the executive on the project, to be followed by how to do the detective work necessary to create high performance, useful, and explainable models for an online banking application. The journey includes R, keras, LIME, and TensorFlow.
+
+    From the Kaggle challenge, "According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception."
+    
+<center>
+<img src="./slides/C1819/20190320_01.png" height="400" width="400">
+<img src="./slides/C1819/20190320_02.png" height="400" width="400">
+</center>
+
 
 <br>
 
-* 2019-FEB-20 **Predicting Traffic Collisions in Calgary using Open Data and Machine Learning**
+
+
+* 2019-FEB-20 [**Predicting Traffic Collisions in Calgary using Open Data and Machine Learning**](https://www.meetup.com/calgaryr/events/258719485/){target="_blank"}
+
+    [[**Presentation is now available**](./slides/c1819/20190220_saadip_moiuddin.pdf){target="_blank"}]
 
     Saadiq Mohiuddin will speak about his recent project Predicting Traffic Collisions in Calgary using Open Data and Machine Learning. He'll walk through some exploratory data analysis and how he created the visualization using Tensorflow and Mapbox.
 Saadiq Mohiuddin (@saadiqmohiuddin) is a transportation engineer at the City of Calgary with an interest in data visualization, machine learning and deep learning and using technology to better understand mobility in cities. He blogs at http://www.saadiqm.com.
 This project has garnered quite a bit of interest and was featured in a CBC article:
 https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.4852286
 
+<center>
+<img src="./slides/C1819/20190220_01.png" height="400" width="400">
+<img src="./slides/C1819/20190220_02.png" height="400" width="400">
+</center>
+
+
     As a second speaker of the night Dr. Chel Lee will provide a short tutorial on creating a neural network in R. It will be about 20-30 minutes long and will go through the steps on creating your first neural network and some of the things to be aware of when using them.
 
 <br>
 
 
-* 2019-JAN-16  **Using R, Risk assessment in Oil&Gas and More about measures of association**
+* 2019-JAN-16  [**Using R, Risk assessment in Oil&Gas and More about measures of association**](https://www.meetup.com/calgaryr/events/257559711/){target="_blank"}
 
     We have two talks contributed by **Oscar Montoya** (data analyst/computational biologist) and **Thomas Speidel** (data scientists and statistician at Suncor Energy). Please join us for pizza at 6 pm.
-
-    RSVP at https://www.meetup.com/Calgary-R-User-Group/events/257559711/
-
 
     Talk 1. **Using R to assess the risk of microbiologically influenced corrosion in the Oil & Gas industry**, by Oscar Montaya
 
@@ -81,7 +80,7 @@ https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.485228
 
 <br>
 
-* 2018-DEC-19  **R and the Undocumented NHL API**
+* 2018-DEC-19  [**R and the Undocumented NHL API**](https://www.meetup.com/calgaryr/events/257043155/){target="_blank"}
 
     **Brett Wiens** will present on his hobby analysing NHL statistics using the Undocumented NHL Stats API. The NHL has made extraordinary amounts of information available about teams, players, games, and even individual plays. Cleaned and organized, this is an extremely rich source of raw data that can be used for all sorts of analytics.
 
@@ -93,17 +92,22 @@ https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.485228
 
     **Theresa Smith** is an environmental engineer who went back to school after the 2015 downturn. She graduated from a Masters in Business Analytics in 2017 and has been working at TransAlta for over a year as a data scientist. She has recently started a meetup group Women in Big Data (https://www.meetup.com/Women-in-Big-Data-Calgary/). This group is a chapter of the larger Women in Big Data organization started by some bright minds at IBM in Seattle. The group aims to facilitate the advancement of women in STEM and data science through learning and networking opportunities.
     
-    RSVP via meetup at https://www.meetup.com/Calgary-R-User-Group/events/257043155/
-
-
 <br>
 
 
-* 2018-NOV-21  **Modern machine learning methods in SAGD, PIMS and Energy Datathon Summaries**
+* 2018-NOV-21  [**Modern machine learning methods in SAGD, PIMS and Energy Datathon Summaries**](https://www.meetup.com/calgaryr/events/255956421/){target="_blank"}
+
+    [[**Presentation is now available**](./slides/c1819/20181121_jamal_bajwa.pdf){target="_blank"}]
 
     This month we have three talks. The first is an applications of machine learning in SAGD reservoirs. The Second is a summary of the recent Untapped Energy Datathon. We'll close out with a summary from the PIMS datathon.
 
     **Jamal Bajwa** will present on:  SAGD (Steam-Assisted Gravity Drainage) is a popular recovery method used in reservoirs containing Bitumen. Majority of the in-situ Oil Sands projects in Alberta use SAGD as their primary recovery method. While significant work has been done in the last two decades to improve first-principles modelling of recovery from SAGD-operated reservoirs, little has been done to systematically leverage operating data to inject steam optimally. In this work, we attempt to use modern machine learning methods to create empirical models for oil production as a function of steam injection. The production models serve as an input to an overarching optimization model that recommends optimal steam distribution across a well pad. The model development process is complete and the models are currently being put into production at Nexen's Long Lake facility.
+    
+    <center>
+<img src="./slides/C1819/20181121_01.png" height="400" width="400">
+<img src="./slides/C1819/20181121_02.png" height="400" width="400">
+</center>
+
 
 
     **Marc Boulet** will present a summary on:  
@@ -118,11 +122,11 @@ https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.485228
     **Ben Reeves** and **Cliff Sobchuk** will present a summary on:
     The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgary’s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.
     
-    RSVP via meetup at https://www.meetup.com/Calgary-R-User-Group/events/255956421/
-
 <br>
 
-* 2018-OCT-17  **Identification and prediction of health-related quality of life trajectories after a prostate cancer diagnosis**, by Megan Farris, Research Associate at the MEDLIOR Health Outcomes Research Ltd.
+* 2018-OCT-17  [**Identification and prediction of health-related quality of life trajectories after a prostate cancer diagnosis**](https://www.meetup.com/calgaryr/events/254987928/){target="_blank"}, by Megan Farris, Research Associate at the MEDLIOR Health Outcomes Research Ltd.
+
+    [[**Presentation is now available**](./slides/c1819/20181017_megan_farris.pdf){target="_blank"}]
 
     RSVP via meetup at https://www.meetup.com/Calgary-R-User-Group/events/254987928/
     
@@ -135,12 +139,20 @@ https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.485228
     **Results**: Three trajectories of physical HRQoL were identified including: average-maintaining HRQoL (32.2%), low-declining HRQoL (40.5%) and very low-maintaining HRQoL (27.3%). In addition, three trajectories for mental HRQoL were identified: average-increasing HRQoL (66.5%), above average-declining HRQoL (19.7%) and low-increasing HRQoL (13.8%). In both physical and mental HRQoL, dropout from mortality/poor health differed between trajectories, thus confirming HRQoL and mortality were related. Furthermore, increased Charlson comorbidity index score was consistently associated with physical and mental HRQoL group membership relative to average maintaining groups, while behaviours such as time-varying physical activity was associated with physical HRQoL trajectories but not mental HRQoL trajectories.
     
     **Conclusion**: It was possible to define three trajectories of physical and mental HRQoL after prostate cancer. These data provide insights regarding means for identifying subgroups of prostate cancer survivors with lower or declining HRQoL after diagnosis whom could be targeted for interventions aimed at improving HRQoL.
+
+
+<center>
+<img src="./slides/C1819/20181017_01.png" height="400" width="400">
+<img src="./slides/C1819/20181017_02.png" height="400" width="400">
+</center>
     
 
 <br>
 
 
-* 2018-SEP-19  Spatial-Temporal Gaussian Processes for Wind Power Generation, by Yilan Luo, MSc Candidate, Mathematics and Statistics, University of Calgary
+* 2018-SEP-19  [**Spatial-Temporal Gaussian Processes for Wind Power Generation**](https://www.meetup.com/calgaryr/events/254176561/){}, by Yilan Luo, MSc Candidate, Mathematics and Statistics, University of Calgary
+
+    [[**Presentation is now available**](./slides/c1819/20190919_yilan_luo.pdf){target="_blank"}]
 
     Wind is one of renewable and green energy sources contributing to Alberta's energy program and economics. We are interested in the spatio-temporal feature of wind power generation. Gasussian process is utilized to model this feature. 
     
@@ -148,9 +160,10 @@ https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.485228
     
     A simple Kriging technique is used to demonstrate the performance of models when forecasting the future wind generation for both an existing wind farm and a new farm. RMSE and MAE are used to measure the accuracy of prediction. Finally, we are sharing our experiences on the choice of best practical scenario of new wind farms based on the aggregate wind power generation.
     
-    RSVP via our meetup https://www.meetup.com/Calgary-R-User-Group/events/254176561/ 
-
-
+<center>
+<img src="./slides/C1819/20180919_01.png" height="400" width="400">
+<img src="./slides/C1819/20180919_02.png" height="400" width="400">
+</center>
 
 <br>
  
