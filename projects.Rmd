@@ -35,6 +35,8 @@ output: html_document
 
 2. **Writing about cities, urban planning, mapping, data visualization & creative coding** led by [Saadiq Mohiuddin](https://saadiqm.com/){target="_blank"} 
 
+3. **A project to design and maintain a standardized, R based, slide presentation format. The project is currently based in Xaringan written by Yihui Xie at Rstudio** led by [Dylan Loader](https://github.com/DylanLoader/CalgaryR-presentation){target="_blank"}
+
 <br>
 
 
