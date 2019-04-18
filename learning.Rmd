@@ -69,4 +69,4 @@ There are excellent communities in Calgary.  Please visit the following:
 * [Data for Good Community](https://www.meetup.com/Data-for-Good-Calgary){target="_blank"}
 * [SAS Users Group](https://www.sas.com/en_ca/user-groups/csug.html){target="_blank"}
 * [Alberta Data Architecture](http://albertadataarchitecture.org/){target="_blank"}
-
+* [DAMA Calgary Association](http://www.dama-calgary.org/home.html){target="_blank"}
