@@ -22,7 +22,10 @@ We could not continue our activities withtout the following sponsors:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](./img/webhorizfulllarge.png){width=250px}](https://www.pims.math.ca/){target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 [![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](./img/RConsortium_Horizontal_Pantone.png){width=250px}](https://www.r-consortium.org/){target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br>
