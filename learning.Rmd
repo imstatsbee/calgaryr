@@ -1,30 +1,18 @@
 ---
 title: "**Study Together**"
 output: html_document
+editor_options: 
+  chunk_output_type: inline
 ---
 <br>
 
-
 ### Pinned Post 
 
-The following is posted on the behalf of Professor Karen Kopciuk.  Any questions about the STEM fellowship or mentorship should be addressed to Fady Mina, the BDC project coordinator at fady.mina@ucalgary.ca.
+<!-- ![](./img/cybera_dsfellowship.png)-->
 
-    **UNDERGRADUATE BIG DATA CHALLENGE 2019 - BIG DATA of RECREATIONAL DRUGS
-    TORONTO AND CALGARY** 
-    
-    STEM Fellowship's Big Data Challenge (BDC) for undergraduate students is a unique inquirydriven and experiential learning program that invites students from across the country to strengthen their analytical and inquiry skills while gaining familiarity with the fundamentals of data science. By allowing students to undertake independent research projects that tackle real-world public health and bioinformatics problems, the challenge fosters scientific inquiry and prompts the consideration of new and innovative ideas. 
-    
-    Teams of up to 4 students each are provided with data sets, tools for data analysis, as well as the general topic or overarching goal. Teams then undertake exploratory data analysis or test a hypothesis about their data with the guidance of mentors from industry and academia. At the end of the competition, teams submit research projects through Overleaf (a leading scholarly collaboration/communication tool) and present their findings to a panel of industry and academic experts in the field. Please note that this challenge takes place online, excluding the finale event. 
-    
-    PROBLEM STATEMENT
-    
-    This year’s competition is our first inter-provincial and cross-university Big Data Challenge. It will encourage undergraduate students to explore a computer-based approach to the pharmacokinetics and pharmacodynamics of recreational drugs, and quantify their xenobiotic effects as well as the impact exerted by these drugs on human health and on society. The challenge will be based on the analysis of open data from Health Canada, United Nations Office on Drugs and Crime, Drug Bank, the National Cancer Institute, Google Data Search, and other open
-    data sources identified by students. Information about the competition theme and timeline can be found here.
-    
-    PRIZES
-    
-    Scholarly publication of all project abstracts and full manuscripts of winning projects in our peerreviewed, open access STEM Fellowship Journal, published by NRC Research Press. Monetary prizes valued at $1000, sponsored by Roche Research internships at Roche MORE DETAILS AT: https://undergradbdc2019.eventbrite.ca
-    
+[![](./img/01.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
+[![](./img/02.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
+[![](./img/03.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
 
 
 ### Topics requested 
