@@ -4,10 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Be Our Speaker"
-      href: be_speaker.html
+    - text: "Wishlist"
+      href: wishlist.html
     - text: "Meetings"
-      icon: fa-gear
       menu:
         - text: "2018-2019"
           href: meetings1819.html
@@ -15,10 +14,10 @@ navbar:
           href: meetings1718.html
     - text: "Projects"
       href: projects.html
-    - text: "Learning"
-      href: learning.html
+    - text: "Studies"
+      href: studies.html
     - text: "Career Connect"
-      href: jobs.html
+      href: careerdev.html
     - text: "DATATHON"
       href: datathon.html
 output:

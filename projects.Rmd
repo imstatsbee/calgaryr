@@ -1,5 +1,5 @@
 ---
-title: "**For Community**"
+title: "**Community Projects**"
 output: html_document
 ---
 
