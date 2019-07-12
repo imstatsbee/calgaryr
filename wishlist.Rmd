@@ -1,0 +1,56 @@
+---
+title: "**Be Our Speaker**"
+output: html_document
+---
+
+**CalgaryR** is looking for a **voluntary speaker** who would like to provide a tutorial, introduce an interesting problem, or build a partnership to work together.   The examples are as below:
+
+* Applications of statistical modelling, data mining, and machine learning techniques
+* Anything that R cannot do or R is not efficient on your work
+* Techniques needed for big data analysis, management, and data cleaning, etc 
+* Software engineerning needed for integrating R in other environment, objective-oriented programming, package development and documentation, debugging, and interfacing with other languages, etc. 
+* Advanced techniques in reproducible research, parallel computing, scientific computing, and operational research, etc. 
+* Viusalization method and communication 
+
+
+
+#### **Topics requested**
+
+Please contact one of organizers to request a topic.  We are searching for speakers 
+
++ Disease mapping 
++ Building a package 
++ Data management and preprocessing 
++ Outbreak detection 
++ Text-mining 
++ Time-series analysis 
++ Population size estimation 
++ Parallel computation 
++ Collaborative work using GitHub 
++ Interfacing C++ with R 
++ Machine learning topics 
+    + Decision tree 
+    + Naive Bayes 
+    + Neural network 
+    + Random Forest 
++ Social network analysis 
++ Practical implementation of model evaluation 
+    + cross-validation 
++ Predictive modeling 
+    + modern regression model techniques 
+    + logistic regression 
++ Visualization techniques 
++ Quality control 
++ Latent class or mixture modeling 
+    + model-based classification techniques 
+    + latent class model / finite mixture model
+    + latent trajectory analysis / finite regression model 
++ Sports data analysis 
++ Probability models 
++ Imaging process 
++ Signal analysis 
++ Agreement between two measurement systems 
++ Advanced data cleaning and management techniques 
++ R on high performance computing environment 
++ Sample size calculation 
+

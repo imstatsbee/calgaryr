@@ -1,0 +1,72 @@
+---
+title: "**Career Connect**"
+output: html_document
+---
+
+
+## Postings
+
+Note that only Calgary-headquartered companies are listed here.  
+
+<!-- The definition of **data scientist** is not well defined; however, this term is used in a very broad sense based on the contents noted on the following pages:
+
+* [What is a data scientist? 14 definitions of a data scientist!](http://bigdata-madesimple.com/what-is-a-data-scientist-14-definitions-of-a-data-scientist/){target="_blank"}
+* [Data science from Wikipedia](https://en.wikipedia.org/wiki/Data_science){target="_blank"}
+* [What is data science? A data science definition](https://www.springboard.com/blog/data-science-definition/){target="_blank"}
+
+
+The following criteria are considered to list 
+
+* Does this company need data scientist?  (What kinds of tasks are carried out by the data scientists?)
+* Does this company provide opportunities for training/education for future data scientists?
+
+-->
+
+<br>
+
+[**AESO**](https://www.aeso.ca/){target="_blank"}
+
+<br>
+
+[**Alberta Health Services**](http://albertahealthservices.ca){target="_blank"}
+
+<br>
+
+[**ATB Financial**](https://www.atb.com/Pages/default.aspx){target="_blank"}
+
+<br>
+
+[**ATCO**](https://www.atco.com/){target="_blank"}
+
+<br>
+
+[**Cadeon**](http://cadeon.com/){target="_blank"}
+
+<br>
+
+[**Cenovus**](http://cenovus.com/){target="_blank"}
+
+<br>
+
+[**Enbridge**](http://www.enbridge.com/){target="_blank"}
+
+<br>
+
+[**Husky Energy**](){target="_blank"}
+
+<br>
+
+[**Imperial Oil**](https://www.imperialoil.ca/){target="_blank"}
+
+<br>
+
+[**Matrix Solutions Inc.**](https://www.matrix-solutions.com/){target="_blank"}
+
+<br>
+
+[**RS Energy Group**](https://www.rseg.com/about/careers){target="_blank"}
+
+<br>
+
+[**TransCanada**](https://www.transcanada.com/){target="_blank"}
+<br>
