@@ -4,22 +4,48 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Wishlist"
-      href: wishlist.html
     - text: "Meetings"
       menu:
+        - text: "Wishlist"
+          href: wishlist.html
+        - text: "2019-2020"
+          href: meetings1920.html
         - text: "2018-2019"
           href: meetings1819.html
         - text: "2017-2018"
           href: meetings1718.html
     - text: "Projects"
-      href: projects.html
-    - text: "Studies"
-      href: studies.html
+      menu: 
+        - text: "Intake"
+          href: intake.html
+        - text: "In Progress"
+          href: inprogress.html
+        - text: "Case Studies"
+          href: casestudies.html
+        - text: "Workshops"
+          href: workshops.html
+    - text: "SIG"
+      menu:
+        - text: "R-Meds"
+          href: rmeds.html
+        - text: "R-Energy"
+          href: renergy.html
+        - text: "R-Green"
+          href: rgreen.html
+        - text: "R-Geospatial"
+          href: rgeosptial.html
+        - text: "R-Women"
+          href: rwomen.html
+        - text: "R-Finance"
+          href: rfinance.html 
     - text: "Career Connect"
       href: careerdev.html
-    - text: "DATATHON"
-      href: datathon.html
+    - text: "Events"
+      menu:
+        - text: "CalgaryR 2020 Meeting"
+          href: calgaryr2020.html 
+        - text: "PIMS 2018 Datathon"
+          href: pims2018datathon.html
 output:
   html_document:
     theme: readable # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
