@@ -16,14 +16,14 @@ navbar:
           href: meetings1718.html
     - text: "Projects"
       menu: 
-        - text: "Intake"
-          href: intake.html
         - text: "In Progress"
           href: inprogress.html
         - text: "Case Studies"
           href: casestudies.html
         - text: "Workshops"
           href: workshops.html
+        - text: "Intake"
+          href: intake.html
     - text: "SIG"
       menu:
         - text: "R-Meds"
@@ -32,14 +32,16 @@ navbar:
           href: renergy.html
         - text: "R-Green"
           href: rgreen.html
-        - text: "R-Geospatial"
-          href: rgeosptial.html
         - text: "R-Women"
           href: rwomen.html
         - text: "R-Finance"
           href: rfinance.html 
-    - text: "Career Connect"
-      href: careerdev.html
+    - text: "Connect"
+      menu:
+        - text: "Fellowship"
+          href: fellowship.html
+        - text: "Companies"
+          href: careerdev.html
     - text: "Events"
       menu:
         - text: "CalgaryR 2020 Meeting"
