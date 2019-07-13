@@ -1,0 +1,8 @@
+---
+title: "R Medicine"
+output: html_document
+---
+
+Canadian Health Information Center 
+
+* infectious disease model 

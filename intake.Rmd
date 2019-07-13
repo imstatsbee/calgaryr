@@ -1,0 +1,31 @@
+---
+title: "**Community Projects**"
+output: html_document
+---
+
+<br>
+
+## Open Data Projects 
+
+### Data Sources 
+
+* [AESO](ets.aeso.ca){target="_blank"}
+
+* [Alberta Government Open Data](https://economicdashboard.alberta.ca/OilPrice){target="_blank"}
+
+* [Alberta Energy Regulator](https://www.aer.ca/providing-information/data-and-reports/statistical-reports){target="_blank"}
+
+* [ABMI](http://www.abmi.ca/home/data-analytics/da-top/da-product-overview){target="_blank"}
+
+* [City of Calgary - Open Calgary](https://data.calgary.ca/){target="_blank"}.  
+
+* [Calgary Civic Census](http://www.calgary.ca/CA/city-clerks/Pages/Election-and-information-services/Civic-Census/CensusResults.aspx){target="_blank"}
+
+* [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
+
+* [Data Hub from National Energy Board](https://www.neb-one.gc.ca/rsrccntr/dthb/index-eng.html){target="_blank"}
+
+* [Market Data from TMX WebStore for TSX and TSXV](https://www.tmxwebstore.com/products/#q=%7Cc=44%7Cm=%7Cpage=1){target="_blank"}
+
+<br>
+
