@@ -28,4 +28,3 @@ output: html_document
 * [Market Data from TMX WebStore for TSX and TSXV](https://www.tmxwebstore.com/products/#q=%7Cc=44%7Cm=%7Cpage=1){target="_blank"}
 
 <br>
-

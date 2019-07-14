@@ -44,7 +44,7 @@ navbar:
           href: careerdev.html
     - text: "Events"
       menu:
-        - text: "CalgaryR 2020 Meeting"
+        - text: "Meeting 2020"
           href: meeting2020.html 
         - text: "PIMS 2018 Datathon"
           href: pims2018datathon.html
