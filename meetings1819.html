@@ -70,7 +70,9 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -95,9 +97,6 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
@@ -112,6 +111,7 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
+
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -131,43 +131,6 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -189,85 +152,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
 });
 </script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -424,7 +321,7 @@ $(document).ready(function () {
 <p>From the Kaggle challenge, “According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception.”</p></li>
 </ul>
 <center>
-<img src="./slides/C1819/20190320_01.png" height="400" width="400"> <img src="./slides/C1819/20190320_02.png" height="400" width="400">
+<img src="slides/c1819/20190320_01.png" height="400" width="400"> <img src="slides/c1819/20190320_02.png" height="400" width="400">
 </center>
 <p><br></p>
 <ul>
@@ -433,7 +330,7 @@ $(document).ready(function () {
 <p>Saadiq Mohiuddin will speak about his recent project Predicting Traffic Collisions in Calgary using Open Data and Machine Learning. He’ll walk through some exploratory data analysis and how he created the visualization using Tensorflow and Mapbox. Saadiq Mohiuddin (<span class="citation">@saadiqmohiuddin</span>) is a transportation engineer at the City of Calgary with an interest in data visualization, machine learning and deep learning and using technology to better understand mobility in cities. He blogs at <a href="http://www.saadiqm.com" class="uri">http://www.saadiqm.com</a>. This project has garnered quite a bit of interest and was featured in a CBC article: <a href="https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.4852286" class="uri">https://www.cbc.ca/news/canada/calgary/forecasting-car-crashes-data-map-1.4852286</a></p></li>
 </ul>
 <center>
-<img src="./slides/C1819/20190220_01.png" height="400" width="400"> <img src="./slides/C1819/20190220_02.png" height="400" width="400">
+<img src="slides/c1819/20190220_01.png" height="400" width="400"> <img src="slides/c1819/20190220_02.png" height="400" width="400">
 </center>
 <pre><code>As a second speaker of the night Dr. Chel Lee will provide a short tutorial on creating a neural network in R. It will be about 20-30 minutes long and will go through the steps on creating your first neural network and some of the things to be aware of when using them.</code></pre>
 <p><br></p>
@@ -444,15 +341,15 @@ $(document).ready(function () {
 <p>Microorganisms can have beneficial or detrimental impacts on a wide range of human activities, from our food and nutrients (outside and inside our bodies) to human-made infrastructure. Among the negative impacts on infrastructure, microbiologically influenced corrosion in upstream and downstream Oil &amp; Gas industry is a very relevant topic, especially for Alberta, given the close relationship that our province has with fossil fuels production. Some microorganisms, referred as sulfate-reducing microorganisms, are capable of using oil organics as a carbon source (cells building-block material) and respire chemical species present in oil/water, leading to the formation of corrosive compounds. When corrosion happens, it can cause oil spills and the interruption of oil and gas production, ultimately translated into billions of dollars in losses and a negative public image for the industry. Using nucleic acid-sequencing technologies and R, it is possible to identify what microorganisms are present in an oil sample and correlate their presence to environmental data (metadata) to generate very informative conclusions for the industry. The results can then be incorporated into the decision-making toolkit by operators as part of corrosion prevention/management in upstream and downstream operations.</p>
 <p>He is a data analyst/computatinoal biologist with a M.Sc. in environmental microbiology from the University of Calgary, and over seven years of experience doing what he likes the most in life: Finding patterns and correlations in complex data sets to answer often intricate questions. A biologist by training, Oscar has over four years of data analytics experience programing in R, with skills that include statistical analysis, advance graphics and report generation. Over the last three years, Oscar has been the sessional lecturer for a graduate-level course on R programing language at the University of Calgary, where he is also doing his Ph.D. on microbiologically influenced corrosion of pipelines. Oscar also has experience with the development of habitat exclusion programs of black vultures (Coragyps atratus) in a landfill, and the use of macroinvertebrates as water quality indicators, and fish characterization.</p>
 <p>Talk 2. <strong>Some Common and Less Common Measures of Correlations and their Implementation in the R Language</strong>, by Thomas Speidel</p>
-<p>Correlation is not causation; but it surely is a sign (Good, Hardin. Common Errors in Statistics and How to Avoid Them. Wiley; fourth edition 2012). Measures of correlation are common in many scientific fields as an exploratory tool used to quantify the strength of association between pairs of variables. The ubiquitous Pearson’s correlation coefficient is the default correlation measure in most analytical packages. However, there are more flexible measures in order to cover the eventuality of outliers, non-linear relationships, the type of quantitative variables, or other nuances in the data. In this talk, we will illustrate some common and less common measures of correlations and their applications in R. Time permitting, we will touch upon correlation in time series data where common measures applied to independent data are not appropriate in the presence of dependent data.</p>
+<p>Correlation is not causation; but it surely is a sign (Good, Hardin. Common Errors in Statistics and How to Avoid Them. Wiley; fourth edition 2012). Measures of correlation are common in many scientific fields as an exploratory tool used to quantify the strength of association between pairs of variables. The ubiquitous Pearsonâ€™s correlation coefficient is the default correlation measure in most analytical packages. However, there are more flexible measures in order to cover the eventuality of outliers, non-linear relationships, the type of quantitative variables, or other nuances in the data. In this talk, we will illustrate some common and less common measures of correlations and their applications in R. Time permitting, we will touch upon correlation in time series data where common measures applied to independent data are not appropriate in the presence of dependent data.</p>
 <p>He is a Canadian statistician and data scientist, working for Suncor Energy. For nearly a decade he has served as an applied cancer Statistician. Passionate about statistical literacy, he has brought his expertise to the Oil and Gas industry helping engineers and other professionals bridge the gap between the data and the information they need. Thomas’ expertise are in the area of predictive and explanatory modelling, time to event analysis, reproducibility and visualizations.</p></li>
 </ul>
 <p><br></p>
 <ul>
 <li><p>2018-DEC-19 <a href="https://www.meetup.com/calgaryr/events/257043155/" target="_blank"><strong>R and the Undocumented NHL API</strong></a></p>
 <p><strong>Brett Wiens</strong> will present on his hobby analysing NHL statistics using the Undocumented NHL Stats API. The NHL has made extraordinary amounts of information available about teams, players, games, and even individual plays. Cleaned and organized, this is an extremely rich source of raw data that can be used for all sorts of analytics.</p>
-<p>Steeped in tradition, the NHL is a lush breeding ground for gut-based decision making, and “because-we’ve-always-done-it-that-way” thinking. Brett has developed a series of scripts, modules, and functions in R that gather, process, clean, and present this information with easy-to-digest visualizations through a Shiny interface. This presentation will touch on the collection of data, how it was cleaned and processed, some learnings made along the way, and ultimately the Shiny application to visualize information.</p>
-<p>Brett Wiens is a graduate of the Masters of Geographic Information Systems program at the University of Calgary and an avid Calgary Flames fan. He is a data scientist in Cenovus Energy’s Innovation and Analytics team.</p>
+<p>Steeped in tradition, the NHL is a lush breeding ground for gut-based decision making, and â€œbecause-weâ€™ve-always-done-it-that-wayâ€ thinking. Brett has developed a series of scripts, modules, and functions in R that gather, process, clean, and present this information with easy-to-digest visualizations through a Shiny interface. This presentation will touch on the collection of data, how it was cleaned and processed, some learnings made along the way, and ultimately the Shiny application to visualize information.</p>
+<p>Brett Wiens is a graduate of the Masters of Geographic Information Systems program at the University of Calgary and an avid Calgary Flames fan. He is a data scientist in Cenovus Energyâ€™s Innovation and Analytics team.</p>
 <p><strong>Tolu Sajobi</strong> is a professor in Community Health Epidemiology. He would like to discuss a proposed training program in data analytics. Some potential opportunities for collaboration among academic and industry experts will be discussed.</p>
 <p><strong>Theresa Smith</strong> is an environmental engineer who went back to school after the 2015 downturn. She graduated from a Masters in Business Analytics in 2017 and has been working at TransAlta for over a year as a data scientist. She has recently started a meetup group Women in Big Data (<a href="https://www.meetup.com/Women-in-Big-Data-Calgary/" class="uri">https://www.meetup.com/Women-in-Big-Data-Calgary/</a>). This group is a chapter of the larger Women in Big Data organization started by some bright minds at IBM in Seattle. The group aims to facilitate the advancement of women in STEM and data science through learning and networking opportunities.</p></li>
 </ul>
@@ -463,11 +360,11 @@ $(document).ready(function () {
 <p>This month we have three talks. The first is an applications of machine learning in SAGD reservoirs. The Second is a summary of the recent Untapped Energy Datathon. We’ll close out with a summary from the PIMS datathon.</p>
 <p><strong>Jamal Bajwa</strong> will present on: SAGD (Steam-Assisted Gravity Drainage) is a popular recovery method used in reservoirs containing Bitumen. Majority of the in-situ Oil Sands projects in Alberta use SAGD as their primary recovery method. While significant work has been done in the last two decades to improve first-principles modelling of recovery from SAGD-operated reservoirs, little has been done to systematically leverage operating data to inject steam optimally. In this work, we attempt to use modern machine learning methods to create empirical models for oil production as a function of steam injection. The production models serve as an input to an overarching optimization model that recommends optimal steam distribution across a well pad. The model development process is complete and the models are currently being put into production at Nexen’s Long Lake facility.</p>
 <center>
-<img src="./slides/C1819/20181121_01.png" height="400" width="400"> <img src="./slides/C1819/20181121_02.png" height="400" width="400">
+<img src="slides/c1819/20181121_01.png" height="400" width="400"> <img src="slides/c1819/20181121_02.png" height="400" width="400">
 </center>
 <p><strong>Marc Boulet</strong> will present a summary on:<br />
-The Untapped Energy datathon where 3 teams chose to address one of these five topics in the oil and gas industry: Social license: Are sentiments towards large-scale pipeline projects TO BE BELIEVED? - Aging Infrastructure: Finding the factors that contribute to FAILURES and EFFICIENCY of wells, pipelines and facilities. Repurposing of Infrastructure: Finding the next life of suspended or abandoned wells - GEOTHERMAL, BABY! Health &amp; Safety: Safety data is not a competitive advantage - but safety can support an INDUSTRY ADVANTAGE. New Business Models: Markets where data is made public/widely shared outperform markets that don’t - WE’LL PROVE IT!</p>
-<p><strong>Ben Reeves</strong> and <strong>Cliff Sobchuk</strong> will present a summary on: The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgary’s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.</p></li>
+The Untapped Energy datathon where 3 teams chose to address one of these five topics in the oil and gas industry: Social license: Are sentiments towards large-scale pipeline projects TO BE BELIEVED? - Aging Infrastructure: Finding the factors that contribute to FAILURES and EFFICIENCY of wells, pipelines and facilities. Repurposing of Infrastructure: Finding the next life of suspended or abandoned wells - GEOTHERMAL, BABY! Health &amp; Safety: Safety data is not a competitive advantage - but safety can support an INDUSTRY ADVANTAGE. New Business Models: Markets where data is made public/widely shared outperform markets that donâ€™t - WE’LL PROVE IT!</p>
+<p><strong>Ben Reeves</strong> and <strong>Cliff Sobchuk</strong> will present a summary on: The PIMS datathon created an opportunity for Calgarians to evaluate the available City of Calgaryâ€™s Open Data Portal, and discuss ideas to enhance the infrastructure. Results supported how we use water, to improving drop-in sports to online interactive environmental games.</p></li>
 </ul>
 <p><br></p>
 <ul>
@@ -481,7 +378,7 @@ The Untapped Energy datathon where 3 teams chose to address one of these five to
 <p><strong>Conclusion</strong>: It was possible to define three trajectories of physical and mental HRQoL after prostate cancer. These data provide insights regarding means for identifying subgroups of prostate cancer survivors with lower or declining HRQoL after diagnosis whom could be targeted for interventions aimed at improving HRQoL.</p></li>
 </ul>
 <center>
-<img src="./slides/C1819/20181017_01.png" height="400" width="400"> <img src="./slides/C1819/20181017_02.png" height="400" width="400">
+<img src="slides/c1819/20181017_01.png" height="400" width="400"> <img src="slides/c1819/20181017_02.png" height="400" width="400">
 </center>
 <p><br></p>
 <ul>
@@ -492,7 +389,7 @@ The Untapped Energy datathon where 3 teams chose to address one of these five to
 <p>A simple Kriging technique is used to demonstrate the performance of models when forecasting the future wind generation for both an existing wind farm and a new farm. RMSE and MAE are used to measure the accuracy of prediction. Finally, we are sharing our experiences on the choice of best practical scenario of new wind farms based on the aggregate wind power generation.</p></li>
 </ul>
 <center>
-<img src="./slides/C1819/20180919_01.png" height="400" width="400"> <img src="./slides/C1819/20180919_02.png" height="400" width="400">
+<img src="slides/c1819/20180919_01.png" height="400" width="400"> <img src="slides/c1819/20180919_02.png" height="400" width="400">
 </center>
 <p><br></p>
 

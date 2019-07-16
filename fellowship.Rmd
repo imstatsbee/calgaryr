@@ -3,9 +3,21 @@ title: "Career Devel"
 output: html_document
 ---
 
-### Fellowship / Training / Summer Students 
+### Fellowship / Training / Tutors  
 
 
 [![](./img/01.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
 [![](./img/02.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
 [![](./img/03.png)](https://cybera.us1.list-manage.com/track/click?u=a1a046f132&id=9adf2be032&e=2a46291b44){target="_blank"}
+
+
+
+### **Looking for R Tutors** 
+
+The following individuals are available to be hired as **PRIVATE TUTORS**.   This list is created as a service for the members and the **CalgaryR** group does not take any responsibility for the hiring process.   All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here.   Note also that appearance of tutor's name on this list does not guarantee of the tutor by the group.
+
+<!-- 
+* Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
+* Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
+-->
+

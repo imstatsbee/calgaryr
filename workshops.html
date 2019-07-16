@@ -70,7 +70,9 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -95,9 +97,6 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
@@ -112,6 +111,7 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
+
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -131,43 +131,6 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -189,85 +152,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
 });
 </script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -401,14 +298,12 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<div id="pinned-post" class="section level3">
-<h3>Pinned Post</h3>
-<!-- ![](./img/cybera_dsfellowship.png)-->
-</div>
 <div id="topics-requested" class="section level3">
 <h3>Topics requested</h3>
 <ul>
+<li>Visualization</li>
 <li>Kaggle Case Studies</li>
+<li>Wave anlaysis</li>
 <li>Python programming for data mining</li>
 <li>SAS Basic (intermediated and macro) Programming</li>
 <li>Geostatistics for Oil &amp; Gas Industry</li>
@@ -419,33 +314,11 @@ $(document).ready(function () {
 <h3>In the past</h3>
 <div id="data-mining-in-health-care-closed" class="section level4">
 <h4><strong>Data Mining in Health Care (closed)</strong></h4>
-<p>This study group is led by <a href="https://www.linkedin.com/in/simon-olivier-guienguere-63526929/" target="_blank">Simon Olivier Guienguere</a> &lt;<a href="mailto:simonolivier.guie1@ucalgary.ca" class="email">simonolivier.guie1@ucalgary.ca</a>&gt;</p>
+<p>This study group is led by <a href="https://www.linkedin.com/in/simon-olivier-guienguere-63526929/" target="_blank">Simon Olivier Guienguere</a> &lt;<a href="mailto:simonolivier.guie1@ucalgary.ca">simonolivier.guie1@ucalgary.ca</a>&gt;</p>
 <!-- ![](./img/dm_simon_2018aug06.gif){width=400px} -->
 <p>Numerous industries successfully apply Data Mining techniques to extract information or to Discover Patterns in their large datasets. It helps the Retail industry model Customer Response. It helps Banks Predict Customer Profitability. It serves similar use cases in Telecom, Manufacturing, the Automotive Industry, and Higher Education. What about Healthcare? <a href="https://www.eventbrite.ca/e/data-mining-in-healthcare-tickets-48749286428?utm_term=eventurl_text" target="_blank">Register! Friday August 10, 2018 at Health Science Library 1459 from 5 pm to 6 pm</a></p>
 <p><br></p>
 </div>
-</div>
-<div id="looking-for-r-tutors" class="section level3">
-<h3><strong>Looking for R Tutors</strong></h3>
-<p>The following individuals are available to be hired as <strong>PRIVATE TUTORS</strong>. This list is created as a service for the members and the <strong>CalgaryR</strong> group does not take any responsibility for the hiring process. All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here. Note also that appearance of tutor’s name on this list does not guarantee of the tutor by the group.</p>
-<!-- 
-* Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
-* Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
--->
-<p><br> <br></p>
-</div>
-<div id="other-communities-you-may-consider-to-go" class="section level3">
-<h3><strong>Other Communities You May Consider To Go!</strong></h3>
-<p>There are excellent communities in Calgary. Please visit the following:</p>
-<ul>
-<li><a href="https://www.meetup.com/PyData-Calgary" target="_blank">PyData Calgary</a></li>
-<li><a href="https://github.com/montoyah/R-Fridays" target="_blank">R-Fridays</a></li>
-<li><a href="https://www.meetup.com/meetup-group-wmHrkGoA" target="_blank">Artifical Intelligence Community</a></li>
-<li><a href="https://www.meetup.com/Data-for-Good-Calgary" target="_blank">Data for Good Community</a></li>
-<li><a href="https://www.sas.com/en_ca/user-groups/csug.html" target="_blank">SAS Users Group</a></li>
-<li><a href="http://albertadataarchitecture.org/" target="_blank">Alberta Data Architecture</a></li>
-<li><a href="http://www.dama-calgary.org/home.html" target="_blank">DAMA Calgary Association</a></li>
-</ul>
 </div>
 
 <br>

@@ -6,14 +6,12 @@ editor_options:
 ---
 <br>
 
-### Pinned Post 
-
-<!-- ![](./img/cybera_dsfellowship.png)-->
-
 
 ### Topics requested 
 
+* Visualization 
 * Kaggle Case Studies 
+* Wave anlaysis 
 * Python programming for data mining
 * SAS Basic (intermediated and macro) Programming
 * Geostatistics for Oil & Gas Industry
@@ -30,27 +28,3 @@ Numerous industries successfully apply Data Mining techniques to extract informa
 
 <br>
 
-### **Looking for R Tutors** 
-
-The following individuals are available to be hired as **PRIVATE TUTORS**.   This list is created as a service for the members and the **CalgaryR** group does not take any responsibility for the hiring process.   All arrangements, financial or otherwise, are strictly between the individual who is going to hire and the tutor listed here.   Note also that appearance of tutor's name on this list does not guarantee of the tutor by the group.
-
-<!-- 
-* Dayne Sorvisto <<daynesorvisto@yahoo.ca>>
-* Kimberly Rondeau <<kim.rondeau@ualberta.ca>>
--->
-
-<br>
-<br>
-
-
-### **Other Communities You May Consider To Go!**   
-
-There are excellent communities in Calgary.  Please visit the following: 
-
-* [PyData Calgary](https://www.meetup.com/PyData-Calgary){target="_blank"}
-* [R-Fridays](https://github.com/montoyah/R-Fridays){target="_blank"}
-* [Artifical Intelligence Community](https://www.meetup.com/meetup-group-wmHrkGoA){target="_blank"}
-* [Data for Good Community](https://www.meetup.com/Data-for-Good-Calgary){target="_blank"}
-* [SAS Users Group](https://www.sas.com/en_ca/user-groups/csug.html){target="_blank"}
-* [Alberta Data Architecture](http://albertadataarchitecture.org/){target="_blank"}
-* [DAMA Calgary Association](http://www.dama-calgary.org/home.html){target="_blank"}
