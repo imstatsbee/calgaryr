@@ -1,8 +1,27 @@
 ---
-title: "R Medicine"
+title: "R-Medicine"
 output: html_document
 ---
 
-Canadian Health Information Center 
 
-* infectious disease model 
+Please contact [Chel](href:chelhee.lee@ucalgary.ca) or [Catherine](href:caeastwo@ucalgary.ca) for questions.
+
+* Leadership - intro to Canadian Health Information Center 
+
+* topic: clinical trial, medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services 
+
+* Statistical models/techniques:
+  + infectious disease model
+  + disease mapping 
+  + text summarization and sentiment analysis 
+  + medical chart parsing 
+  + survey response
+  + survial analysis / repeated measures / functional data analysis 
+  + time series / cosinor / wavelets / fourier  
+  + joint model of longitudinal and survival data 
+  + imaging data/neural network / CNN / RNN / 
+  + agreement of mesurement systems
+  + decision tree/predictive modeling 
+  + Bayesian analysis 
+  
+  

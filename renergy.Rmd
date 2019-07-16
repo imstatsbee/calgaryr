@@ -1,7 +1,6 @@
 ---
-title: "R Energy"
+title: "R-Energy and Oil&Gas"
 output: html_document 
 ---
 
-# Energy / Alternative energy 
-
+Looking for a volunteer who is leading this special-interest group.

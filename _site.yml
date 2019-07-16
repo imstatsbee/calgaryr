@@ -15,13 +15,15 @@ navbar:
         - text: "2017-2018"
           href: meetings1718.html
     - text: "Projects"
-      menu: 
+      menu:
         - text: "In Progress"
           href: inprogress.html
+        - text: "Resources"
+          href: resources.html
         - text: "Case Studies"
           href: casestudies.html
-        - text: "Workshops"
-          href: workshops.html
+        - text: "Workshop"
+          href: workshop.html
         - text: "Intake"
           href: intake.html
     - text: "SIG"
@@ -32,10 +34,10 @@ navbar:
           href: renergy.html
         - text: "R-Green"
           href: rgreen.html
-        - text: "R-Women"
-          href: rwomen.html
+        - text: "R-LifeSci"
+          href: rlifesci.html
         - text: "R-Finance"
-          href: rfinance.html 
+          href: rfinance.html
     - text: "Connect"
       menu:
         - text: "Fellowship"
@@ -45,7 +47,7 @@ navbar:
     - text: "Events"
       menu:
         - text: "Meeting 2020"
-          href: meeting2020.html 
+          href: meeting2020.html
         - text: "PIMS 2018 Datathon"
           href: pims2018datathon.html
 output:

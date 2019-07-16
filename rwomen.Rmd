@@ -1,7 +1,0 @@
----
-title: "R Women"
-output: html_document
----
-
-## R-Laides
-
