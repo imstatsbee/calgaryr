@@ -4,9 +4,9 @@ output: html_document
 ---
 
 
-Please contact [Chel](href:chelhee.lee@ucalgary.ca) or [Catherine](href:caeastwo@ucalgary.ca) for questions.
+Please contact [Chel](href:chelhee.lee@ucalgary.ca) and [Catherine](href:caeastwo@ucalgary.ca) for questions.
 
-* Leadership - intro to Canadian Health Information Center 
+* Leadership - [Centre for Health Informatics <br>Cumming School of Medicine](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}
 
 * topic: clinical trial, medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services 
 
@@ -24,4 +24,8 @@ Please contact [Chel](href:chelhee.lee@ucalgary.ca) or [Catherine](href:caeastwo
   + decision tree/predictive modeling 
   + Bayesian analysis 
   
+* Advisor: Christian Job McIntosh, Alberta Health Services
+
+
+<font size="5">  <b>[Centre for Health Informatics <br>Cumming School of Medicine](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
   
