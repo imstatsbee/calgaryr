@@ -7,20 +7,25 @@ output: html_document
 Volunteers
 
 * September 18, 2019
-  + James Banting <<>>
   + **Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians**, by Reinaldo Viccini <<reinaldo.viccini@ucalgary.ca>> - For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation's energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed.   The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine's production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plant’s have a larger impact on the local mine's intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine
-
+  + Looking for a volunteer -- ~~James Banting~~ <<contact lost, not confirmed>>
+  
 * October 16, 2019
-  + David Chan 
-  + 
+  + David Chan (confirmed)
+  + Naoko Tomioka (confirmed)
   
 * November 20, 2019
-  + 
+  + Looking for a volunteer 
+  + Looking for a volunteer 
 
 * January 15, 2019
-  + 
+  + Looking for a volunteer 
+  + Looking for a volunteer 
   
 * February 19, 2019
-  + 
+  + Looking for a volunteer 
+  + Looking for a volunteer 
   
 * March 18, 2019
+  + Looking for a volunteer 
+  + Looking for a volunteer 

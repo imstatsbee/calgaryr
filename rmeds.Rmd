@@ -11,19 +11,20 @@ Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.u
 
 Thursday in the first week of every month at 5:30 pm 
 
-* September 5, 2019
-* October 3, 2019 
-* November 7, 2019
-* December 5, 2019
+* September 5, 2019 - looking for a volunteer to speak 
+* October 3, 2019 - looking for a volunteer to speak 
+* November 7, 2019 - looking for a volunteer to speak
+* December 5, 2019 - looking for a volunteer to speak
 * ~~January 2, 2020~~ (Holiday) 
-* February 6, 2020  
-* March 5, 2020
-* April 2, 2020 <!-- Student Presentation from DataSci Program -->
+* February 6, 2020 - looking for a volunteer to speak  
+* March 5, 2020 - looking for a volunteer to speak
+* April 2, 2020  - looking for a volunteer to speak 
+<!-- Student Presentation from DataSci Program -->
 
 ### Mentors and Advisors  
 
 * Christian Job McIntosh, Alberta Health Services
-
+* Danijela Piskulic, Alberta Health Services 
 
 ### Topics of interest
 
