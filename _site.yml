@@ -30,6 +30,8 @@ navbar:
       menu:
         - text: "R-Meds"
           href: rmeds.html
+        - text: "R-Geomatics"
+          href: rgeo.html
         - text: "R-Energy"
           href: renergy.html
         - text: "R-Green"

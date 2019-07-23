@@ -1,0 +1,7 @@
+---
+title: "R-Geomatics"
+output: html_document 
+---
+
+Thank you for the leadership from the [Alberta Geomatics Group ](https://www.albertageomaticsgroup.ca/){target="_blank"}.  Please contact [Scott McHale](href:scott.mchale@industryus.ca) for questions.
+
