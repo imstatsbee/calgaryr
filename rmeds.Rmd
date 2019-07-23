@@ -3,7 +3,7 @@ title: "R-Medicine"
 output: html_document
 ---
 
-Thank you for the leadership from the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](href:caeastwo@ucalgary.ca) for questions.
+Thank you for the leadership from the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
 
 ### Dates for Meetings
 
