@@ -3,9 +3,15 @@ title: "R-Medicine"
 output: html_document
 ---
 
+<br>
+
 Thank you for the leadership from the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
 
+<br>
+
 ### Dates for Meetings
+
+<br>
 
 Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
 
@@ -21,10 +27,14 @@ Thursday in the first week of every month at 5:30 pm
 * April 2, 2020  - looking for a volunteer to speak 
 <!-- Student Presentation from DataSci Program -->
 
-### Mentors and Advisors  
 
-* Christian Job McIntosh, Alberta Health Services
-* Danijela Piskulic, Alberta Health Services 
+### Mentors and Advisors  
+<br>
+
+* [Christian Job McIntosh](mailto:) for topic 
+* [Danijela Piskulic](mailto:) for topic 
+* contact for topic 
+
 
 ### Topics of interest
 

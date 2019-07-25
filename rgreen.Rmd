@@ -1,14 +1,19 @@
 --- 
-title: "R-Environment, Parks, Animals, Biochemistry"
+title: "R-Green"
 output: html_document
 ---
 
+## Environment, Parks, Animals, Biochemistry
+
 Looking for a volunteer who is leading this special-interest group.
+
+<br>
 
 ## Advisors/Mentors
 
-* [Patrick Laceby](mailto:patrick.laceby@gov.ab.ca) 
-* 
+* [Patrick Laceby](mailto:patrick.laceby@gov.ab.ca) for water-related topic 
+* contact for topic 
+* contact for topic 
 
 
 ## Topics of interest

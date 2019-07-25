@@ -1,9 +1,21 @@
 ---
-title: "R-Life Science, Sociology, Psychology"
+title: "R-Life Science"
 output: html_document
 ---
+
+## Sociology, Psychology 
+<br>
 
 Looking for a volunteer who is leading this special-interest group.
 
 
+
 ## Advisors/Mentors
+
+* contact for topic 
+* contact for topic
+* contact for topic 
+
+
+## Topics of interest 
+

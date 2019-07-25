@@ -1,9 +1,23 @@
 ---
-title: "R-Energy, Oil & Gas, Renewable Energy, Geology"
+title: "R-Energy"
 output: html_document 
 ---
 
+
+## Oil & Gas, Renewable Energy, Geology
+
+
+<br>
+
 Looking for a volunteer who is leading this special-interest group.
 
+<br>
+
 ## Advisors/Mentors
+
+* contact for topic 
+* contact for topic 
+* contact for topic 
+
+## Topics of interest 
 
