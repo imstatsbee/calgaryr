@@ -1,8 +1,0 @@
----
-title: "R Finance"
-output: html_document
----
-
-# Finance/Business/Marketing
-
-

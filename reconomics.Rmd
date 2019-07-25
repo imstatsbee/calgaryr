@@ -1,9 +1,10 @@
 ---
-title: "R-Life Science, Sociology, Psychology"
+title: "R Economics"
 output: html_document
 ---
+
+## Finance/Business/Marketing/Risk Management/
 
 Looking for a volunteer who is leading this special-interest group.
 
 
-## Advisors/Mentors

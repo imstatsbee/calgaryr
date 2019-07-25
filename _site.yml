@@ -16,8 +16,6 @@ navbar:
           href: meetings1718.html
     - text: "Projects"
       menu:
-        - text: "In Progress"
-          href: inprogress.html
         - text: "Resources"
           href: resources.html
         - text: "Case Studies"
@@ -38,8 +36,8 @@ navbar:
           href: rgreen.html
         - text: "R-LifeSci"
           href: rlifesci.html
-        - text: "R-Finance"
-          href: rfinance.html
+        - text: "R-Economics"
+          href: reconomics.html
     - text: "Connect"
       menu:
         - text: "Fellowship"

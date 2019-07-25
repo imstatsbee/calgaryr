@@ -28,3 +28,15 @@ output: html_document
 * [Market Data from TMX WebStore for TSX and TSXV](https://www.tmxwebstore.com/products/#q=%7Cc=44%7Cm=%7Cpage=1){target="_blank"}
 
 <br>
+
+
+
+## **Personal Projects** in progress 
+
+1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
+
+2. **Writing about cities, urban planning, mapping, data visualization & creative coding** led by [Saadiq Mohiuddin](https://saadiqm.com/){target="_blank"} 
+
+3. **A project to design and maintain a standardized, R based, slide presentation format. The project is currently based in Xaringan written by Yihui Xie at Rstudio** led by [Dylan Loader](https://github.com/DylanLoader/CalgaryR-presentation){target="_blank"}
+
+<br>

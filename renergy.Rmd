@@ -1,6 +1,9 @@
 ---
-title: "R-Energy and Oil&Gas"
+title: "R-Energy, Oil & Gas, Renewable Energy, Geology"
 output: html_document 
 ---
 
 Looking for a volunteer who is leading this special-interest group.
+
+## Advisors/Mentors
+

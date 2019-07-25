@@ -70,7 +70,9 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -95,9 +97,6 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
@@ -112,6 +111,7 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
+
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -131,43 +131,6 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -189,85 +152,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
 });
 </script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -316,9 +213,6 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="inprogress.html">In Progress</a>
-    </li>
-    <li>
       <a href="resources.html">Resources</a>
     </li>
     <li>
@@ -355,7 +249,7 @@ $(document).ready(function () {
       <a href="rlifesci.html">R-LifeSci</a>
     </li>
     <li>
-      <a href="rfinance.html">R-Finance</a>
+      <a href="reconomics.html">R-Economics</a>
     </li>
   </ul>
 </li>
@@ -402,7 +296,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore"><a href="https://www.projectdata.ca/" target="_blank"><strong>2018 Calgary PIMS Datathon</strong></a></h1>
-<h4 class="date"><br><strong>June 23-24, 2018 from 8 AM to 5 PM</strong><br><strong>Schulich School of Engineering, Ground Floor G24</strong><br><strong>Canadian Natural Resources Limited Engineering Complex</strong><br><strong>University of Calgary Main Campus</strong></h4>
+<h4 class="date"><em><br><strong>June 23-24, 2018 from 8 AM to 5 PM</strong><br><strong>Schulich School of Engineering, Ground Floor G24</strong><br><strong>Canadian Natural Resources Limited Engineering Complex</strong><br><strong>University of Calgary Main Campus</strong></em></h4>
 
 </div>
 
@@ -505,7 +399,7 @@ body {
 <p>The need to create effective tools for pedestrians to understand walking in their local context is outlined in the City of Calgary pedestrian strategy. Given the current trend of automating mapping and route-finding a component of creating walkability is create good automation for maps and route finding for the pedestrian the context. Maps like all models are good models with reasonable fit to reality when the parameters we use to define them are consistent with the systems they are modeling. From observations of the team, there is a distinction between the mental processes used when people map walking routes and when people map driving routes, thus using the same parameter inputs into both mapping and we hypothesize that route finding decreases in efficiency for automated mapping and designation of walking routes. The core hypotheses of the group is that if we find the right parameters the value and quality of the routes and the maps for pedestrians in the city of Calgary context will improve. We discussed strategies for determining pedestrian models and clarification on the mapping will require a literature search for information or a full-scale research project. To explore how to produce a test case our group filtered through the City of Calgary data sets to determine which data sets we could use given out hypothesis about mapping for pedestrians and which ones we would need. A selection of slides from our presentation are included below.</p>
 <p><br> <strong>Get active with open data!</strong>, by <a href="breeves997@gmail.com">Ben Reeves</a>, <a href="braedyn.au@ucalgary.ca">Braedyn Au</a>, <a href="chenxizhao2008@gmail.com">Chenxi Zhao</a>, <a href="linakhatibster@gmail.com">Lina Khatib</a>, <a href="russ@mikatahealth.com">Russ Brown</a>, <a href="benaceur.adam@gmail.com">Adam Benaceur</a></p>
 <p>See the <a href="./pims2018/pims_datathon_2018_get_active_with_open_data.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
-<p>Physical recreation is a thoroughly researched method shown to increase all aspects of health, cardiovascular, sleeping, mental, etc. However, despite the proven benefits, many adults do not meet the amount recommended not only by Alberta Health Services, but also the international scientific community. At the 2018 PIMS Datathon, we met fellow Calgarians which revealed that some of the major obstacles in participating in physical recreation, particularly of social nature such as team sports, was the difficulty of finding a place and people to play with. Examples included people who recently moved to Calgary and therefore do not know where the turf fields, baseball diamonds, or hockey rinks, etc. scattered around the city are, mothers who found it difficult to look through a multitude of resources just to enroll their children into a sports league, and others who just wanted to play an organized game but do not have enough players. To help solve this issue, the open data from the City of Calgary reveals geo-maps of all the recreational facilities and open sports grounds maintained by the City with metadata included. By taking this data and implementing it into our own platform, Calgarians can find nearby places to play all their favourite sports. To improve the social aspect, our platform also features live events and facility specific websites and information so not only will people know where they can play, but also when. By making Calgary’s facilities more accessible, we hope to promote a healthier lifestyle in our City.</p>
+<p>Physical recreation is a thoroughly researched method shown to increase all aspects of health, cardiovascular, sleeping, mental, etc. However, despite the proven benefits, many adults do not meet the amount recommended not only by Alberta Health Services, but also the international scientific community. At the 2018 PIMS Datathon, we met fellow Calgarians which revealed that some of the major obstacles in participating in physical recreation, particularly of social nature such as team sports, was the difficulty of finding a place and people to play with. Examples included people who recently moved to Calgary and therefore do not know where the turf fields, baseball diamonds, or hockey rinks, etc. scattered around the city are, mothers who found it difficult to look through a multitude of resources just to enroll their children into a sports league, and others who just wanted to play an organized game but do not have enough players. To help solve this issue, the open data from the City of Calgary reveals geo-maps of all the recreational facilities and open sports grounds maintained by the City with metadata included. By taking this data and implementing it into our own platform, Calgarians can find nearby places to play all their favourite sports. To improve the social aspect, our platform also features live events and facility specific websites and information so not only will people know where they can play, but also when. By making Calgaryâ€™s facilities more accessible, we hope to promote a healthier lifestyle in our City.</p>
 <p><br></p>
 <p><strong>Safety and Redevelopment</strong>, by <a href="mailto:alexander.havers@ucalgary.ca">Alexander Havers</a>, <a href="mailto:andrey.sivyakov@ucalgary.ca">Andrey Sivyakov</a>, <a href="mailto:vineyk@hotmail.com">Keenan Viney</a>, <a href="mailto:mikel.k.khui@gmail.com">Michael Chui</a></p>
 <p>See the <a href="./pims2018/pims_datathon_2018_safety_and_redevelopment.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>

@@ -1,6 +1,21 @@
 --- 
-title: "R-Environment, Parks, Animals, Renewable Energy"
+title: "R-Environment, Parks, Animals, Biochemistry"
 output: html_document
 ---
 
 Looking for a volunteer who is leading this special-interest group.
+
+## Advisors/Mentors
+
+* [Patrick Laceby](mailto:patrick.laceby@gov.ab.ca) 
+* 
+
+
+## Topics of interest
+
+* Bayesian mixing model
+* JAGS and rstan 
+* Concept of full and empirical Bayes
+* General Geospatial data analysis
+* Bayesian hierarchical regression 
+
