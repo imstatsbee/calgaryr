@@ -30,7 +30,7 @@ We could not continue our activities withtout the following sponsors:
 
 <br>
 
-<font size="5">  <b>[Centre for Health Informatics <br>Cumming School of Medicine](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
+<font size="5">  <b>[![](./img/ucchi.jpg)](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
 
 <br>
 
