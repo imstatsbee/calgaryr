@@ -3,48 +3,37 @@ title: "**CalgaryR**"
 output: html_document
 ---
 
-<br>
 
 **CalgaryR** is a community of data enthusiasts and endeavors working with R.  We are pursuing a continuing education and creating a self-development opportunity from experiences shared by our friends.  **[Chel Hee Lee](https://www.linkedin.com/in/gnustats/){target="_blank"}**, **[Marc Boulet](https://www.linkedin.com/in/marc-boulet-5bb87023/){target="_blank"}**, **[Cliff Sobchuk](https://www.linkedin.com/in/cliff-sobchuk/){target="_blank"}**, **[Emma Liu](https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/){target="_blank"}**, **[Ben Reeves](https://www.linkedin.com/in/benjamin-reeves-91566767/){target="_blank"}**, **[Andrey Sivyakov](https://www.linkedin.com/in/andrey-sivyakov-030394114/){target="_blank"}**, **[Jonathan Lin](https://github.com/jonlinca){target="_blank"}**, and **[Dylan Loader](https://www.linkedin.com/in/dylan-loader/){target="_blank"}**  are volunteered to organize events.   If you are interested in sponsoring our community, hosting a meeting, or making sugggestions, please feel free to contact one of the organizers.   Feedback or question via [email to Chel](mailto:imstatsbee@gmail.com) is of course most appreciated.  Please join our [Meetup](https://www.meetup.com/Calgary-R-User-Group/){target="_blank"} and  [public workspace on Slack](https://yyc-r.slack.com/){target="_blank"}.
 
 <br>
-
 **<font size=5>Thanks to our fantastic sponsors!</font>**  
 
 We could not continue our activities withtout the following sponsors:
-
-<br>
 
 <!-- 
 [![](./img/dccm.png){width=300px}](https://cumming.ucalgary.ca/labs/calgary-critical-care-research-network/){target="_blank"} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -->
 
-<br>
-
-[![](./img/RConsortium_Horizontal_Pantone.png){width=275px}](https://www.r-consortium.org/){target="_blank"}
-
-<br> 
-
+[![](./img/RConsortium_Horizontal_Pantone.png){width=290px}](https://www.r-consortium.org/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![](./img/webhorizfulllarge.png){width=275px}](https://www.pims.math.ca/){target="_blank"}
-
-<br>
-
-<font size="5">  <b>[![](./img/ucchi.jpg){width=250px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
-
-<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
 
-<br> 
-
-<font size="5">  <b>[Department of Mathematics and Statistics <br>Faculty of Science, University of Calgary](http://math.ucalgary.ca/){target="_blank"} </b>  </font>
-
 <br>
+<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
 
-<font size="5"> <b>[University of Calgary Biostatistics Centre](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}</b> </font>
+<font size="5"> <b>[University of Calgary Biostatistics Centre](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}</b> </font> 
 
-<br>
+<font size="5">  <b>[![](./img/ucchi.jpg){width=320px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
+
+
+
+
+
+
 
 
 
