@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-Thank you for the leadership from the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
+Thank you for the leadership of the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
 
 <br>
 
@@ -17,7 +17,11 @@ Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.u
 
 Thursday in the first week of every month at 5:30 pm 
 
-* September 5, 2019 - looking for a volunteer to speak 
+* September 5, 2019 - title / speaker: chel  
+
+[RSVP at meetup] (maximum capacity 30)
+
+
 * October 3, 2019 - looking for a volunteer to speak 
 * November 7, 2019 - looking for a volunteer to speak
 * December 5, 2019 - looking for a volunteer to speak
