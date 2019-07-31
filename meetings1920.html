@@ -70,9 +70,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -97,6 +95,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -111,7 +112,6 @@ body {
   padding-top: 71px;
   margin-top: -71px;
 }
-
 .section h2 {
   padding-top: 71px;
   margin-top: -71px;
@@ -131,6 +131,43 @@ body {
 .section h6 {
   padding-top: 71px;
   margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -152,19 +189,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -304,57 +407,70 @@ $(document).ready(function () {
 <h2>In preparation</h2>
 <p>Volunteers</p>
 <ul>
-<li><p>2019-SEP-18 <a href="" target="_blank"></a></p>
+<li>2019-SEP-18 <a href="" target="_blank">title1/title2</a>
 <ul>
-<li><strong>Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians</strong>, by Reinaldo Viccini &lt;<a href="mailto:reinaldo.viccini@ucalgary.ca">reinaldo.viccini@ucalgary.ca</a>&gt;</li>
+<li>Location: Cenovus Odd Fellows</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: <strong>Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians</strong>, by Reinaldo Viccini &lt;<a href="mailto:reinaldo.viccini@ucalgary.ca" class="email">reinaldo.viccini@ucalgary.ca</a>&gt;</p></li>
 </ul>
-<p>For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation’s energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed. The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine’s production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plantâ€™s have a larger impact on the local mine’s intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine</p>
+<p>For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation’s energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed. The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine’s production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plant’s have a larger impact on the local mine’s intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine</p>
 <ul>
-<li>Looking for a volunteer – <del>James Banting</del> &lt;&lt;contact lost, not confirmed&gt;&gt;</li>
+<li>Talk 2: Looking for a volunteer</li>
 </ul></li>
 </ul>
 <p><br></p>
 <ul>
-<li><p>2019-OCT-16 <a href="" target="_blank">title1 / title2</a></p>
+<li>2019-OCT-16 <a href="" target="_blank">title1 / title2</a>
 <ul>
-<li>Title, by David Chan (confirmed)</li>
+<li>Location: TBA</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: Title, by David Chan (confirmed)</p></li>
 </ul>
 <p>Waiting for abstract</p>
 <ul>
-<li>Title, by Naoko Tomioka (confirmed)</li>
+<li>Talk 2: Title, by Naoko Tomioka (confirmed)</li>
 </ul>
 <p>Waiting for abstract</p></li>
 </ul>
 <p><br></p>
 <ul>
-<li><p>2019-NOV-20 <a href="" target="_blank">title1 / title2</a></p>
+<li>2019-NOV-20 <a href="" target="_blank">title1 / title2</a>
 <ul>
-<li><p>title, looking for a volunteer</p></li>
-<li><p>title, looking for a volunteer</p></li>
+<li>Location: TBA</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: title, looking for a volunteer</p></li>
+<li><p>Talk 2: title, looking for a volunteer</p></li>
+<li><p>Catherine Eastwood (?)</p></li>
 </ul></li>
 </ul>
 <p><br></p>
 <ul>
-<li><p>2020-JAN-15 <a href="" target="_blank">title1 / title2</a></p>
+<li>2020-JAN-15 <a href="" target="_blank">title1 / title2</a>
 <ul>
-<li><p>title, looking for a volunteer</p></li>
-<li><p>title, looking for a volunteer</p></li>
+<li>Location: TBA</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: title, looking for a volunteer</p></li>
+<li><p>Talk 2: title, looking for a volunteer</p></li>
 </ul></li>
 </ul>
 <p><br></p>
 <ul>
-<li><p>February 19, 2019 <a href="" target="_blank">title1 / title2</a></p>
+<li>February 19, 2019 <a href="" target="_blank">title1 / title2</a>
 <ul>
-<li><p>title, looking for a volunteer</p></li>
-<li><p>title, looking for a volunteer</p></li>
+<li>Location: TBA</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: title, looking for a volunteer</p></li>
+<li><p>Talk 2: title, looking for a volunteer</p></li>
 </ul></li>
 </ul>
 <p><br></p>
 <ul>
 <li>March 18, 2019
 <ul>
-<li>Looking for a volunteer</li>
-<li>Looking for a volunteer</li>
+<li>Location: TBA</li>
+<li><p><a href="" target="_blank">RSVP at meetup</a></p></li>
+<li><p>Talk 1: title, looking for a volunteer</p></li>
+<li><p>Talk 2: title, looking for a volunteer</p></li>
 </ul></li>
 </ul>
 </div>

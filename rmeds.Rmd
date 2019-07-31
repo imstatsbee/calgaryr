@@ -16,19 +16,49 @@ Thank you for the leadership of the [Centre for Health Informatics](https://cumm
 Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
 
 Thursday in the first week of every month at 5:30 pm 
+<br>
 
-* September 5, 2019 - title / speaker: chel  
+* September 5, 2019 - nonlinear modeling with R, led by chel  
 
 [RSVP at meetup] (maximum capacity 30)
+<br>
 
+* October 3, 2019 - introduction to R programming, led by chel 
 
-* October 3, 2019 - looking for a volunteer to speak 
+data structure, manipulation and cleaning techniques
+
+target audience: anyone who is interested in learning R 
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 * November 7, 2019 - looking for a volunteer to speak
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 * December 5, 2019 - looking for a volunteer to speak
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 * ~~January 2, 2020~~ (Holiday) 
+
 * February 6, 2020 - looking for a volunteer to speak  
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 * March 5, 2020 - looking for a volunteer to speak
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 * April 2, 2020  - looking for a volunteer to speak 
+
+[RSVP at meetup] (maximum capacity 30)
+<br>
+
 <!-- Student Presentation from DataSci Program -->
 
 
