@@ -6,53 +6,69 @@ output: html_document
 ## In preparation 
 Volunteers
 
-* 2019-SEP-18 [](){target="_blank"}
+* 2019-SEP-18 [title1/title2](){target="_blank"}
+    + Location: Cenovus Odd Fellows
+    + [RSVP at meetup](){target="_blank"}
 
-    + **Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians**, by Reinaldo Viccini <<reinaldo.viccini@ucalgary.ca>> 
+    + Talk 1: **Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians**, by Reinaldo Viccini <<reinaldo.viccini@ucalgary.ca>> 
     
     For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation's energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed.   The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine's production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plant’s have a larger impact on the local mine's intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine
     
-    + Looking for a volunteer -- ~~James Banting~~ <<contact lost, not confirmed>>
+    + Talk 2: Looking for a volunteer 
 
 <br>
 
 * 2019-OCT-16 [title1 / title2](){target="_blank"}
+    + Location: TBA
+    + [RSVP at meetup](){target="_blank"}
 
-    + Title, by David Chan (confirmed)
+    + Talk 1: Title, by David Chan (confirmed)
     
     Waiting for abstract 
     
-    + Title, by Naoko Tomioka (confirmed)
+    + Talk 2: Title, by Naoko Tomioka (confirmed)
     
     Waiting for abstract 
-  
+
 
 <br>
 
 * 2019-NOV-20 [title1 / title2](){target="_blank"}
+    + Location: TBA
+    + [RSVP at meetup](){target="_blank"}
 
-    + title, looking for a volunteer 
+    + Talk 1: title, looking for a volunteer 
     
-    + title, looking for a volunteer 
+    + Talk 2: title, looking for a volunteer 
+    
+    + Catherine Eastwood (?)
 
 <br>
 
 * 2020-JAN-15 [title1 / title2](){target="_blank"} 
+    + Location: TBA
+    + [RSVP at meetup](){target="_blank"}
 
-    + title, looking for a volunteer 
+    + Talk 1: title, looking for a volunteer 
     
-    + title, looking for a volunteer 
+    + Talk 2: title, looking for a volunteer 
 
 <br>
 
 * February 19, 2019 [title1 / title2](){target="_blank"}
+    + Location: TBA
+    + [RSVP at meetup](){target="_blank"}
 
-    + title, looking for a volunteer 
+    + Talk 1: title, looking for a volunteer 
     
-    + title, looking for a volunteer 
+    + Talk 2: title, looking for a volunteer 
 
 <br>
 
 * March 18, 2019
-  + Looking for a volunteer 
-  + Looking for a volunteer 
+    + Location: TBA
+    + [RSVP at meetup](){target="_blank"}
+
+    + Talk 1: title, looking for a volunteer 
+    
+    + Talk 2: title, looking for a volunteer 
