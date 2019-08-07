@@ -18,13 +18,15 @@ output: html_document
     + Location: TBA
     + [RSVP at meetup](){target="_blank"}
 
-    + Talk 1: **Title** by [David Chan](mailto:) (confirmed)
+    + Talk 1: **Title** by [David Chan](https://www.linkedin.com/in/davidichan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCd1WIB5RRCi6VVGLx1INPw%3D%3D){target="_blank"} (confirmed)
     
     Waiting for abstract 
     
-    + Talk 2: **Title**, by [Naoko Tomioka](mailto:) (confirmed)
+    + Talk 2: **Title** by [Naoko Tomioka](https://www.linkedin.com/in/naoko-tomioka-038108b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoYo7F26eTFunf2Yjv%2BChMQ%3D%3D){target="_blank"} (confirmed)
     
     Waiting for abstract 
+    
+    + Talk 3: **Title** by [Drew Gilson](https://www.linkedin.com/in/drewgillson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHewhCPhS6CCUxkRUC9aDw%3D%3D){target="_blank"}
 
 
 <br>
