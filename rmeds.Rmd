@@ -24,12 +24,9 @@ Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.u
 Thursday in the first week of every month at 5:30 pm 
 <br>
 
-* September 5, 2019 
+* September 5, 2019 - **nonlinear models with R** led by chel <br><br>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and bioengineering research.  The first session (40 mins) provides an introduction to the use of nonlinear models with R.  The following are considered:  1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model.  In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using `nlme` package.  Extension to data with repeated measurements will be discussed if time permits.<br><br>
 
-    + Talk 1.  **nonlinear modeling with R** led by chel <br> The abstract will be posted on August 09.  
-    + running time: 45 mins + 45 mins  (two sessions)
-    + [RSVP at meetup] (maximum capacity 30)
-
+[RSVP at meetup](https://www.meetup.com/calgaryr/events/263815910/){target="_blank"}
 <br>
 
 * October 3, 2019 
