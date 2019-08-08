@@ -31,44 +31,39 @@ Thursday in the first week of every month at 5:30 pm
 * October 3, 2019 
     + Talk 1. preprocessing with R, led by chel <br> data structure, manipulation and cleaning techniques, outlier detection, systematic errors, maintainence, preprocessing, etc
     + Talk 2. looking for a volunteer (Shiny Basics for R Novice, maybe?) 
-    + [RSVP at meetup] (maximum capacity 30)
 
 <br>
 
 * November 7, 2019 
 
-    + Talk 1. Functional programming in R, by Dr. Matthias Kanta <br> Abstract: TBA <br> 
-    + [RSVP at meetup] (maximum capacity 30)
+    + Talk 1. Functional programming in R, by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br> Abstract: TBA <br> 
+    + Talk 2: looking for a volunteer 
 <br>
 
-* December 5, 2019 - looking for a volunteer to speak
 
-    + 
-    + target audience:
-    + [RSVP at meetup] (maximum capacity 30)
+* December 5, 2019 
+
+    + Talk 1. looking for a volunteer 
+    + Talk 2. looking for a volunteer 
+    
 <br>
 
-* ~~January 2, 2020~~ (Holiday) 
+* February 6, 2020 
+    + Talk 1. [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} 
+    + Talk 2. looking for a volunteer
 
-* February 6, 2020 - looking for a volunteer to speak  
-
-    + 
-    + target audience:
-    + [RSVP at meetup] (maximum capacity 30)
 <br>
 
 * March 5, 2020 - looking for a volunteer to speak
+    + Talk 1. 
+    + Talk 2. 
 
-    + 
-    + target audience:
-    + [RSVP at meetup] (maximum capacity 30)
 <br>
 
 * April 2, 2020  - looking for a volunteer to speak 
 
-    + 
-    + target audience:
-    + [RSVP at meetup] (maximum capacity 30)
+    + Talk 1. 
+    + Talk 2. 
 <br>
 
 <!-- Student Presentation from DataSci Program -->
