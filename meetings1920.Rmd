@@ -3,7 +3,7 @@ title: "**Meetings in 2019-2020**"
 output: html_document
 ---
 
-#### 2019-SEP-18 [title1/title2](){target="_blank"}
+#### 2019-SEP-18 [Event-Study Method, Similiarity, Susceptibility Ranking](https://www.meetup.com/calgaryr/events/263868941/){target="_blank"}
 
 + Location: Cenovus Odd Fellows
 + [RSVP at meetup](){target="_blank"}
