@@ -37,11 +37,11 @@ Waiting for abstract
 + Location: TBA
 + [RSVP at meetup](){target="_blank"}
 
-+ Talk 1: title, looking for a volunteer 
++ Talk 1: David Shakleton () 
 
-+ Talk 2: title, looking for a volunteer 
++ Talk 2: (in progress)
 
-+ Catherine Eastwood (?)
++ Talk 3: (in progress)
 
 <br>
 
@@ -49,7 +49,7 @@ Waiting for abstract
 + Location: TBA
 + [RSVP at meetup](){target="_blank"}
 
-+ Talk 1: title, looking for a volunteer 
++ Talk 1: (in progress)
 
 + Talk 2: title, looking for a volunteer 
 
@@ -61,7 +61,7 @@ Waiting for abstract
 
 + Talk 1: title, looking for a volunteer 
 
-+ Talk 2: title, looking for a volunteer 
++ Talk 2: (in progress) 
 
 <br>
 
