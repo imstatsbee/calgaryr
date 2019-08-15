@@ -30,7 +30,8 @@ Thursday in the first week of every month at 5:30 pm
 
 * October 3, 2019 
 <!--    + Talk 1. preprocessing with R, led by chel <br> data structure, manipulation and cleaning techniques, outlier detection, systematic errors, maintainence, preprocessing, etc -->
-    + Talk 1. looking for a volunteer <!-- Dr. Muir -->
+    + Talk 1. **Title** by [Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  
+    
     + Talk 2. looking for a volunteer <!-- Shiny -->
 
 <br>
