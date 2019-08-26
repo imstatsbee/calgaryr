@@ -20,15 +20,15 @@ I will discuss the development of an asset failure susceptibility ranking system
 + Location: TBA
 + [RSVP at meetup](){target="_blank"}
 
-+ Talk 1: **Title** by [David Chan](https://www.linkedin.com/in/davidichan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCd1WIB5RRCi6VVGLx1INPw%3D%3D){target="_blank"} (confirmed)
++ Talk 1: Confirmed -- **Title** by [David Chan](https://www.linkedin.com/in/davidichan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCd1WIB5RRCi6VVGLx1INPw%3D%3D){target="_blank"} (confirmed)
 
 Waiting for abstract 
 
-+ Talk 2: **Title** by [Naoko Tomioka](https://www.linkedin.com/in/naoko-tomioka-038108b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoYo7F26eTFunf2Yjv%2BChMQ%3D%3D){target="_blank"} (confirmed)
++ Talk 2: Confirmed -- **Title** by [Naoko Tomioka](https://www.linkedin.com/in/naoko-tomioka-038108b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoYo7F26eTFunf2Yjv%2BChMQ%3D%3D){target="_blank"} (confirmed)
 
 Waiting for abstract 
 
-+ Talk 3: **Title** by [Drew Gilson](https://www.linkedin.com/in/drewgillson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHewhCPhS6CCUxkRUC9aDw%3D%3D){target="_blank"}
++ Talk 3: Confirmed -- **Title** by [Drew Gilson](https://www.linkedin.com/in/drewgillson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHewhCPhS6CCUxkRUC9aDw%3D%3D){target="_blank"}
 
 
 <br>
@@ -37,9 +37,9 @@ Waiting for abstract
 + Location: TBA
 + [RSVP at meetup](){target="_blank"}
 
-+ Talk 1: **Title** by [David Shakleton](https://www.linkedin.com/in/ca-data-automation-leader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B26ezNoGITs29XJD4cO4veA%3D%3D){target="_blank"} 
++ Talk 1: Confirmed -- **Title** by [David Shakleton](https://www.linkedin.com/in/ca-data-automation-leader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B26ezNoGITs29XJD4cO4veA%3D%3D){target="_blank"} 
 
-+ Talk 2: **Title** by [Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  
++ Talk 2: Confirmed -- **Title** by [Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  
 
 + Talk 3: looking for a volunteer 
 
@@ -49,9 +49,9 @@ Waiting for abstract
 + Location: TBA
 + [RSVP at meetup](){target="_blank"}
 
-+ Talk 1: [Dylan Loader](https://www.linkedin.com/in/dylan-loader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXN0Ay7DTT2%2Bxgoiw%2BQyChw%3D%3D){target="_blank"}
++ Talk 1: Confirmed -- title, by [Dylan Loader](https://www.linkedin.com/in/dylan-loader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXN0Ay7DTT2%2Bxgoiw%2BQyChw%3D%3D){target="_blank"}
 
-+ Talk 2: title, looking for a volunteer 
++ Talk 2: Confirmed -- title, by [Niaz Tadayyon](){target="_blank"}
 
 <br>
 
@@ -72,3 +72,4 @@ Waiting for abstract
 + Talk 1: title, looking for a volunteer 
 
 + Talk 2: title, looking for a volunteer 
+
