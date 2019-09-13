@@ -28,16 +28,16 @@ navbar:
       menu:
         - text: "R-Meds"
           href: rmeds.html
-        - text: "R-Geomatics"
-          href: rgeo.html
+#         - text: "R-Geomatics"
+#           href: rgeo.html
         - text: "R-Energy"
           href: renergy.html
         - text: "R-Green"
           href: rgreen.html
-        - text: "R-LifeSci"
-          href: rlifesci.html
-        - text: "R-Economics"
-          href: reconomics.html
+#         - text: "R-LifeSci"
+#           href: rlifesci.html
+#         - text: "R-Economics"
+#           href: reconomics.html
     - text: "Connect"
       menu:
         - text: "Fellowship"

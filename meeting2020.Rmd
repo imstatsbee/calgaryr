@@ -4,32 +4,46 @@ output: html_document
 date: updated on `r Sys.Date()` since 2019-04-30 
 ---
 
+Please do not hesitate to contact [Chel](mailto:chelhee.lee@ucalgary.ca), [Jonathan Lin](mailto:hello@jonlin.ca), [Dylan Loader](mailto:dylan.loader1@ucalgary.ca), and [Ben Reeves](mailto:breeves@viewpointgroup.ca) for questions. 
 
-Please do not hesitate to contact [Chel](mailto:imstatsbee@gmail.com) or [Jonathan Lin](mailto:hello@jonlin.ca) for questions. 
+## Date/Time 
+
+May 16, 2020 Saturday from 8 AM to 5 PM (Confirmed)
 
 ### Objectives 
 
+R-specific 
+
 ### Abstract Submission 
+
+Submission deadline: January 30, 2019 
+
 
 ### Sessions
 
+1. Health
+
+2. Energy
+
+3. Business and Life Science
+
+### Networking Session
+
 ### Agenda 
 
-To be announced 
-
-<!-- 
 8:30 Opening and breakfast 
-8:45 Contributing session for acknolwedgement 
+8:45 Acknowledgement
 9:15 Workshop 
 11:15 Job Fair & Lunch 
 13:00 session 1
 14:00 session 2
 15:00 session 3
 16:00 closing 
---> 
 
-### Network Session
 
 ### Supporters 
+
+Please contact Chel. 
+
 
 
