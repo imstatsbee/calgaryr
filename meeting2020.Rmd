@@ -8,19 +8,23 @@ Please do not hesitate to contact [Chel](mailto:chelhee.lee@ucalgary.ca), [Jonat
 
 # About CalgaryR 2020
 
-Welcome to the inarugual annual CalgaryR Meeting, hosted by the CalgaryR User Group. Come join your fellow R practioners and experience how R has been applied to a variety of disciplines within academia and industry.
+Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Group. Join your fellow R practioners and learn how to use R over variety of disciplines within academia and industry, on May 16, 2020.
 
 This event is open to all skill levels, industries and backgrounds.
+
+## Keynote Speaker
 
 ## Location & Date
 
 Saturday May 16, 2020
+
 8 AM to 5 PM (confirmed)
+
 University of Calgary
 
-### Objectives 
+## Registration Link
 
-R-specific 
+Registration link will be open here on January 15, 2020.
 
 ### Important Dates and Deadlines
 
@@ -32,7 +36,13 @@ January 30, 2020- Abstract submission deadline
 
 May 16, 2020 - CalgaryR 2020 Meeting!
 
-### Sessions
+## Sessions
+
+## Workshop
+
+Workshop xxx, hosted by yyy...
+
+## Speaker Sessions
 
 1. Health
 
@@ -40,18 +50,25 @@ May 16, 2020 - CalgaryR 2020 Meeting!
 
 3. Business and Life Science
 
-### Networking Session
-
 ### Agenda 
 
-8:30 Opening and breakfast 
-8:45 Acknowledgement
+8:30 Registration and breakfast
+
+8:45 Opening acknowledgement
+
 9:15 Workshop 
+
 11:15 Job Fair & Lunch 
-13:00 session 1
-14:00 session 2
-15:00 session 3
-16:00 closing 
+
+13:00 Session 1
+
+14:00 Session 2
+
+15:00 Session 3
+
+16:00 Closing 
+
+### Networking Session
 
 
 ### Partners & sponsors 
