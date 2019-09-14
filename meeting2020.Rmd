@@ -1,23 +1,36 @@
 ---
-title: "Meeting 2020"
+title: "CalgaryR Meeting 2020"
 output: html_document
 date: updated on `r Sys.Date()` since 2019-04-30 
 ---
 
 Please do not hesitate to contact [Chel](mailto:chelhee.lee@ucalgary.ca), [Jonathan Lin](mailto:hello@jonlin.ca), [Dylan Loader](mailto:dylan.loader1@ucalgary.ca), and [Ben Reeves](mailto:breeves@viewpointgroup.ca) for questions. 
 
-## Date/Time 
+# About CalgaryR 2020
 
-May 16, 2020 Saturday from 8 AM to 5 PM (Confirmed)
+Welcome to the inarugual annual CalgaryR Meeting, hosted by the CalgaryR User Group. Come join your fellow R practioners and experience how R has been applied to a variety of disciplines within academia and industry.
+
+This event is open to all skill levels, industries and backgrounds.
+
+## Location & Date
+
+Saturday May 16, 2020
+8 AM to 5 PM (confirmed)
+University of Calgary
 
 ### Objectives 
 
 R-specific 
 
-### Abstract Submission 
+### Important Dates and Deadlines
 
-Submission deadline: January 30, 2019 
+September 15, 2019 - Formal launch of the CalgaryR 2020 Meeting
 
+January 15, 2020 - Registration opens
+
+January 30, 2020- Abstract submission deadline
+
+May 16, 2020 - CalgaryR 2020 Meeting!
 
 ### Sessions
 
@@ -41,9 +54,11 @@ Submission deadline: January 30, 2019
 16:00 closing 
 
 
-### Supporters 
+### Partners & sponsors 
 
 Please contact Chel. 
 
+### Support team
 
+Please do not hesitate to contact [Chel](mailto:chelhee.lee@ucalgary.ca), [Jonathan Lin](mailto:hello@jonlin.ca), [Dylan Loader](mailto:dylan.loader1@ucalgary.ca), and [Ben Reeves](mailto:breeves@viewpointgroup.ca) for questions. 
 
