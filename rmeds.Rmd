@@ -5,13 +5,7 @@ output: html_document
 
 <br>
 
-Thank you for the leadership of the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
-
-<br>
-
-### Resources 
-
-[![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG
+Thank you for the leadership of the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine](mailto:caeastwo@ucalgary.ca) or [Erin](mailto:ekoconno@ucalgary.ca) for questions.
 
 <br>
 
@@ -24,16 +18,9 @@ Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.u
 Thursday in the first week of every month at 5:30 pm 
 <br>
 
-* September 5, 2019 - **nonlinear models with R**, by chel <br>[RSVP at meetup](https://www.meetup.com/calgaryr/events/263815910/){target="_blank"}<br>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and bioengineering research.  The first session (40 mins) provides an introduction to the use of nonlinear models with R.  The following are considered:  1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model.  In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using `nlme` package.  Extension to data with repeated measurements will be discussed if time permits.
+* October 3, 2019 - **Landscape of feature engineering and hyperparameter tuning** by [Dr. Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  <br> <br> Please [RSVP at meetup](https://www.meetup.com/calgaryr/events/264815846/){target="_blank"} if you are interested.  <br><br>The meeting starts by Dr. Catherine Eastwood and Dr. Muir will give a talk. Machine Learning techniques, while powerful, are very non-linear.  Configuring the problem, choosing an appropriate algorithm and reaching an optimal solution makes this a complex task.  Using an example of the calculation of NMR coupling constants, he will discuss the landscape of feature engineering and hyperparameter tuning, and maybe a bit about explainable models. You may bring your own laptop to run the code in the session.  R and Rstudio should be installed. This talk is running approximately 90 minutes. 
 
-<br>
-
-* October 3, 2019 
-<!--    + Talk 1. preprocessing with R, led by chel <br> data structure, manipulation and cleaning techniques, outlier detection, systematic errors, maintainence, preprocessing, etc -->
-    + Talk 1. **Title** by [Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  
     
-    + Talk 2. looking for a volunteer <!-- Shiny -->
-
 <br>
 
 
@@ -41,15 +28,10 @@ Thursday in the first week of every month at 5:30 pm
 
     + Talk 1. Functional programming in R, by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br> Abstract: TBA <br> 
     + Talk 2: looking for a volunteer 
+
+<br>
 <br>
 
-
-* December 5, 2019 
-
-    + Talk 1. looking for a volunteer 
-    + Talk 2. looking for a volunteer 
-    
-<br>
 
 * February 6, 2020 
     + Talk 1. [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} 
@@ -71,6 +53,11 @@ Thursday in the first week of every month at 5:30 pm
 
 <!-- Student Presentation from DataSci Program -->
 
+* September 5, 2019 - **nonlinear models with R**, by chel <br>[RSVP at meetup](https://www.meetup.com/calgaryr/events/263815910/){target="_blank"}<br>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and bioengineering research.  The first session (40 mins) provides an introduction to the use of nonlinear models with R.  The following are considered:  1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model.  In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using `nlme` package.  Extension to data with repeated measurements will be discussed if time permits.
+
+<br>
+
+
 
 ### Mentors and Advisors  
 
@@ -78,22 +65,12 @@ Thursday in the first week of every month at 5:30 pm
 * [Danijela Piskulic](https://www.linkedin.com/in/danijela-piskulic-phd-220bb312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUyE6SA%2FTMWl6GiSDtx1hA%3D%3D){target="_blank"} for topic 
 * [Khara Sauro](https://www.linkedin.com/in/khara-sauro-25206668?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By02rrBOoQJSCv48lQAb20g%3D%3D){target="_blank"} for topic   
 
+### Resources 
+
+[![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG
+
 
 ### Topics of interest
 
 Clinical trial, medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services, etc 
 
-### Statistical models/techniques:
-  + infectious disease model
-  + disease mapping 
-  + text summarization and sentiment analysis 
-  + medical chart parsing 
-  + survey response
-  + survial analysis / repeated measures / functional data analysis 
-  + time series / cosinor / wavelets / fourier  
-  + joint model of longitudinal and survival data 
-  + imaging data/neural network / CNN / RNN / 
-  + agreement of mesurement systems
-  + decision tree/predictive modeling 
-  + Bayesian analysis 
-  
