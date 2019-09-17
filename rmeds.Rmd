@@ -64,14 +64,17 @@ Thursday in the first week of every month at 5:30 pm
 * [Christian Job McIntosh](https://www.linkedin.com/in/christiane-job-mcintosh-4b402437?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk%2BWYR437QdCWMc41qi9BbA%3D%3D){target="_blank"} for topic 
 * [Danijela Piskulic](https://www.linkedin.com/in/danijela-piskulic-phd-220bb312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUyE6SA%2FTMWl6GiSDtx1hA%3D%3D){target="_blank"} for topic 
 * [Khara Sauro](https://www.linkedin.com/in/khara-sauro-25206668?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By02rrBOoQJSCv48lQAb20g%3D%3D){target="_blank"} for topic   
-* [Ryan Mercer](https://www.linkedin.com/in/ryan-mercer-5b38a257/){target="_blank"} for Genome and Bioinformatics
+<!-- 
+* [Ryan Mercer](https://www.linkedin.com/in/ryan-mercer-5b38a257/){target="_blank"} for Genome and Bioinformatics 
+-->
 
 ### Resources 
 
 [![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG
 
+<!-- 
 [Genome Alberta](http://www.genomealberta.ca/){target="_blank"} - bioinformatics
-
+-->
 
 ### Topics of interest
 
