@@ -69,8 +69,10 @@ Thursday in the first week of every month at 5:30 pm
 
 [![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG
 
+[Genome Alberta](http://www.genomealberta.ca/){target="_blank"} - bioinformatics
+
 
 ### Topics of interest
 
-Clinical trial, medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services, etc 
+design of clinical trial (Phase II/III), analysis of medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services, etc 
 
