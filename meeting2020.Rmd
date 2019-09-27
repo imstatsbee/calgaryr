@@ -13,11 +13,11 @@ This event is open to all skill levels, industries and backgrounds. We invite al
 
 ## Location & Date
 
-Saturday May 16, 2020
+Saturday May 16, 2020 (firmly confirmed)
 
 8:00 to 17:00
 
-University of Calgary (Engineering?)
+UC Engineering (?) Bow College (?) 
 
 ## Registration Details & Link
 
@@ -33,9 +33,11 @@ Included with your registration fee is:
 
 September 15, 2019 - Formal launch of the CalgaryR Meeting 2020
 
-January 15, 2020 - Registration opens
+November XX, 2019 - Abstract submission started 
 
-January 30, 2020- Abstract submission deadline
+Februrary 15, 2020 - Registration opens
+
+March 30, 2020- Abstract submission deadline
 
 May 16, 2020 - CalgaryR Meeting 2020!
 
@@ -49,13 +51,13 @@ Thank you for sharing your knowledge and moving the R community forward!
 
 We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). Please send abstract submissions to [](mailto:). Chairs will review and notify of abstract acceptance.
 
-1. Health, Life Science, Social Science (Chair: T.L.)
+1. Health, Life Science, Social Science <!-- (Chair: Tarah Lynch) -->
 
-2. Energy, Oil and Gas, Renewable Energy (Chair: J.F.)
+2. Energy, Oil and Gas, Renewable Energy <!-- (Chair: Jose Fernandes) -->
 
-3. TBA, Finance, Economics (Chair: K.R.)
+3. TBA, Finance, Economics <!-- (Chair: Kevin Rush) -->
 
-4. Open data (Chair: )
+<!-- 4. Open data (Chair: ) -->
 
 ### Abstract Format 
 
@@ -65,17 +67,17 @@ R needs to be used as the part of work.
 
 8:30 Registration and breakfast
 
-8:45 Opening acknowledgement
+8:45 Opening acknowledgement <!-- award to the invited speaker --> 
 
 9:15 Workshop 
 
-11:15 Job Fair & Networking Lunch (by Andrey Sivyakov)
+11:15 Job Fair & Networking Lunch <!-- (by Andrey Sivyakov) --> 
 
-13:00 Session 1
+13:00 Session 1 Health 
 
-14:00 Session 2
+14:00 Session 2 Energy 
 
-15:00 Session 3
+15:00 Session 3 Economics/Finance 
 
 16:00 Closing 
 
@@ -95,8 +97,6 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 
 ### Scientific Advisors
 
-* [H.S.](mailto:)
-* [A.W.](mailto:)
-* [J.W.](mailto:)
-* [T.W.](mailto:)
-* [G.J.](mailto:)
+* [H.S.](mailto:) <!-- Hua Shen, Professor, Mathematics and Statistics, UC --> 
+* [A.W.](mailto:) <!-- Alex Whalley, Professor, Economics, UC --> 
+<!-- Jingjing Wu?  One from computer science?  Ryan Hum? --> 
