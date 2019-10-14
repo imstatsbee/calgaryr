@@ -24,31 +24,17 @@ Thursday in the first week of every month at 5:30 pm
 <br>
 
 
-* November 7, 2019 
-
-    + Talk 1. Functional programming in R, by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br> Abstract: TBA <br> 
-    + Talk 2: looking for a volunteer 
-
-<br>
-<br>
+* November 7, 2019 - **Functional Programming Techniques in R** by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br><br>Please RSVP at [meetup]()<br><br> This presentation will begin with a short introduction into functional programming concepts, how they differ from imperial programming and why they are important. This will be followed by a discussion of language features in R that facilitate the use of functional techniques as well as some deficiencies. Examples will be given and seasoned R users may realize that they have
+used some of these techniques all the time. Finally, functional alternatives to using R will be mentioned. <br> <br>
 
 
-* February 6, 2020 
-    + Talk 1. [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} 
-    + Talk 2. looking for a volunteer
-
-<br>
+* February 6, 2020 - **TBA** by [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} <br><br>
+<br><br>
 
 * March 5, 2020 - looking for a volunteer to speak
-    + Talk 1. 
-    + Talk 2. 
-
 <br>
 
 * April 2, 2020  - looking for a volunteer to speak 
-
-    + Talk 1. 
-    + Talk 2. 
 <br>
 
 <!-- Student Presentation from DataSci Program -->
