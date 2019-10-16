@@ -5,7 +5,7 @@ output: html_document
 
 
 
-#### 2019-OCT-16 [title1 / title2](){target="_blank"}
+#### 2019-OCT-16 [Cybera’s tools&programs; application of TA&NLP; Calgary AI](){target="_blank"}
 + Location: N231, the second floor of the North Building, Bow Valley College
 + [RSVP at meetup](https://www.meetup.com/calgaryr/events/265139871/){target="_blank"}
 
@@ -17,7 +17,7 @@ output: html_document
 <br>
 
 #### 2019-NOV-20 [title1 / title2](){target="_blank"}
-+ Location: TBA
++ Location: Cenovus Odd Fellows Building 
 + [RSVP at meetup](){target="_blank"}
 
 + Talk 1: Confirmed -- **Title** by [David Shakleton](https://www.linkedin.com/in/ca-data-automation-leader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B26ezNoGITs29XJD4cO4veA%3D%3D){target="_blank"} 
