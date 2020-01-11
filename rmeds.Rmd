@@ -18,8 +18,6 @@ Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.u
 Thursday in the first week of every month at 5:30 pm 
 <br>
 
-* November 7, 2019 - **Functional Programming Techniques in R** by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br><br>Please RSVP at [meetup](https://www.meetup.com/calgaryr/events/265648330/)<br><br> This presentation will begin with a short introduction into functional programming concepts, how they differ from imperial programming and why they are important. This will be followed by a discussion of language features in R that facilitate the use of functional techniques as well as some deficiencies. Examples will be given and seasoned R users may realize that they have
-used some of these techniques all the time. Finally, functional alternatives to using R will be mentioned. <br> <br>
 
 
 * February 6, 2020 - **TBA** by [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} <br><br>
@@ -42,14 +40,18 @@ used some of these techniques all the time. Finally, functional alternatives to 
     
 <br>
 
+* November 7, 2019 - **Functional Programming Techniques in R** by [Dr. Matthias Kanta](https://www.linkedin.com/in/matthias-kanta-8a0923?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZI1%2FQ%2BNRyKhAWzuIWWhuA%3D%3D){target="_blank"} <br><br>Please RSVP at [meetup](https://www.meetup.com/calgaryr/events/265648330/)<br><br> This presentation will begin with a short introduction into functional programming concepts, how they differ from imperial programming and why they are important. This will be followed by a discussion of language features in R that facilitate the use of functional techniques as well as some deficiencies. Examples will be given and seasoned R users may realize that they have
+used some of these techniques all the time. Finally, functional alternatives to using R will be mentioned. <br> <br>
 
 
 
 ### Mentors and Advisors  
 
 * [Christian Job McIntosh](https://www.linkedin.com/in/christiane-job-mcintosh-4b402437?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk%2BWYR437QdCWMc41qi9BbA%3D%3D){target="_blank"} for topic 
+<!--
 * [Danijela Piskulic](https://www.linkedin.com/in/danijela-piskulic-phd-220bb312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUyE6SA%2FTMWl6GiSDtx1hA%3D%3D){target="_blank"} for topic 
 * [Khara Sauro](https://www.linkedin.com/in/khara-sauro-25206668?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By02rrBOoQJSCv48lQAb20g%3D%3D){target="_blank"} for topic   
+-->
 <!-- 
 * [Ryan Mercer](https://www.linkedin.com/in/ryan-mercer-5b38a257/){target="_blank"} for Genome and Bioinformatics 
 -->
