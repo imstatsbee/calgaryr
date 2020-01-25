@@ -5,6 +5,7 @@ subtitle: "Saturday May 16, 2020 from 8:00 to 17:00 at HSC Theater 3, University
 date: "updated on `r Sys.Date()` since 2019-04-30"
 ---
 
+
 ## About CalgaryR 2020
 
 Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Group. Join your fellow R practioners and learn how to use R over variety of disciplines within academia and industry, on May 16, 2020.
@@ -26,7 +27,8 @@ We are now accepting abstract submissions for R-focused applications related to 
 
 4. Open data analysis <!-- (Chair: ) -->
 
-Abstract format will be announced on November 15. 
+Abstract format will be announced on February 1, 2020.
+
 
 ### Important Dates and Deadlines
 
@@ -85,7 +87,7 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 
 * [H.S.](mailto:) <!-- Hua Shen, Professor, Mathematics and Statistics, UC --> 
 * [A.W.](mailto:) <!-- Alex Whalley, Professor, Economics, UC --> 
-<!-- Jingjing Wu?  One from computer science?  Ryan Hum? --> 
+* [J.W.](mailto:) <!--Jingjing Wu?  Ryan Hum? --> 
 
 <!--
 
@@ -97,3 +99,6 @@ Included with your registration fee is:
 
 -->
 
+
+[![](./img/ucchi.jpg){width=640px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} 
+[![](./img/ucbc.jpg){width=640px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>

@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-Thank you for the leadership of the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine](mailto:caeastwo@ucalgary.ca) or [Erin](mailto:ekoconno@ucalgary.ca) for questions.
+Thank you for the leadership of the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}.  Please contact [Catherine Eastwood](mailto:caeastwo@ucalgary.ca) for questions.
 
 <br>
 
@@ -15,18 +15,7 @@ Thank you for the leadership of the [Centre for Health Informatics](https://cumm
 
 Venue: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
 
-Thursday in the first week of every month at 5:30 pm 
-<br>
-
-
-
-* February 6, 2020 - **TBA** by [Dr. Tarah Lynch](linkedin.com/in/tarah-lynch-0415b119){target="_blank"} <br><br>
-<br><br>
-
-* March 5, 2020 - looking for a volunteer to speak
-<br>
-
-* April 2, 2020  - looking for a volunteer to speak 
+~~Thursday in the first week of every month at 5:30 pm~~ 
 <br>
 
 <!-- Student Presentation from DataSci Program -->
@@ -48,26 +37,39 @@ used some of these techniques all the time. Finally, functional alternatives to 
 ### Mentors and Advisors  
 
 * [Christian Job McIntosh](https://www.linkedin.com/in/christiane-job-mcintosh-4b402437?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk%2BWYR437QdCWMc41qi9BbA%3D%3D){target="_blank"} for topic 
+
 <!--
 * [Danijela Piskulic](https://www.linkedin.com/in/danijela-piskulic-phd-220bb312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzUyE6SA%2FTMWl6GiSDtx1hA%3D%3D){target="_blank"} for topic 
 * [Khara Sauro](https://www.linkedin.com/in/khara-sauro-25206668?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By02rrBOoQJSCv48lQAb20g%3D%3D){target="_blank"} for topic   
 -->
+
 <!-- 
 * [Ryan Mercer](https://www.linkedin.com/in/ryan-mercer-5b38a257/){target="_blank"} for Genome and Bioinformatics 
 -->
 
+<br>
+
 ### Resources 
 
-[![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG
+[![](./img/tm.png){width="200px"}](https://www.teachingmedicine.com/){target="_blank"} includes tutorial/videos for learning and practicing ECG.  Please contact [Jason Waechter](mailto:jwatcher@yahoo.ca) for questions. 
 
-[**Medlior Health Outcomes Research (MEDLIOR)**](https://www.medlior.com/?doing_wp_cron=1563294015.8833200931549072265625){target="_blank"} is an independent community-based research organization located in Quarry Park (Calgary, AB). Canadian owned and operated since 2008, Medlior has a strong reputation for providing health economics and outcomes research services in Canada, the US and the UK. Our diverse group of carefully selected experts offer substantial health system, academic, and industry experience, which ensures every Medlior project provides meaningful insights.
+<br>
+
+[**Medlior Health Outcomes Research (MEDLIOR)**](https://www.medlior.com/?doing_wp_cron=1563294015.8833200931549072265625){target="_blank"} is an independent community-based research organization located in Quarry Park (Calgary, AB). Canadian owned and operated since 2008, Medlior has a strong reputation for providing health economics and outcomes research services in Canada, the US and the UK. Our diverse group of carefully selected experts offer substantial health system, academic, and industry experience, which ensures every Medlior project provides meaningful insights. Please contact [Eileen Shaw](mailto:eileen.shaw@medlior.com) for questions. 
+
+<br>
+
+[**Genome Alberta**](http://www.genomealberta.ca/){target="_blank"} is a publicly funded not-for-profit corporation that initiates, funds, and manages genomics research and partnerships. We strive to be the leading source of information and administration related to genomics, metabolomics, bioinformatics, and biotech research in Alberta. Please contact [Ryan Mercer](https://www.linkedin.com/in/ryan-mercer-5b38a257/){target="_blank"} for questions. 
 
 
-<!-- 
-[Genome Alberta](http://www.genomealberta.ca/){target="_blank"} - bioinformatics
--->
+### Topics requested for study togehter 
 
-### Topics of interest
+* Design of clinical trial in Phase I/II/III
+* Analysis of medical image
+* ECG/EKG 
+* Omics data anslysis 
+* Precision medicine 
+* Health service research 
 
-design of clinical trial (Phase II/III), analysis of medical image, ecg reading,  cancer study, study design for SPOR, personalized medicine, cancer data, health services, etc 
 
+<font size="5">  <b>[![](./img/ucchi.jpg){width=320px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>

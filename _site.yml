@@ -32,8 +32,8 @@ navbar:
 #           href: rgeo.html
         - text: "R-Energy"
           href: renergy.html
-        - text: "R-Green"
-          href: rgreen.html
+        - text: "R-Omics"
+          href: romics.html
 #         - text: "R-LifeSci"
 #           href: rlifesci.html
 #         - text: "R-Economics"

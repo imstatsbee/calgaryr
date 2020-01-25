@@ -23,11 +23,11 @@ We could not continue our activities withtout the following sponsors:
 [![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
 
 <br>
-<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
-
-<font size="5"> <b>[University of Calgary Biostatistics Centre](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}</b> </font> 
-
+<font size="5">  <b>[![](./img/ucbc.jpg){width=320px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
 <font size="5">  <b>[![](./img/ucchi.jpg){width=320px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
+
+<br>
+<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
 
 
 
