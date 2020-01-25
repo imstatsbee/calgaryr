@@ -12,6 +12,7 @@ Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Gr
 
 This event is open to all skill levels, industries and backgrounds. We invite all those who wish to collaborate, learn and celebrate our skills and diversity.
 
+<br>
 
 ## Abstract Details 
 
@@ -30,6 +31,8 @@ We are now accepting abstract submissions for R-focused applications related to 
 Abstract format will be announced on February 1, 2020.
 
 
+<br>
+
 ### Important Dates and Deadlines
 
 September 15, 2019 - Forming an organizing committee
@@ -39,9 +42,13 @@ Februrary 15, 2020 - Registration opens via meetup (Registration link will be op
 March 30, 2020- Abstract submission deadline
 May 16, 2020 - CalgaryR Meeting 2020!
 
+<br>
+
 ## Workshop
 
 Abstract: To be announced shortly!
+
+<br>
 
 ### Agenda 
 
@@ -59,11 +66,15 @@ Abstract: To be announced shortly!
 | 4:30  | Closing |
 
 
+<br>
+
 ### Partners & Sponsors 
 
 The Meeting 2020 graciously thanks all our partners and members throughout the years, for their continued support and sponsorship of the CalgaryR community.
 
 To become a partner member for the Meeting 2020, or if you would like your company to be representated at the job fair and networking session, please contact [Chel](mailto:chelhee.lee@ucalgary.ca). 
+
+<br>
 
 ### Organizing Team 
 
@@ -73,6 +84,7 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 * [Ben Reeves](mailto:breeves@viewpointgroup.ca) - waiting for a confirmation 
 * [Andrey Sivyakov](mailto:asivyakov@suncor.com) - confirmed 
 
+<br>
 
 ### Scientific Advisors
 
