@@ -33,15 +33,10 @@ Abstract format will be announced on February 1, 2020.
 ### Important Dates and Deadlines
 
 September 15, 2019 - Forming an organizing committee
-
 October 15, 2019 - Formal launch of the CalgaryR 2020 meeting 
-
-November 15, 2019 - Abstract submission started 
-
-Februrary 15, 2020 - Registration opens via meetup (Registration link will be open here on January 15, 2020.  No registration fee is required.)
-
+February 1, 2020 - Abstract submission started 
+Februrary 15, 2020 - Registration opens via meetup (Registration link will be open here on February 1, 2020.  No registration fee is required.)
 March 30, 2020- Abstract submission deadline
-
 May 16, 2020 - CalgaryR Meeting 2020!
 
 ## Workshop
@@ -50,23 +45,18 @@ Abstract: To be announced shortly!
 
 ### Agenda 
 
-8:30 Registration and breakfast
-
-8:45 Opening acknowledgement <!-- award to the invited speaker --> 
-
-9:15 Workshop 
-
-11:15 Job Fair & Networking Lunch <!-- (by Andrey Sivyakov) --> 
-
-13:00 Session 1 Health 
-
-14:00 Session 2 Energy 
-
-15:00 Session 3 Economics/Finance 
-
-16:00 Session 4 Open Data / Life Science 
-
-17:00 Closing 
+| Time  | Description |
+|-------|----------------------------|
+| 8:30  | Registration Confirmation, Breakfast, and Networking | 
+| 8:45  | Welcoming and opening acknowledgement |
+| 9:00  | Community Award Ceremony and Student presentation | 
+| 9:30  | Workshop (Regression Diagnosis in R, by Prof. John Fox) | 
+| 12:30 | Lunch, Job Fair, Mentorship | 
+| 1:30  | Presentation |  
+| 2:00  | Contributed Talks from Energy | 
+| 3:00  | Contributed Talks from Health | 
+| 4:00  | Contributed Talks from Business | 
+| 4:30  | Closing |
 
 
 ### Partners & Sponsors 
@@ -77,17 +67,20 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 
 ### Organizing Team 
 
-* [Chel](mailto:chelhee.lee@ucalgary.ca)
-* [Jonathan Lin](mailto:hello@jonlin.ca)
-* [Dylan Loader](mailto:dylan.loader1@ucalgary.ca)
-* [Ben Reeves](mailto:breeves@viewpointgroup.ca)
-* [Andrey Sivyakov](mailto:asivyakov@suncor.com)
+* [Chel Hee Lee](mailto:chelhee.lee@ucalgary.ca) - confirmed 
+* [Jonathan Lin](mailto:hello@jonlin.ca) - confirmed 
+* [Dylan Loader](mailto:dylan.loader1@ucalgary.ca) - waiting for a confirmation 
+* [Ben Reeves](mailto:breeves@viewpointgroup.ca) - waiting for a confirmation 
+* [Andrey Sivyakov](mailto:asivyakov@suncor.com) - confirmed 
+
 
 ### Scientific Advisors
 
-* [H.S.](mailto:) <!-- Hua Shen, Professor, Mathematics and Statistics, UC --> 
-* [A.W.](mailto:) <!-- Alex Whalley, Professor, Economics, UC --> 
-* [J.W.](mailto:) <!--Jingjing Wu?  Ryan Hum? --> 
+* Dr. Catherine Eastwood 
+* Dr. Jingjing Wu 
+
+*  <!-- [H.S.](mailto:) Hua Shen, Professor, Mathematics and Statistics, UC --> 
+*  <!-- [A.W.](mailto:) Alex Whalley, Professor, Economics, UC --> 
 
 <!--
 
@@ -100,5 +93,13 @@ Included with your registration fee is:
 -->
 
 
-[![](./img/ucchi.jpg){width=640px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} 
-[![](./img/ucbc.jpg){width=640px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
+[![](./img/ucchi.jpg){width=500px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}   [![](./img/ucbc.jpg){width=500px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
+<br>
+<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
+
+<!-- 
+Canada Energy Regulator? 
+SunCor 
+Cenovus
+TG Energy 
+-->
