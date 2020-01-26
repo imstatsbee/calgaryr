@@ -6,47 +6,12 @@ date: "updated on `r Sys.Date()` since 2019-04-30"
 ---
 
 
-## About CalgaryR 2020
+<br>
+<br>
 
 Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Group. Join your fellow R practioners and learn how to use R over variety of disciplines within academia and industry, on May 16, 2020.
 
 This event is open to all skill levels, industries and backgrounds. We invite all those who wish to collaborate, learn and celebrate our skills and diversity.
-
-<br>
-
-## Abstract Details 
-
-Thank you for sharing your knowledge and moving the R community forward!
-
-We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). Please send abstract submissions to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
-
-1. Health, Life Science, Social Science <!-- (Chair: Tarah Lynch) -->
-
-2. Energy, Oil and Gas, Renewable Energy <!-- (Chair: Jose Fernandes) -->
-
-3. Business, Finance, Economics <!-- (Chair: Kevin Rush) -->
-
-4. Open data analysis <!-- (Chair: ) -->
-
-Abstract format will be announced on February 1, 2020.
-
-
-<br>
-
-### Important Dates and Deadlines
-
-September 15, 2019 - Forming an organizing committee
-October 15, 2019 - Formal launch of the CalgaryR 2020 meeting 
-February 1, 2020 - Abstract submission started 
-Februrary 15, 2020 - Registration opens via meetup (Registration link will be open here on February 1, 2020.  No registration fee is required.)
-March 30, 2020- Abstract submission deadline
-May 16, 2020 - CalgaryR Meeting 2020!
-
-<br>
-
-## Workshop
-
-Abstract: To be announced shortly!
 
 <br>
 
@@ -68,7 +33,51 @@ Abstract: To be announced shortly!
 
 <br>
 
-### Partners & Sponsors 
+## Workshop
+
+Abstract: To be announced shortly!
+
+<br>
+
+
+## Call Abstracts for Contributed Talks
+
+Thank you for sharing your knowledge and moving the R community forward!
+
+We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). Please send abstract submissions to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
+
+1. Health, Life Science, Social Science 
+
+2. Energy, Oil and Gas, Renewable Energy 
+
+3. Business, Finance, Economics
+
+4. Open data analysis 
+
+Abstract format will be announced on February 1, 2020.
+
+
+<br>
+
+## Important Dates and Deadlines
+
+September 15, 2019 - Forming an organizing committee
+
+October 15, 2019 - Formal launch of the CalgaryR 2020 meeting 
+
+February 1, 2020 - Abstract submission started 
+
+Februrary 15, 2020 - Registration opens via meetup (Registration link will be open here on February 1, 2020.  
+
+March 30, 2020- Abstract submission deadline
+
+May 16, 2020 - CalgaryR Meeting 2020!
+
+<br>
+
+
+
+## Partners & Sponsors 
 
 The Meeting 2020 graciously thanks all our partners and members throughout the years, for their continued support and sponsorship of the CalgaryR community.
 
@@ -76,23 +85,17 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 
 <br>
 
-### Organizing Team 
 
-* [Chel Hee Lee](mailto:chelhee.lee@ucalgary.ca) - confirmed 
-* [Jonathan Lin](mailto:hello@jonlin.ca) - confirmed 
+## Organizing Team 
+
+* [Chel Hee Lee](mailto:chelhee.lee@ucalgary.ca)
+* [Andrey Sivyakov](mailto:asivyakov@suncor.com)
+* [Ben Reeves](mailto:breeves@viewpointgroup.ca) - waiting for a confirmation
 * [Dylan Loader](mailto:dylan.loader1@ucalgary.ca) - waiting for a confirmation 
-* [Ben Reeves](mailto:breeves@viewpointgroup.ca) - waiting for a confirmation 
-* [Andrey Sivyakov](mailto:asivyakov@suncor.com) - confirmed 
 
 <br>
 
-### Scientific Advisors
-
-* Dr. Catherine Eastwood 
-* Dr. Jingjing Wu 
-
-*  <!-- [H.S.](mailto:) Hua Shen, Professor, Mathematics and Statistics, UC --> 
-*  <!-- [A.W.](mailto:) Alex Whalley, Professor, Economics, UC --> 
+Special Thanks to [Jonathan Lin](mailto:hello@jonlin.ca) and Dr. Catherine Eastwood.
 
 <!--
 
@@ -104,10 +107,13 @@ Included with your registration fee is:
 
 -->
 
+<br> 
 
-[![](./img/ucchi.jpg){width=500px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}   [![](./img/ucbc.jpg){width=500px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
+## Supporters
+
+[![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} [![](./img/ucbc.jpg){width=350px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
 <br>
-<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
+<font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
 
 <!-- 
 Canada Energy Regulator? 
