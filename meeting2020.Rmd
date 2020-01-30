@@ -114,6 +114,12 @@ Included with your registration fee is:
 <br>
 <font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
 
+[![](./img/RConsortium_Horizontal_Pantone.png){width=290px}](https://www.r-consortium.org/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![](./img/webhorizfulllarge.png){width=275px}](https://www.pims.math.ca/){target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <!-- 
 Canada Energy Regulator? 
 SunCor 
