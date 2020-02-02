@@ -33,18 +33,14 @@ This event is open to all skill levels, industries and backgrounds. We invite al
 
 <br>
 
-## Workshop
-
-Abstract: To be announced shortly!
-
-<br>
-
 
 ## Call Abstracts for Contributed Talks
 
 Thank you for sharing your knowledge and moving the R community forward!
 
-We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). Please send abstract submissions to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
+We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). 
+
+Please submit a title and an abstract of at most 1000 characters by March 31, 2020, to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
 
 1. Health, Life Science, Social Science 
 
@@ -54,8 +50,22 @@ We are now accepting abstract submissions for R-focused applications related to 
 
 4. Open data analysis 
 
-Abstract format will be announced on February 1, 2020.
+Please note that you are required to register for the meeting (link) before you can submit an abstract.
 
+
+
+<br>
+
+
+## Workshop - **Regression Diagnostics in R**
+
+John Fox, Professor Emeritus, McMaster University, Hamilton, Ontario, Canada
+
+A regression model describes how the distribution of a response variable---or some characteristic of that distribution, typically its mean---changes with the values of one or more explanatory variables. Regression diagnostics are methods for determining whether a regression model that has been fit to data adequately represents the structure of the data.  For example, if the model assumes a linear (straight-line) relationship between the response and an explanatory variable, is the assumption of linearity warranted? Regression diagnostics not only reveal deficiencies in a regression model that has been fit to data but in many instances may suggest how the model can be improved.
+
+This workshop describes the implementation of common regression diagnostics in R, using functions in the basic R distribution and in the car and effects packages. Focusing initially on linear regression models fit by least-squares, I'll discuss diagnostics for unusual data, including high-leverage points, outliers, and influential cases; problems with the distribution of the response variable, including non-normality and nonconstant error variance; nonlinearity, broadly construed as lack-of-fit; and (briefly) collinearity. I'll also explain how most of these diagnostics can be extended straightforwardly to generalized linear models, such as logistic regression, and---time permitting---to linear and generalized linear mixed-effects models, and to linear models estimated by two-stage least-squares (the latter with the new ivreg package for R).
+
+Most of the material for the workshop will be drawn from J. Fox, Regression Diagnostics, Second Edition (Sage, currently in press but to be published before the date of the workshop), and J. Fox and S. Weisberg, An R Companion to Applied Regression, Third Edition (Sage, 2019).  Materials for the workshop will be made available at <tinyurl.com/Calgary-diagnostics>.
 
 <br>
 
@@ -65,16 +75,15 @@ September 15, 2019 - Forming an organizing committee
 
 October 15, 2019 - Formal launch of the CalgaryR 2020 meeting 
 
-February 1, 2020 - Abstract submission started 
+February 15, 2020 - Abstract submission started 
 
-Februrary 15, 2020 - Registration opens via meetup (Registration link will be open here on February 1, 2020.  
+March 1, 2020 - Registration opens via meetup (Registration link)
 
 March 30, 2020- Abstract submission deadline
 
 May 16, 2020 - CalgaryR Meeting 2020!
 
 <br>
-
 
 
 ## Partners & Sponsors 
@@ -91,6 +100,7 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 * [Chel Hee Lee](mailto:chelhee.lee@ucalgary.ca)
 * [Andrey Sivyakov](mailto:asivyakov@suncor.com)
 * [Ben Reeves](mailto:breeves@viewpointgroup.ca)
+* [Dylan Loader](mailto:)
 
 <br>
 
@@ -121,10 +131,3 @@ Included with your registration fee is:
 [![](./img/medlior.png){width=275px}](https://www.medlior.com/?doing_wp_cron=1580355585.6735188961029052734375){target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<!-- 
-Canada Energy Regulator? 
-SunCor 
-Cenovus
-TG Energy 
--->
