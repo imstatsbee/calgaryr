@@ -40,7 +40,7 @@ Thank you for sharing your knowledge and moving the R community forward!
 
 We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). 
 
-Please submit a title and an abstract of at most 1000 characters by March 31, 2020, to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
+Please submit a title and an abstract of at most 700 words (minimal 350 word counts) by March 31, 2020, to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
 
 1. Health, Life Science, Social Science 
 
