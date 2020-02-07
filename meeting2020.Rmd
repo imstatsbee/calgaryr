@@ -112,17 +112,37 @@ Special Thanks to Dr. Catherine Eastwood.
 
 ## Supporters
 
-[![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} [![](./img/ucbc.jpg){width=350px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
-<br>
+
+<table>
+<tr>
+<td width="350">
 <font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
-
+</td>
+<td width="350">
+[![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}
+</td>
+<td width="350">
 [![](./img/RConsortium_Horizontal_Pantone.png){width=290px}](https://www.r-consortium.org/){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+
+
+<tr> <td> &nbsp; </td> <td> </td> <td> </td> </tr>
+
+<tr>
+<td>
 [![](./img/webhorizfulllarge.png){width=275px}](https://www.pims.math.ca/){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 [![](./img/medlior.png){width=275px}](https://www.medlior.com/?doing_wp_cron=1580355585.6735188961029052734375){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+[![](./img/viewpointgroup.png){width=350px}](https://www.viewpointresearch.ca/){target="_blank"}
+</td>
+</tr>
 
-[![](./img/viewpointgroup.png){width=290px}](https://www.viewpointresearch.ca/){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</table>
 
+
+
+[![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
