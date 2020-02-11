@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-**CalgaryR** is a community of data enthusiasts and endeavors working with R.  We are pursuing a continuing education and creating a self-development opportunity from experiences shared by our friends.  **[Chel Hee Lee](https://www.linkedin.com/in/gnustats/){target="_blank"}**, **[Marc Boulet](https://www.linkedin.com/in/marc-boulet-5bb87023/){target="_blank"}**, **[Cliff Sobchuk](https://www.linkedin.com/in/cliff-sobchuk/){target="_blank"}**, **[Emma Liu](https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/){target="_blank"}**, **[Ben Reeves](https://www.linkedin.com/in/benjamin-reeves-91566767/){target="_blank"}**, **[Andrey Sivyakov](https://www.linkedin.com/in/andrey-sivyakov-030394114/){target="_blank"}**, **[Jonathan Lin](https://github.com/jonlinca){target="_blank"}**, and **[Dylan Loader](https://www.linkedin.com/in/dylan-loader/){target="_blank"}**  are volunteered to organize events.   If you are interested in sponsoring our community, hosting a meeting, or making sugggestions, please feel free to contact one of the organizers.   Feedback or question via [email to Chel](mailto:imstatsbee@gmail.com) is of course most appreciated.  Please join our [Meetup](https://www.meetup.com/Calgary-R-User-Group/){target="_blank"} and  [public workspace on Slack](https://yyc-r.slack.com/){target="_blank"}.
+**CalgaryR** is a community of data enthusiasts and endeavors working with R.  We are pursuing a continuing education and creating a self-development opportunity from experiences shared by our friends.  **[Chel Hee Lee](https://www.linkedin.com/in/gnustats/){target="_blank"}**, **[Cliff Sobchuk](https://www.linkedin.com/in/cliff-sobchuk/){target="_blank"}**, **[Emma Liu](https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/){target="_blank"}**, **[Ben Reeves](https://www.linkedin.com/in/benjamin-reeves-91566767/){target="_blank"}**, **[Andrey Sivyakov](https://www.linkedin.com/in/andrey-sivyakov-030394114/){target="_blank"}**, **[Jonathan Lin](https://github.com/jonlinca){target="_blank"}**, and **[Dylan Loader](https://www.linkedin.com/in/dylan-loader/){target="_blank"}**  are volunteered to organize events.   If you are interested in sponsoring our community, hosting a meeting, or making sugggestions, please feel free to contact one of the organizers.   Feedback or question via [email to Chel](mailto:imstatsbee@gmail.com) is of course most appreciated.  Please join our [Meetup](https://www.meetup.com/Calgary-R-User-Group/){target="_blank"} and  [public workspace on Slack](https://yyc-r.slack.com/){target="_blank"}.
 
 <br>
 **<font size=5>Thanks to our fantastic sponsors!</font>**  
@@ -38,6 +38,8 @@ We could not continue our activities withtout the following sponsors:
 
 
 **<font size=5>Thanks to your service!</font>**  
+
+**2017 - 2020** [Marc Boulet](https://www.linkedin.com/in/marc-boulet-5bb87023/){target="_blank"}
 
 **2018 - 2019** [Sonbol Yazdanbakhsh](https://www.linkedin.com/in/sonbol-yazdanbakhsh-ph-d-99502735/){target="_blank"}
 
