@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-**CalgaryR** is a community of data enthusiasts and endeavors working with R.  We are pursuing a continuing education and creating a self-development opportunity from experiences shared by our friends.  **[Chel Hee Lee](https://www.linkedin.com/in/gnustats/){target="_blank"}**, **[Cliff Sobchuk](https://www.linkedin.com/in/cliff-sobchuk/){target="_blank"}**, **[Emma Liu](https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/){target="_blank"}**,  **[Andrey Sivyakov](https://www.linkedin.com/in/andrey-sivyakov-030394114/){target="_blank"}**, **[Jonathan Lin](https://github.com/jonlinca){target="_blank"}**, and **[Dylan Loader](https://www.linkedin.com/in/dylan-loader/){target="_blank"}**  are volunteered to organize events.   If you are interested in sponsoring our community, hosting a meeting, or making sugggestions, please feel free to contact one of the organizers.   Feedback or question via [email to Chel](mailto:imstatsbee@gmail.com) is of course most appreciated.  Please join our [Meetup](https://www.meetup.com/Calgary-R-User-Group/){target="_blank"} and  [public workspace on Slack](https://yyc-r.slack.com/){target="_blank"}.
+**CalgaryR** is a community of data enthusiasts and endeavors working with R.  We are pursuing a continuing education and creating a self-development opportunity from experiences shared by our friends.  **[Chel Hee Lee](https://www.linkedin.com/in/gnustats/){target="_blank"}**, **[Cliff Sobchuk](https://www.linkedin.com/in/cliff-sobchuk/){target="_blank"}**, **[Jonathan Lin](https://github.com/jonlinca){target="_blank"}**, and **[Dylan Loader](https://www.linkedin.com/in/dylan-loader/){target="_blank"}**  are volunteered to organize events.   If you are interested in sponsoring our community, hosting a meeting, or making sugggestions, please feel free to contact one of the organizers.   Feedback or question via [email to Chel](mailto:imstatsbee@gmail.com) is of course most appreciated.  Please join our [Meetup](https://www.meetup.com/Calgary-R-User-Group/){target="_blank"} and  [public workspace on Slack](https://yyc-r.slack.com/){target="_blank"}.
 
 <br>
 **<font size=5>Thanks to our fantastic sponsors!</font>**  
@@ -16,18 +16,43 @@ We could not continue our activities withtout the following sponsors:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -->
 
+<table>
+<tr>
+<td width="350">
+<font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
+</td>
+<td width="350">
+[![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}
+</td>
+<td width="350">
 [![](./img/RConsortium_Horizontal_Pantone.png){width=290px}](https://www.r-consortium.org/){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+
+
+<tr> <td> &nbsp; </td> <td> </td> <td> </td> </tr>
+
+<tr>
+<td>
 [![](./img/webhorizfulllarge.png){width=275px}](https://www.pims.math.ca/){target="_blank"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
 [![](./img/cenovus.png){width=250px}](https://www.cenovus.com/){target="_blank"}
+<!-- [![](./img/medlior.png){width=275px}](https://www.medlior.com/?doing_wp_cron=1580355585.6735188961029052734375){target="_blank"} -->
+</td>
+<td>
+<!-- [![](./img/viewpointgroup.png){width=350px}](https://www.viewpointresearch.ca/){target="_blank"} -->
+<!-- [![](./img/cybera.png){width=300px}](https://www.cybera.ca/){target="_blank"} -->
+</td>
+</tr>
 
-<br>
-<font size="5">  <b>[![](./img/ucbc.jpg){width=320px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"} </b>  </font>
-<font size="5">  <b>[![](./img/ucchi.jpg){width=320px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"} </b>  </font>
-
-<br>
-<font size="5">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
+<tr>
+<td>[![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 
 
@@ -39,12 +64,10 @@ We could not continue our activities withtout the following sponsors:
 
 **<font size=5>Thanks to your service!</font>**  
 
-**2019 - 2020** [Ben Reeves](https://www.linkedin.com/in/benjamin-reeves-91566767/){target="_blank"}
-
-**2017 - 2020** [Marc Boulet](https://www.linkedin.com/in/marc-boulet-5bb87023/){target="_blank"}
-
-**2018 - 2019** [Sonbol Yazdanbakhsh](https://www.linkedin.com/in/sonbol-yazdanbakhsh-ph-d-99502735/){target="_blank"}
-
-**2017 - 2018** [Laura Keating](https://www.linkedin.com/in/laurakeating/){target="_blank"} 
-
-**2017 - 2018** [Nima Safaian](https://www.linkedin.com/in/nimasafaian/){target="_blank"}
++ **2019 - 2020** [Andrey Sivyakov](https://www.linkedin.com/in/andrey-sivyakov-030394114/){target="_blank"}
++ **2019 - 2020** [Emma Liu](https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/){target="_blank"}
++ **2019 - 2020** [Ben Reeves](https://www.linkedin.com/in/benjamin-reeves-91566767/){target="_blank"}
++ **2017 - 2020** [Marc Boulet](https://www.linkedin.com/in/marc-boulet-5bb87023/){target="_blank"}
++ **2018 - 2019** [Sonbol Yazdanbakhsh](https://www.linkedin.com/in/sonbol-yazdanbakhsh-ph-d-99502735/){target="_blank"}
++ **2017 - 2018** [Laura Keating](https://www.linkedin.com/in/laurakeating/){target="_blank"} 
++ **2017 - 2018** [Nima Safaian](https://www.linkedin.com/in/nimasafaian/){target="_blank"}
