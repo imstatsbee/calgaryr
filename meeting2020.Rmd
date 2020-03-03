@@ -148,7 +148,9 @@ Special Thanks to Dr. Catherine Eastwood.
 <td>
 [![](./img/cybera.png){width=300px}](https://www.cybera.ca/){target="_blank"}
 </td>
-<td></td>
+<td>
+[![](./img/sas.png){width=300px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
+</td>
 </tr>
 
 </table>
