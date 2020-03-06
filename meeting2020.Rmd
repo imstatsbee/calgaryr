@@ -153,6 +153,19 @@ Special Thanks to Dr. Catherine Eastwood.
 </td>
 </tr>
 
+<tr>
+<td>
+[![](./img/pydata.png){width=300px}](){target="_blank"}
+</td>
+<td>
+<!-- [![](./img/cybera.png){width=300px}](https://www.cybera.ca/){target="_blank"} -->
+</td>
+<td>
+<!-- [![](./img/sas.png){width=300px}](https://www.sas.com/en_ca/home.html#){target="_blank"} -->
+</td>
+</tr>
+
+
 </table>
 
 
