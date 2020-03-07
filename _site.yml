@@ -22,16 +22,16 @@ navbar:
           href: casestudies.html
         - text: "Workshop"
           href: workshop.html
-        - text: "Intake"
-          href: intake.html
+#        - text: "Intake"
+#          href: intake.html
     - text: "SIG"
       menu:
         - text: "R-Meds"
           href: rmeds.html
 #         - text: "R-Geomatics"
 #           href: rgeo.html
-        - text: "R-Energy"
-          href: renergy.html
+#         - text: "R-Energy"
+#           href: renergy.html
         - text: "R-Omics"
           href: romics.html
 #         - text: "R-LifeSci"

@@ -1,12 +1,11 @@
 ---
-title: "CalgaryR Meeting 2020"
+title: "[CalgaryR Meeting 2020](https://www.meetup.com/calgaryr/events/269259717/){target='_blank'}"
 output: html_document
 subtitle: "Saturday May 16, 2020 from 8:00 to 17:00 at HSC Theater 3, University of Calgary"
 date: "updated on `r Sys.Date()` since 2019-04-30"
 ---
 
 
-<br>
 <br>
 
 Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Group. Join your fellow R practioners and learn how to use R over variety of disciplines within academia and industry, on May 16, 2020.
@@ -23,11 +22,11 @@ This event is open to all skill levels, industries and backgrounds. We invite al
 | 8:45  | Welcoming and opening acknowledgement |
 | 9:00  | Community Award Ceremony and Student presentation | 
 | 9:30  | Workshop (Regression Diagnosis in R, by Prof. John Fox) | 
-| 12:30 | Lunch, Job Fair, Mentorship | 
-| 1:30  | Presentation |  
-| 2:00  | Contributed Talks from Energy | 
-| 3:00  | Contributed Talks from Health | 
-| 4:00  | Contributed Talks from Business | 
+| 12:30 | Lunch, Job Fair, Mentorship, Networking | 
+| 1:30  | Presentation (in progress) |  
+| 2:00  | Contributed Talks from Energy (in progress) | 
+| 3:00  | Contributed Talks from Health (in progress)| 
+| 4:00  | Contributed Talks from Business (in progress)| 
 | 4:30  | Closing |
 
 
@@ -38,21 +37,14 @@ This event is open to all skill levels, industries and backgrounds. We invite al
 
 Thank you for sharing your knowledge and moving the R community forward!
 
-We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). 
+We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). It would be great if your talk belongs to one of the followings:
 
-Please submit a title and an abstract of at most 700 words (minimal 350 word counts) by March 31, 2020, to [calgaryr2020](mailto:chelhee.lee@ucalgary.ca). Chairs will review and notify of abstract acceptance.
+1. Medicine, Public Health, Bioinformatics, Pharmaceutical industry  
+2. Oil and Gas, Renewable Energy, Environment 
+3. Business, Finance, Economics, Life, Social & Political Sciences 
+4. Open data analysis & software development  
 
-1. Health, Life Science, Social Science 
-
-2. Energy, Oil and Gas, Renewable Energy 
-
-3. Business, Finance, Economics
-
-4. Open data analysis 
-
-Please note that you are required to register for the meeting (link) before you can submit an abstract.
-
-
+Please submit a title and an abstract of at most 700 words (minimal 350 word counts) by March 31, 2020, to [the organizing team via email](mailto:chelhee.lee@ucalgary.ca).  Chairs will review and notify of abstract acceptance.  Note that you are required to [register for the meeting](https://www.meetup.com/calgaryr/events/269259717/){target="_blank"} before you can submit an abstract.
 
 <br>
 
@@ -71,31 +63,16 @@ Most of the material for the workshop will be drawn from J. Fox, Regression Diag
 
 ## Important Dates and Deadlines
 
-September 15, 2019 - Forming an organizing committee
+September 15, 2019 - Forming an organizing committee <br>
+October 15, 2019 - Formal launch of the CalgaryR 2020 meeting <br>
+February 15, 2020 - [Abstract submission started (via email)](mailto:chelhee.lee@ucalgary.ca)  <br>
+March 7, 2020 - [Registration opens via meetup](https://www.meetup.com/calgaryr/events/269259717/){target="_blank"} <br>
+April 10, 2020- Abstract submission deadline <br>
+April 15, 2020 - Notifiation of accepted abstracts <br>
+May 16, 2020 - CalgaryR Meeting 2020! <br>
 
-October 15, 2019 - Formal launch of the CalgaryR 2020 meeting 
-
-February 15, 2020 - Abstract submission started 
-
-March 1, 2020 - Registration opens via meetup (Registration link)
-
-March 30, 2020- Abstract submission deadline
-
-March 15, 2020 - Notifiation of accepted abstracts 
-
-May 16, 2020 - CalgaryR Meeting 2020!
 
 <br>
-
-
-## Partners & Sponsors 
-
-The Meeting 2020 graciously thanks all our partners and members throughout the years, for their continued support and sponsorship of the CalgaryR community.
-
-To become a partner member for the Meeting 2020, or if you would like your company to be representated at the job fair and networking session, please contact [Chel](mailto:chelhee.lee@ucalgary.ca). 
-
-<br>
-
 
 ## Organizing Team 
 
@@ -104,13 +81,17 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 * [Ben Reeves](mailto:breeves@viewpointgroup.ca)
 * [Jonathan Lin](mailto:hello@jonlin.ca)
 
-<br>
-
 Special Thanks to Dr. Catherine Eastwood.
 
 <br> 
 
-## Supporters
+## Partners & Supporters
+
+The Meeting 2020 graciously thanks all our partners and members throughout the years, for their continued support and sponsorship of the CalgaryR community.
+
+To become a partner member for the Meeting 2020, or if you would like your company to be representated at the job fair and networking session, please contact [Chel](mailto:chelhee.lee@ucalgary.ca). 
+
+<br>
 
 
 <table>
@@ -118,7 +99,7 @@ Special Thanks to Dr. Catherine Eastwood.
 <td width="350">
 <font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
 </td>
-<td width="350">
+<td width="400">
 [![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}
 </td>
 <td width="350">
@@ -146,19 +127,19 @@ Special Thanks to Dr. Catherine Eastwood.
 [![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
 </td>
 <td>
-[![](./img/cybera.png){width=300px}](https://www.cybera.ca/){target="_blank"}
+[![](./img/cybera.png){width=275px}](https://www.cybera.ca/){target="_blank"}
 </td>
 <td>
-[![](./img/sas.png){width=300px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
+[![](./img/sas.png){width=275px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
 </td>
 </tr>
 
 <tr>
 <td>
-[![](./img/pydata.png){width=300px}](){target="_blank"}
+[![](./img/pydata.png){width=275}](https://www.meetup.com/PyData-Calgary/){target="_blank"}
 </td>
 <td>
-<!-- [![](./img/cybera.png){width=300px}](https://www.cybera.ca/){target="_blank"} -->
+[![](./img/rstudio.png){width=300px}](https://rstudio.com/){target="_blank"}
 </td>
 <td>
 <!-- [![](./img/sas.png){width=300px}](https://www.sas.com/en_ca/home.html#){target="_blank"} -->

@@ -1,10 +1,11 @@
 ---
 title: "**Career Connect**"
+subtitle: "in progress"
 output: html_document
 ---
 
 
-## Postings
+## Company Introduction
 
 Note that only Calgary-headquartered companies are listed here.  
 
