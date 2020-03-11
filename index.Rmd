@@ -47,9 +47,11 @@ We could not continue our activities withtout the following sponsors:
 </tr>
 
 <tr>
-<td>[![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
+<td>
+[![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
 </td>
-<td></td>
+<td>
+</td>
 <td></td>
 </tr>
 </table>

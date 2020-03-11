@@ -127,10 +127,10 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 [![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
 </td>
 <td>
-[![](./img/cybera.png){width=275px}](https://www.cybera.ca/){target="_blank"}
+[![](./img/cybera.png){width=250px}](https://www.cybera.ca/){target="_blank"}
 </td>
 <td>
-[![](./img/sas.png){width=275px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
+[![](./img/sas.png){width=250px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
 </td>
 </tr>
 
@@ -152,7 +152,7 @@ To become a partner member for the Meeting 2020, or if you would like your compa
 [![](./img/bionet.jpg){width=275}](https://www.bionet-alberta.org/){target="_blank"}
 </td>
 <td>
-<!-- [![](./img/rstudio.png){width=300px}](https://rstudio.com/){target="_blank"} -->
+[![](./img/CER.png){width=450px}](https://www.cer-rec.gc.ca/index-eng.html){target="_blank"}
 </td>
 <td>
 <!-- [![](./img/tm.png){width=300px}](https://www.teachingmedicine.com/){target="_blank"} -->
