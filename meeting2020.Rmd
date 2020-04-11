@@ -1,10 +1,12 @@
 ---
 title: "[CalgaryR Meeting 2020](https://www.meetup.com/calgaryr/events/269259717/){target='_blank'}"
 output: html_document
-subtitle: "Saturday May 16, 2020 from 8:00 to 17:00 at HSC Theater 3, University of Calgary"
+subtitle: "~~Saturday May 16, 2020~~ from 8:00 to 17:00 at HSC Theater 3, University of Calgary"
 date: "updated on `r Sys.Date()` since 2019-04-30"
 ---
 
+
+<h4>**Due the outbreak of COVID-18, the event is postponed to a later date.  We will keep you informed as soon as the new date is available.**</h4>
 
 <br>
 
