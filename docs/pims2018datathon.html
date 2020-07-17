@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>2018 Calgary PIMS Datathon</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Meetings
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="wishlist.html">Wishlist</a>
+    </li>
+    <li>
+      <a href="meetings1920.html">2019-2020</a>
+    </li>
+    <li>
+      <a href="meetings1819.html">2018-2019</a>
+    </li>
+    <li>
+      <a href="meetings1718.html">2017-2018</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="workshop.html">Workshop</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    SIG
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="rmeds.html">R-Meds</a>
+    </li>
+    <li>
+      <a href="romics.html">R-Omics</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Connect
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="fellowship.html">Fellowship</a>
+    </li>
+    <li>
+      <a href="careerdev.html">Companies</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Events
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="meeting2020.html">Meeting 2020</a>
+    </li>
+    <li>
+      <a href="pims2018datathon.html">PIMS 2018 Datathon</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><a href="https://www.projectdata.ca/" target="_blank"><strong>2018 Calgary PIMS Datathon</strong></a></h1>
+<h4 class="date"><br><strong>June 23-24, 2018 from 8 AM to 5 PM</strong><br><strong>Schulich School of Engineering, Ground Floor G24</strong><br><strong>Canadian Natural Resources Limited Engineering Complex</strong><br><strong>University of Calgary Main Campus</strong></h4>
+
+</div>
+
+
+<!-- https://www.pims.math.ca/industrial-event/180623-cpd -->
+<style>
+body {
+    <!-- background-image: url('img/SSE_horiz_RGB_HR.jpg'); -->
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: top 75px right;
+    background-size: 375px;
+}
+</style>
+<p><br></p>
+<font size="4">
+<table>
+<tr>
+<td>
+<a href="#objectives"><strong>Objectives</strong></a>    |   
+</td>
+<td>
+<a href="#theme"><strong>Theme</strong></a>    |   
+</td>
+<td>
+<a href="#outcome"><strong>Outcomes</strong></a>    |   
+</td>
+<td>
+<a href="#agenda"><strong>Agenda</strong></a>    |   
+</td>
+<td>
+<a href="#registration"><strong>Registration</strong></a>    |   
+</td>
+<td>
+<a href="#sponsors"><strong>Sponsors &amp; Contributors</strong></a>
+</td>
+</tr>
+</table>
+<p></font></p>
+<p><br></p>
+<p><a href="#outcome">Presentation files are available (2018-JUN-28)</a></p>
+<p><a href="#agenda">Agenda is now available! (2018-JUN-15)</a></p>
+<p><br></p>
+<div id="objectives" class="section level3">
+<h3><a id="objectives"><strong>Objectives</strong></a></h3>
+<p><a href="https://www.pims.math.ca/industrial-event/180623-cpd" target="_blank"><strong>The 2018 Calgary PIMS Datathon</strong></a> is a project led by the data-driven communities of Calgary. Our city is made up of hundreds of communities like ours, and we believe it is the responsibility of these communities to contribute to the city’s overall success. This datathon will create an opportunity for Calgarians to evaluate the available open (mainly found by <a href="https://data.calgary.ca/" target="_blank">the City of Calgary’s Open Data Portal</a>), and discuss ideas to enhance the infrastructure. Such enhancements can include, but are not limited to, <strong>improving data connectivity, suggesting the collection of new and relevant data points, and optimizing data usability</strong>.</p>
+<p><br></p>
+</div>
+<div id="theme" class="section level3">
+<h3><a id="theme"><strong>Theme</strong></a></h3>
+<p>We are interested in building a <strong>healthy</strong>, <strong>green</strong>, and <strong>safe</strong> city. You are free to make your own proposal on various topics as listed in the below:</p>
+<ul>
+<li>Health: health and wellness, sports and recreation, education, etc.</li>
+<li>Green: environment, tourism &amp; parks, etc.</li>
+<li>Safe: police, families and children, law and justices, road, driving, and transport, and safety and emergency services, etc.</li>
+</ul>
+<p>You are also encouraged to utilize the topics listed on the following sources:</p>
+<ul>
+<li><a href="http://www.calgary.ca/CityCouncil/Pages/Mayor/Mayor.aspx" target="_blank">Mayor’s Office Special Projects</a></li>
+<li><a href="http://www.calgary.ca/General/Pages/CitizenDashboard/Citizen-Dashboard-Landing.aspx" target="_blank">Citizen Dashboard (The City of Calgary’s Performance Portal)</a></li>
+<li><a href="https://engage.calgary.ca/" target="_blank">The Engage Section in the City of Calgary</a></li>
+<li><a href="http://www.calgary.ca/CS/IIS/Pages/home.aspx" target="_blank">Corporate Analytics &amp; Innovation</a></li>
+</ul>
+<p>The rule that you should keep is only to utilize at least one dataset from the <a href="https://data.calgary.ca/" target="_blank">Calgary Open City</a>. Any kinds of accessible data can be incorporated if data used do not violate law, privacy, and intellectual properties. A variety of resources about the city collected for research purpose is available from the <a href="http://www.calgary.ca/CSPS/CNS/Pages/Research-and-strategy/Research-and-Resources.aspx" target="_blank">Research and data about Calgary</a>.</p>
+<p><br></p>
+<div id="guideline" class="section level4">
+<h4><strong>Guideline</strong></h4>
+<p>Participants will be asked to develop and present a 10 minute presentation that contributes to one of the topics listed in the theme.</p>
+<ul>
+<li><p>A assocication map of the open source datasets aligned to their topic of choice. This map will help us see a potential connectivity between existing data sets and establish the standards for data sets which are newly developed.</p></li>
+<li><p>A report including relevant analyses for the city to explore</p></li>
+<li><p>Suggestions for improving the quality of the data required for the analysis. For the case where data sets are not available, you may propose some methods or tools for data collection.</p></li>
+</ul>
+<p><br></p>
+</div>
+<div id="example" class="section level4">
+<h4><strong>Example</strong></h4>
+<p>The following case study gives a blueprint for how a participant will work during this event. Assume that you are a participant who is interested in the issue of security within the community, ex. Banff Trail, where you are currently living in Calgary.</p>
+<ol style="list-style-type: decimal">
+<li><p>You believe that your community has a high rate of breaking and enter when comparing it to other communities. You are hence looking for some way to decrease this specific crime rate. You have a theory that surveillance cameras, which are not installed in either location, maybe key to reducing break and enter crimes.</p></li>
+<li><p>To address your idea, you start by searching for data about community crime rates. You find that the information that you want to use can be found from the <a href="https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/848s-4m4z" target="_blank">Calgary Police Crime Statistics</a> data set which is provided by the City of Calgary.</p></li>
+<li><p>You generate a crime map using Calgary community demographics and community boundaries which are also provided by the City of Calgary open data. Now, you look for evidence to support your idea about surveillance cameras.</p></li>
+<li><p>Even if your idea is not be supported by evidence, you can still address your thought. If the number of surveillance camera in your community is few or they are not well located for break and enter purposes. Hence, you now look for data that might support it. Unfortunately, you could not find any data that can be used to address your idea. In this case, you start writing a proposal with the reasons why such data are needed and what data is required to be collected. Subsequently, you suggest an analytical approach using this data to provide support for the thesis that surveillance cameras reduce break and enter crime.</p></li>
+<li><p>You still question the surveillance dead zone areas although the required data for your purpose is not available. You believe that traffic cameras may play such a role. Hence, you search for information about traffic camera locations. Using the point of view information from each camera, you make a bubble plot on the community map to show the traffic camera coverage which could be used for surveillance. You achieved the goals of event perfectly.</p></li>
+</ol>
+<p><br></p>
+</div>
+</div>
+<div id="outcomes" class="section level3">
+<h3><a id="outcome"><strong>Outcomes</strong></a></h3>
+<p><br></p>
+<div id="presented-works-on-day-2" class="section level4">
+<h4><strong>Presented Works on Day 2</strong></h4>
+<p>Thank you for sharing your work with us here. Note that only presentations that a sharing permission is obtained are listed here.</p>
+<p><br> <strong>Rain and Snow Harvesting for Plant Irrigation in YYC</strong>, by <a href="samuelbolu@gmail.com">Samuel Lu</a>, <a href="sophialu321@gmail.com">Shophia Lu</a>, <a href="mrezaira@ucalgary.ca">Monireh Rezai Rab</a>, <a href="alex1212ok@gmail.com">Alex Zhang</a>, <a href="jingjing5201988@hotmail.com">Jing Zhong</a>, <a href="zwenyan0616@GMAIL.COM">Wenyan Zhong</a></p>
+<p>See the <a href="./pims2018/pims_datathon_2018_rain_and_snow_harvesting_for_plant_irrigation_in_yyc.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
+<p>In Calgary, we rarely have to consider the consequences associated with water usage since it is an abundant and easily accessible natural resource within much of our country. However, it is necessary to bring to light the issue of clean water shortages due to excessive consumption. Upon analyzing the data present on Open Calgary, we observed that a significant proportion of water is spent on domestic and city wide irrigation. We explored one method in which excessive water usage can be reduced through our proposal of rain and snow harvesting for plant irrigation. Seeing that the City of Calgary has previously introduced mandatory garbage bins, recycling bins, and most recently, compost bins, which were all very effective, we decided to approach this issue in a similar manner. Our analysis shows that the peak of the demand for water coincides with the peak of precipitation in Calgary which occurs in spring/summer. By implementing the use of domestic rain barrels for each household, the expected outcome is that Calgarians would collect precipitation during the winter and spring seasons for use in the summer, thereby reducing the use of clean water on lawns. Further, this project envisions the future potential for the City of Calgary to introduce public precipitation collecting resources, thus also reducing the cost of water used on public irrigation projects.</p>
+<p><br> <strong>The Paths We Walk</strong> , by <a href="k.j.ross100@gmail.com">Karly Ross</a>, <a href="cyrus.towfigihi@gmail.com">Cyrus Towfighi</a>, <a href="">Ed</a></p>
+<p>See the <a href="./pims2018/pims_datathon_2018_the_paths_we_walk.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
+<p>The need to create effective tools for pedestrians to understand walking in their local context is outlined in the City of Calgary pedestrian strategy. Given the current trend of automating mapping and route-finding a component of creating walkability is create good automation for maps and route finding for the pedestrian the context. Maps like all models are good models with reasonable fit to reality when the parameters we use to define them are consistent with the systems they are modeling. From observations of the team, there is a distinction between the mental processes used when people map walking routes and when people map driving routes, thus using the same parameter inputs into both mapping and we hypothesize that route finding decreases in efficiency for automated mapping and designation of walking routes. The core hypotheses of the group is that if we find the right parameters the value and quality of the routes and the maps for pedestrians in the city of Calgary context will improve. We discussed strategies for determining pedestrian models and clarification on the mapping will require a literature search for information or a full-scale research project. To explore how to produce a test case our group filtered through the City of Calgary data sets to determine which data sets we could use given out hypothesis about mapping for pedestrians and which ones we would need. A selection of slides from our presentation are included below.</p>
+<p><br> <strong>Get active with open data!</strong>, by <a href="breeves997@gmail.com">Ben Reeves</a>, <a href="braedyn.au@ucalgary.ca">Braedyn Au</a>, <a href="chenxizhao2008@gmail.com">Chenxi Zhao</a>, <a href="linakhatibster@gmail.com">Lina Khatib</a>, <a href="russ@mikatahealth.com">Russ Brown</a>, <a href="benaceur.adam@gmail.com">Adam Benaceur</a></p>
+<p>See the <a href="./pims2018/pims_datathon_2018_get_active_with_open_data.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
+<p>Physical recreation is a thoroughly researched method shown to increase all aspects of health, cardiovascular, sleeping, mental, etc. However, despite the proven benefits, many adults do not meet the amount recommended not only by Alberta Health Services, but also the international scientific community. At the 2018 PIMS Datathon, we met fellow Calgarians which revealed that some of the major obstacles in participating in physical recreation, particularly of social nature such as team sports, was the difficulty of finding a place and people to play with. Examples included people who recently moved to Calgary and therefore do not know where the turf fields, baseball diamonds, or hockey rinks, etc. scattered around the city are, mothers who found it difficult to look through a multitude of resources just to enroll their children into a sports league, and others who just wanted to play an organized game but do not have enough players. To help solve this issue, the open data from the City of Calgary reveals geo-maps of all the recreational facilities and open sports grounds maintained by the City with metadata included. By taking this data and implementing it into our own platform, Calgarians can find nearby places to play all their favourite sports. To improve the social aspect, our platform also features live events and facility specific websites and information so not only will people know where they can play, but also when. By making Calgary’s facilities more accessible, we hope to promote a healthier lifestyle in our City.</p>
+<p><br></p>
+<p><strong>Safety and Redevelopment</strong>, by <a href="mailto:alexander.havers@ucalgary.ca">Alexander Havers</a>, <a href="mailto:andrey.sivyakov@ucalgary.ca">Andrey Sivyakov</a>, <a href="mailto:vineyk@hotmail.com">Keenan Viney</a>, <a href="mailto:mikel.k.khui@gmail.com">Michael Chui</a></p>
+<p>See the <a href="./pims2018/pims_datathon_2018_safety_and_redevelopment.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
+<p>Our team chose to look at how transit changes crime in the surrounding area. We felt this question was pertinent for two reasons. First, there is often significant opposition to new transit projects like the Green line and South West BRT based on fears that area crime will increase due to the new transit connection. Second, although there is a literature that generally finds transit increases crimes of opportunity, there was nothing found that would generalize well to the Calgary experience. The first thing we looked at was, the communities adjacent to C-train stations had higher crime rates. On average, adjacency to a C-train station was associated with a crime rate that was more than a third higher than other communities, and this difference was largely driven by an increase in the number of social disorder type crimes. The limitation in this analysis is that there is no suggestion about which way causality is running and also, given how long many of these stations have existed; it would be difficult to make recommendation to new station builds. For a more relevant insight, our team decided to employ a difference-in-difference analysis on the crime rates associated with the opening of the Tuscany C-train station. Our results show that there is an increase in crime as a result of a C-train station opening, the effect is relatively small, and in contrast to our earlier finding, the type of crime that increases most is theft from vehicles. We believe these results suggest a way forward for opening new C-train stations. Mitigations should be focused on the crime types that are caused by a station opening. These mitigations could include the design of the parking areas near new stations, educating the surrounding community about how they can make themselves less vulnerable to thefts from their vehicles, and tailored enforcement efforts based on the applicable crime types.</p>
+<p><br></p>
+<p><strong>Pedestrian Safety</strong>, by <a href="mailto:akaghzi@gmail.com">Asim Kaghzi</a></p>
+<p>See the <a href="./pims2018/pims_datathon_2018_pedestrian_safety.pdf" target="_blank"><strong>Presentation</strong></a> (uploaded on 2018-JUN-28)</p>
+<p>No abstract is provided.</p>
+<p><br></p>
+</div>
+</div>
+<div id="agenda" class="section level3">
+<h3><a id="agenda"><strong>Agenda</strong></a></h3>
+<p><br></p>
+<div id="june-23-2018-saturday" class="section level4">
+<h4><strong>June 23, 2018 Saturday</strong></h4>
+<p><strong>08:30</strong> Registration confirmation</p>
+<p><u><strong>Wi-fi</strong></u> Choose <strong>airuc-guest</strong></p>
+<p><u><strong>Breakfast (Continental)</strong></u></p>
+<p>Assorted Danishes, Mini Butter Croissant and Individual Assorted Yogurt with Fresh Sliced Fruit served with House Made Berry Jam, Butter and Preserves. Includes Pitchers of Orange and Apple Juice, Fair Trade Coffee and Tega Tea.</p>
+<p><strong>9:10</strong> Opening speech by Christian Rios &amp; Acknowledgement for participation</p>
+<p><strong>9:15</strong> Invited Session I: <b><u><em>Design Thinking and Doing: Hackathon Edition</em></u></b> by Gabrielle Dickson from Gabrielle Dickson*</p>
+<p><strong>9:45</strong> Invited Session II: <b><u><em>City of Calgary Open Data: Past, Present, Future and How you can be involved</em></u></b>, by Nichole Wyatt and Dale McNamee from the City of Calgary</p>
+<p><strong>10:15</strong> Competition Guideline</p>
+<p><strong>10:30</strong> Competition Start!</p>
+<p><strong>12:00</strong> Final call for team registration</p>
+<p><u><strong>Lunch (Taj Mahal Buffet)</strong></u></p>
+<p>Butter Chicken or Chana Masala served with Basmati Rice, Warm Naan and Assorted House Baked Cookies. Includes Ice Water. <strong>Butter Chicken</strong></p>
+<p><strong>2:30</strong> Refresher (<strong>Popcorn Trio</strong>) - Caramel, Cheddar and Buttered Popcorn. Includes Fair Trade Coffee, Tega Tea and Ice Water.</p>
+<p><strong>5:00</strong> The G24 is closed and open 8:00 AM on Sunday</p>
+<p><br></p>
+</div>
+<div id="june-24-2018-sunday" class="section level4">
+<h4><strong>June 24, 2018 Sunday</strong></h4>
+<p><strong>8:30</strong> <u><strong>Dino Breakfast</strong></u></p>
+<p>Your choice of Buttermilk Pancakes or Belgium Waffles with Butter and Syrup served with Scrambled Eggs, Bacon or Sausage Links and Cubed Hash Browns. Includes Pitchers of Orange and Apple Juice, Fair Trade Coffee and Tega Tea. Belgium Waffles, Bacon and coffee</p>
+<p><strong>12:00</strong> <u><strong>Lunch</strong></u></p>
+<p>Between Bread Package Your Selection of Deli-Style Sandwiches, one Sandwich per person.</p>
+<p>Includes: Fair Trade Coffee, Tega Tea, Assorted Canned Beverages, Fresh House Baked Cookies, Signature Kettle Chips with Sriracha Dip and your choice of Side.</p>
+<ul>
+<li><p>Egg Salad Croissant - (Between Breads Sandwich Selection)</p></li>
+<li><p>Chef’s Selection of Sandwiches and Wraps - (Between Breads Sandwich Selection)</p></li>
+<li><p>Roast Beef and Caramelized Onion on a Pretzel Roll - (Between Breads Sandwich Selection)</p></li>
+<li><p>Quinoa Kale and Sweet Potato Salad - (Between Bread Side Choice)</p></li>
+</ul>
+<p><strong>2:00</strong> Final Call for Team Submission</p>
+<p><strong>2:15</strong> Team Presentation &amp; Voting Begins</p>
+<p><strong>4:45</strong> Winner Announcement and closing ceremony</p>
+<p><strong>5:00</strong> Closing the event</p>
+<p><br></p>
+<div id="invited-session-1.-design-thinking-and-doing-hackathon-edition" class="section level5">
+<h5>Invited Session 1. <b><u><em>Design Thinking and Doing: Hackathon Edition</em></u></b></h5>
+<p><b><em>Gabrielle Dickson, Information designer, Gabrielle Dickson</em></b></p>
+<p>During this presentation, the application of the design thinking process in a hackathon setting will be discussed. Its applications in both guiding the project and facilitating collaboration between team members will be explored. The design thinking process will be broken down into three main phases: inspiration, ideation, and implementation. Each phase will be explained and related exercises and techniques participants may use during the hackathon will be shared. This will equip participants with a process and structure that they may work through during the hackathon.</p>
+<p>The format and techniques for preparing a design style presentation will also be shared. This will help participants to efficiently create effective presentations for their hackathon projects.</p>
+<p>This presentation will be structured as a mini workshop. Small activities will be included throughout to help participants understand, and engage with, the topic. <br> <br></p>
+</div>
+</div>
+<div id="invited-session-2-city-of-calgary-open-data-past-present-future-and-how-you-can-be-involved" class="section level4">
+<h4>Invited Session 2 <b><u><em>City of Calgary Open Data: Past, Present, Future and How you can be involved</em></u></b></h4>
+<p><b><em>Nichole Wyatt, Intellectual Property Analyst, Innovation, Data &amp; External Access, Corportate Analytics &amp; Innovation, City of Calgary</em></b></p>
+<p><b><em>Dale McNamee, Lead of the Open Data Program, City of Calgary</em></b></p>
+<p>The City of Calgary uses the Open Data Portal to increase public access to data and transparency in government. By enabling open access to data, the City supports innovation and reuse by the wider Calgary community for knowledge generation and economic development. The Portal hosts free of charge data sets, downloadable in multiple file formats from various City business units and departments. The Open Data portal offers visualizations, mapping capabilities and opportunities for community engagement to advance and continuously improve the lives of all.</p>
+<p>City of Calgary representative will cover the history and current state of open data at the City and provide a brief overview of data visualizations and other functions of the portal, including how to engage with the Open Data team to collaborate and suggest new data sets.</p>
+<p><br></p>
+</div>
+</div>
+<div id="registration" class="section level3">
+<h3><a id="registration"><strong>Registration</strong></a></h3>
+<p>You are eligible to join this datathon if you are living in Calgary. <strong>Participants are encouraged to explore and develop ideas as soon as making a registration (prior to the event)</strong> There is no cost for registration. What we need is just you. Please read the <strong>rules</strong>, <strong>schedule</strong>, and <strong>frequently asked questions</strong> to learn more.</p>
+<p><b><font size=4 color="blue"><a href="https://www.eventbrite.ca/e/2018-calgary-pims-datathon-tickets-46478153408" target="_blank">REGISTER</a></font></b> (Closed on June 22, 2018)</p>
+<!-- The online registration form is now available. -->
+<p><br></p>
+</div>
+<div id="thank-you-to-all-contributors" class="section level3">
+<h3><a id="sponsors"><strong>Thank You To All Contributors</strong></a></h3>
+<p>Many thanks to our volunteers, executive committee, supporters and sponsors. Without incredible amount of time and effort, this event cannot be held.</p>
+<p><br></p>
+</div>
+<div id="volunteers" class="section level3">
+<h3><strong>Volunteers</strong></h3>
+<ul>
+<li><a href="mailto:xlu@ucalgary.ca">Xiaobo Pan</a></li>
+<li><a href="mailto:xlu@ucalgary.ca">Ning Zhang</a></li>
+<li><a href="https://www.linkedin.com/in/dkyip/" taget="_blank">Derek Yip</a></li>
+<li><a href="https://www.linkedin.com/in/alice-lam-71796238/" target="_blank">Alice Lam</a></li>
+<li><a href="https://www.linkedin.com/in/rebecca-shupe-379b1312/" target="_blank">Rebecca Shupe</a></li>
+<li><a href="https://www.linkedin.com/in/lourdespelayo/" target="_blank">Lourdes Pelayo</a></li>
+<li><a href="https://www.linkedin.com/in/sonbol-yazdanbakhsh-ph-d-99502735/" target="_blank">Sonbol Yazdanbakhsh</a></li>
+<li><a href="https://www.linkedin.com/in/andrea-soo-197b0964/" target="_blank">Andrea Soo</a></li>
+</ul>
+<p><br></p>
+</div>
+<div id="executive-committee" class="section level3">
+<h3><strong>Executive Committee</strong></h3>
+<ul>
+<li><a href="https://www.linkedin.com/in/cliff-sobchuk/" target="_blank">Cliff Sobchuk</a> from <a href="https://www.meetup.com/Calgary-R-User-Group/" target="_blank">CalgaryR</a></li>
+<li><a href="https://www.linkedin.com/in/chloe-smith-46862353/" target="_blank">Chloe Smith</a> from <a href="https://www.meetup.com/Analytics-Calgary" target="_blank">Analytics Calgary</a></li>
+<li><a href="https://www.linkedin.com/in/drewgillson/" target="_blank">Drew Gilson</a> from <a href="https://www.meetup.com/meetup-group-wmHrkGoA" target="_blank">Calgary Artificial Intelligence</a></li>
+<li><a href="https://www.linkedin.com/in/emma-yizhou-liu-7a8b3242/" target="_blank">Emma Liu</a> from <a href="https://www.meetup.com/PyData-Calgary/" target="_blank">PyData</a></li>
+<li><a href="https://www.linkedin.com/in/geoff-zakaib-p-eng-mba-b5447a2/" target="_blank">Geoff Zakaib</a> from <a href="https://twitter.com/hashtag/CivicTechYYC?src=hash" target="_blank">Civic Tech YYC</a></li>
+</ul>
+<p><br></p>
+</div>
+<div id="chair-and-chief-organizers" class="section level3">
+<h3><strong>Chair and Chief Organizers</strong></h3>
+<ul>
+<li><a href="http://math.ucalgary.ca/math_unitis/profiles/cristian-rios" target="_blank">Cristian Rios</a>, Department of Mathematics and Statistics, University of Calgary</li>
+<li><a href="https://www.linkedin.com/in/gnustats/" target="_blank">Chel Hee Lee</a>, Department of Mathematics and Statistics, University of Calgary</li>
+<li><a href="https://www.linkedin.com/in/chloe-smith-46862353/" target="_blank">Chloe Smith</a>, Analytics Calgary</li>
+</ul>
+<p><br></p>
+</div>
+<div id="sponsors-and-supporters" class="section level3">
+<h3><strong>Sponsors and Supporters</strong></h3>
+<div id="platinum" class="section level4">
+<h4><strong>Platinum</strong></h4>
+<p><br> <a href="https://www.pims.math.ca/" target="_blank"><img src="img/webhorizfulllarge.png" width="300" /></a></p>
+<p><br></p>
+</div>
+<div id="gold" class="section level4">
+<h4><strong>Gold</strong></h4>
+<p><br> <a href="http://schulich.ucalgary.ca/" target="_blank"><img src="img/SSE_horiz_RGB_HR.jpg" width="300" /></a></p>
+<p><a href="http://math.ucalgary.ca/" target="_blank"><img src="img/uc-horz-rgb.png" width="200" /><br> <b><font size="4">Mathematics and Statistics</font></b></a></p>
+<p><br></p>
+</div>
+<div id="supporters" class="section level4">
+<h4><strong>Supporters</strong></h4>
+<p><a href="https://gabrielledickson.myportfolio.com/projects" target="_blank"><img src="img/gabrielle_dickson.png" width="300" /></a>             <a href="https://twitter.com/dataforgoodyyc?lang=en" target="_blank"><img src="img/data4good.png" width="250" /></a>             <a href="http://www.opencalgary.org/" target="_blank"><img src="img/open_calgary.jpg" width="250" /></a></p>
+<p><br> <a href="" target="_blank"><img src="img/ctyyc.jpg" width="250" /></a>             <a href="https://www.kommunitykonsulting.ca/" target="_blank"><img src="img/kommunity_konsulting.jpg" width="200" /></a>             <a href="https://www.thechicgeek.ca/" target="_blank"><img src="img/chic_geek.png" width="200" /></a></p>
+<p><br></p>
+</div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+This website is built since 2017-09-01 by using <a href="https://rmarkdown.rstudio.com/" target="_blank">Rmarkdown</a>.  Note that Information noted here comes with ABSOLUTELY NO WARRANTY and the contents are frequently changed without any notifications.
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
