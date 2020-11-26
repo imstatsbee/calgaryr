@@ -1,5 +1,5 @@
 name: "CalgaryR"
-output_dir: "."
+output_dir: "docs"
 navbar:
   left:
     - text: "Home"
@@ -16,10 +16,10 @@ navbar:
           href: meetings1718.html
     - text: "Projects"
       menu:
-        - text: "Resources"
-          href: resources.html
-        - text: "Case Studies"
-          href: casestudies.html
+#        - text: "Resources"
+#          href: resources.html
+#        - text: "Case Studies"
+#          href: casestudies.html
         - text: "Workshop"
           href: workshop.html
 #        - text: "Intake"
