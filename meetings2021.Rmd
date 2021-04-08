@@ -11,6 +11,42 @@ output: html_document
 + Location: Online Event
 + [RSVP at https://www.meetup.com/calgaryr/events/277113865/](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"}
 
-<b>Synopsis</b>: Solar energy converted to electricity (photovoltaic, or PV, electricity) seems almost too good to be true when it comes to thinking about ways of reducing global carbon emissions. According to a widely repeated claim, one hour's worth of the solar radiation which falls on the earth's surface could meet human energy needs for one year. Though impressive and technically "correct", this is far from being a practical or meaningful calculation. So how much carbon-neutral electricity could someone sitting in the Canadian prairies actually harvest from the sunshine falling on their backyard? The amount of solar radiation arriving at an individual's home is "variable," it depends on geographic location (latitude especially, but also longitude) and on the time of year (seasonality); it also depends on the time of day (solar energy is "intermittent"). In addition, there is an upper limit to the amount of solar radiation which a PV panel can convert into electricity. We will define the proportion of PV electricity generated to solar radiation received as the "efficiency" of such a panel (note that other definitions of PV efficiency exist in the literature). This efficiency is in turn a function of the composition of the PV cells making up the panel and the prevailing temperatures, wind speeds and irradiance (solar energy per unit of time) at the panel's location. Keeping everything else fixed, if you have a (relatively coarse) hourly dataset of solar radiation, you have 8760 data points in a non-leap year. A more complete dataset would likely contain around 500,000 observations at 30-second intervals (this assumes that the sun shines for approximately ~50% of hours in the year) of several different variables all of which contribute to the amount of PV electricity generated during a given interval. R lends itself perfectly to the data intensive task of planning and predicting the amount of solar insolation which falls on a given location, and the electricity which one can expect to harvest from it. Following a (very) broad introduction to solar energy and photovoltaics, we will explore a number of packages available in R which make it possible to access and analyse publicly available data on solar insolation, and to understand what this might mean in terms of solar PV potential at a site in Alberta. We will accomplish the latter by doing a walk-through of an example using the nasapower package available in CRAN, as well as a number of the graphics and GIS-related packages also available in R. This talk, aimed at a wide audience of R users, will illustrate why Alberta is a surprisingly perfect location for solar PV deployment and how you can convince yourself of that using R.
+<b>Synopsis</b>: Solar energy converted to electricity (photovoltaic, or PV, electricity) seems almost too good to be true when it comes to thinking about ways of reducing global carbon emissions. According to a widely repeated claim, one hour's worth of the solar radiation which falls on the earth's surface could meet human energy needs for one year. Though impressive and technically "correct", this is far from being a practical or meaningful calculation. So how much carbon-neutral electricity could someone sitting in the Canadian prairies actually harvest from the sunshine falling on their backyard? 
+
+The amount of solar radiation arriving at an individual's home is "variable," it depends on geographic location (latitude especially, but also longitude) and on the time of year (seasonality); it also depends on the time of day (solar energy is "intermittent"). In addition, there is an upper limit to the amount of solar radiation which a PV panel can convert into electricity. We will define the proportion of PV electricity generated to solar radiation received as the "efficiency" of such a panel (note that other definitions of PV efficiency exist in the literature). This efficiency is in turn a function of the composition of the PV cells making up the panel and the prevailing temperatures, wind speeds and irradiance (solar energy per unit of time) at the panel's location. Keeping everything else fixed, if you have a (relatively coarse) hourly dataset of solar radiation, you have 8760 data points in a non-leap year. A more complete dataset would likely contain around 500,000 observations at 30-second intervals (this assumes that the sun shines for approximately ~50% of hours in the year) of several different variables all of which contribute to the amount of PV electricity generated during a given interval. 
+
+R lends itself perfectly to the data intensive task of planning and predicting the amount of solar insolation which falls on a given location, and the electricity which one can expect to harvest from it. Following a (very) broad introduction to solar energy and photovoltaics, we will explore a number of packages available in R which make it possible to access and analyse publicly available data on solar insolation, and to understand what this might mean in terms of solar PV potential at a site in Alberta. We will accomplish the latter by doing a walk-through of an example using the nasapower package available in CRAN, as well as a number of the graphics and GIS-related packages also available in R. This talk, aimed at a wide audience of R users, will illustrate why Alberta is a surprisingly perfect location for solar PV deployment and how you can convince yourself of that using R.
 
 <b>About the speaker</b>: I have used R in a variety of settings for seven years now, for GIS/cartography applications, data analysis and linear optimisation. There are many reasons to love R, but the community of users is definitely one of the biggest. Last September, Edmonton became the 10th city which I have called home during my life. I'm looking forward to discovering more of the city, and to cycling to some parks and lakes as the summer goes on and the days get longer. 
+
+
+\
+
+## Upcomings!
+
+#### 2021-JUN/JULY/AUG [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+#### 2021-SEP/OCT [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+#### 2021-NOV/DEC [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-JAN/FEB [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-MAR/APR [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
