@@ -1,0 +1,42 @@
+---
+title: "**Meetings in 2022**"
+output: html_document
+---
+
+<br>
+
+
+#### 2022-JAN/FEB [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-MAR/APR [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-MAY/JUN [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-JUL/AUG [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-SEP/OCT [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2022-NOV/DEC [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event

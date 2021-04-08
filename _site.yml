@@ -8,14 +8,18 @@ navbar:
       menu:
         - text: "Wishlist"
           href: wishlist.html
-        - text: "2020-2021"
+        - text: "2022"
+          href: meetings2022.html
+        - text: "2021"
           href: meetings2021.html
-        - text: "2019-2020"
-          href: meetings1920.html
-        - text: "2018-2019"
-          href: meetings1819.html
-        - text: "2017-2018"
-          href: meetings1718.html
+        - text: "2020"
+          href: meetings2020.html
+        - text: "2019"
+          href: meetings2019.html
+        - text: "2018"
+          href: meetings2018.html
+        - text: "2017"
+          href: meetings2017.html
     - text: "Projects"
       menu:
 #        - text: "Resources"
@@ -49,7 +53,7 @@ navbar:
     - text: "Events"
       menu:
         - text: "Meeting 2020"
-          href: meeting2020.html
+          href: calgaryR2020.html
         - text: "PIMS 2018 Datathon"
           href: pims2018datathon.html
 output:

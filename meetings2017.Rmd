@@ -1,0 +1,78 @@
+---
+title: "**Meetings in 2017**"
+output: html_document
+---
+
+
+
+<br>
+
+* 2017-DEC-06 [**Feature Selection Methods for Classification in Machine Learning**](https://www.meetup.com/Calgary-R-User-Group/events/244193351/){target="_blank"}, by Brendan Cord Lethebe, Biostatistician, Clinical Research Unit, University of Calgary 
+
+Using machine learning feature selection methods for classification purposes. Methods used will be: Forward Stepwise Logistic Regression, LASSO logistic regression, the C5.0 decision tree, Rpart Decision trees, and CHAID decision trees. Learning to use multiple methods to create interpretable classifiers. Also, simple bootstrapping and cross-fold validation methods will be implemented.
+
+<center>
+<img src="./img/C1718/20171206/fig3.png" height="200px" width="400px">
+</center>
+
+
+<br>
+
+* 2017-NOV-22 [**Time-series Prediction with R**](https://www.meetup.com/Calgary-R-User-Group/events/244193373/){target="_blank"}
+
+In this session, we will go through a public data set and learn how to plot the time series, how to adjust trend and seasonality in the time series and how to use the Forecast library to predict the time series.
+
+
+
+<br>
+
+* 2017-NOV-08 [**Intermediate Data Cleaning Techniques using R**](https://www.meetup.com/Calgary-R-User-Group/events/244192826/){target="_blank"}
+
+This lecture provides a practical guideline for writing data cleaning script. We start with understanding variable types and measurement scale for analysis. In the first session (30 mins), we will explore indexing and matching techniques, data type conversion and recoding, and string manipulation and standardization in terms of technical correctness of data. In the second session (30 mins), techniques for handling missing and special values and determining outliers are explored in terms of data consistency. If time is permitted, a brief introduction to imputation technique will be provided.
+
+
+<br>
+
+* 2017-OCT-25 [**Examples of developing application using R**](https://www.meetup.com/Calgary-R-User-Group/events/244136287/){target="_blank"}
+
+
+R has been used in various areas as well as many different ways. In this talk, three types of examples in developing application will be presented. These include using R as a standalone program, a part of modules, and a main procedure. In addition, the common goal of these examples is to reduce the human resource and to improve the performance.
+
+
+<br>
+
+* 2017-OCT-11 [**Word Cloud using Twitter Data (Regular Expression) and Tidy Data Methodology**](https://www.meetup.com/Calgary-R-User-Group/events/243830285/){target="_blank"}
+
+
+A visualization technique for text data will be explored. We start with extracting data from Twitter and discuss how to clean up the text for analysis. New R users can learn the basics of regular expression. Once stop words are removed, a word cloud will be generated.
+
+We continue to work with the Calgary Police Crime Statistics. We will reformat the data according Hadley Wickham's "Tidy Data" methodology and add 2017 Calgary census data to the existing dataset, and perform some more exploratory data analysis.
+
+<center>
+<img src="./img/C1718/20171011/step5.png" height="350px" width="350px">
+</center>
+
+
+<br>
+
+* 2017-SEP-27 [**Potentials and Challenges of Analyzing Public Data (Mapping)**](https://www.meetup.com/Calgary-R-User-Group/events/243365546/){target="_blank"}
+
+This workshop discuss the potentials and challanges of working with the Calgary Policy Crime Statistics which are publicaly available. A problem of mapping crime incidence is considered. Some useful R functions and techniques needed for working this problem are shared. Note that the basic types of data objects are briefly reviewed for new R learners. Finally, the problem of data quality assurance, importance of data dictionary, and issues on deriving information from data are addressed for further analysis.
+[Download the R codes](./codes/calgaryr_mapping_exercise.R){target="_blank"}
+
+<center>
+<img src="./img/C1718/20170927/map2012_assault_calgary.png" height="400" width="400">
+</center>
+
+
+
+<br>
+
+* 2017-SEP-13 [**Social Gathering 2017 in Calgary**](https://www.meetup.com/Calgary-R-User-Group/events/242831904/){target="_blank"}
+
+Calgary R Users Group is planning to have a social gathering on the evening of September 13 for brief talks and discussion on topics in data science. Everyone is welcome. It is a good opportunity to meet other R users.  
+
+<center>
+<img src="./img/C1718/20170927/open_license.png" width="450px" height="300px"> 
+</center>
+

@@ -11,7 +11,7 @@
 
 
 
-<title>Meetings in 2019-2020</title>
+<title>Meetings in 2019</title>
 
 <script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -256,16 +256,22 @@ $(document).ready(function () {
       <a href="wishlist.html">Wishlist</a>
     </li>
     <li>
-      <a href="meetings2021.html">2020-2021</a>
+      <a href="meetings2022.html">2022</a>
     </li>
     <li>
-      <a href="meetings1920.html">2019-2020</a>
+      <a href="meetings2021.html">2021</a>
     </li>
     <li>
-      <a href="meetings1819.html">2018-2019</a>
+      <a href="meetings2020.html">2020</a>
     </li>
     <li>
-      <a href="meetings1718.html">2017-2018</a>
+      <a href="meetings2019.html">2019</a>
+    </li>
+    <li>
+      <a href="meetings2018.html">2018</a>
+    </li>
+    <li>
+      <a href="meetings2017.html">2017</a>
     </li>
   </ul>
 </li>
@@ -319,7 +325,7 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="meeting2020.html">Meeting 2020</a>
+      <a href="calgaryR2020.html">Meeting 2020</a>
     </li>
     <li>
       <a href="pims2018datathon.html">PIMS 2018 Datathon</a>
@@ -338,18 +344,35 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><strong>Meetings in 2019-2020</strong></h1>
+<h1 class="title toc-ignore"><strong>Meetings in 2019</strong></h1>
 
 </div>
 
 
-<p><br> #### 2019-SEP-18 <a href="https://www.meetup.com/calgaryr/events/263868941/" target="_blank">Event-Study Method, Similiarity, Susceptibility Ranking</a></p>
+<p><br> #### 2019-SEP-05 <a href="https://www.meetup.com/calgaryr/events/263815910/" target="_blank">nonlinear models with R**, by chel</a></p>
+<ul>
+<li>Location: <a href="https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space" target="_blank">5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary</a></li>
+</ul>
+<p><br>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and bioengineering research. The first session (40 mins) provides an introduction to the use of nonlinear models with R. The following are considered: 1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model. In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using <code>nlme</code> package. Extension to data with repeated measurements will be discussed if time permits.</p>
+<p><br></p>
+<div id="sep-18-event-study-method-similiarity-susceptibility-ranking" class="section level4">
+<h4>2019-SEP-18 <a href="https://www.meetup.com/calgaryr/events/263868941/" target="_blank">Event-Study Method, Similiarity, Susceptibility Ranking</a></h4>
 <ul>
 <li><p>Location: Cenovus Odd Fellows</p></li>
 <li><p><a href="https://www.meetup.com/calgaryr/events/263868941/" target="_blank">RSVP at meetup</a></p></li>
 <li><p>Talk 1: <strong>Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians</strong>, by <a href="https://www.linkedin.com/in/reinaldo-viccini-guti%C3%A8rrez-40171645?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzaorgguQRaWnPq6BuyEFLA%3D%3D" target="_blank">Reinaldo Viccini</a> <br><br> For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation’s energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed. The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine’s production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plant’s have a larger impact on the local mine’s intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine <br><br></p></li>
 <li><p>Talk 2: <strong>Using unsupervised machine learning to tag oil and gas pressure drop methods used in commercial flow simulators</strong>, by <a href="https://www.linkedin.com/in/adames-pablo-87149711?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B71saROFiRceFp2frfFszXQ%3D%3D" target="_blank">Pablo Adames</a><br><br> Oil and gas engineers rely on flow simulators to design and troubleshoot pipelines, wells, and thus the facilities needed to achieve production and operation targets within the safety and economic constraints. Commercial software simulators offer a wide choice of calculation methods for the pressure drop and liquid holdup at every point of the system, these are usually referred to as <code>flow correlations</code> for historical reasons. The difference in the numerical results of the simulations can vary significantly as a function of the flow method selected, leaving everything else constant. Unsupervised classification methods can be used to discover similarities in the results of the flow correlations available. Once the methods are tagged as belonging to a class of methods based on the similarity of the results, <code>a priory</code> knowledge can be used to assign meaning and make recommendations on the more consistent classes of methods to use in a particular production scenario. For this study, Schlumberger’s PIPESIM was used to assess 35 different methods on a model built from field data in the public domain, a metric was defined to assess similarity, the machine learning results were compared to the empirical knowledge, and consistent results were identified for this specific production scenario. The processing of the text files from the simulator and the subsequent statistical analysis and visualizations were done in R and the code is presented in reproducible research format using the package <code>knitr</code> and <code>RStudio</code>. The data and files are also available in <code>Github</code>.<br><br></p></li>
 </ul>
+<p><br></p>
+</div>
+<div id="oct-03-landscape-of-feature-engineering-and-hyperparameter-tuning-by-dr.-alastair-muir" class="section level4">
+<h4>2019-OCT-03 <a href="https://www.meetup.com/calgaryr/events/264815846/" target="_blank">Landscape of feature engineering and hyperparameter tuning by Dr. Alastair Muir</a></h4>
+<ul>
+<li>Location: <a href="https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space" target="_blank">5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary</a></li>
+</ul>
+<p>The meeting starts by Dr. Catherine Eastwood and Dr. Muir will give a talk. Machine Learning techniques, while powerful, are very non-linear. Configuring the problem, choosing an appropriate algorithm and reaching an optimal solution makes this a complex task. Using an example of the calculation of NMR coupling constants, he will discuss the landscape of feature engineering and hyperparameter tuning, and maybe a bit about explainable models. You may bring your own laptop to run the code in the session. R and Rstudio should be installed. This talk is running approximately 90 minutes.</p>
+<p><br></p>
+</div>
 <div id="oct-16-cyberas-toolsprograms-application-of-tanlp-calgary-ai" class="section level4">
 <h4>2019-OCT-16 <a href="" target="_blank">Cybera’s tools&amp;programs; application of TA&amp;NLP; Calgary AI</a></h4>
 <ul>
@@ -359,6 +382,15 @@ $(document).ready(function () {
 <li><p>Talk 2: <strong>Practical Applications of Text Analysis / Natural Language Processing</strong> by <a href="https://www.linkedin.com/in/naoko-tomioka-038108b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoYo7F26eTFunf2Yjv%2BChMQ%3D%3D" target="_blank">Naoko Tomioka</a><br>The field of text analysis is constantly evolving, and new tools and algorithms become available on a regular basis. Text analytic tools and packages range from low-level processing tools, such as tokenizer and entity extraction, to higher-level processing such as sentiment analysis and text classification. The applicability of each tool depends on the type of the data to be analysed and the intended use of the output. I will talk about several of my own projects in order to illustrate the process of selecting the best tools, and what text analysis looks like in a business context. <br><br></p></li>
 <li><p>Talk 3: (Cancelled) <del><strong>Community Development - Calgary Artificial Intellgience Meetup</strong> by <a href="https://www.linkedin.com/in/drewgillson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHewhCPhS6CCUxkRUC9aDw%3D%3D" target="_blank">Drew Gilson</a>, <br> Drew Gillson is a technologist, entrepreneur, and community leader. In addition to organizing the Calgary Artificial Intelligence Meetup, Drew works for Looker, a data analytics software company that is being acquired by Google. Drew has been an active member of the Calgary innovation ecosystem since the dark ages of 2001. He’ll share some highlights and learnings from his remarkable journey, in the hope that it will inspire you to also take the road less traveled.</del></p></li>
 </ul>
+<p><br></p>
+</div>
+<div id="nov-07-functional-programming-techniques-in-r-by-dr.-matthias-kanta" class="section level4">
+<h4>2019-NOV-07 <a href="https://www.meetup.com/calgaryr/events/265648330/">Functional Programming Techniques in R, by Dr. Matthias Kanta</a></h4>
+<ul>
+<li>Location: <a href="https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space" target="_blank">5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary</a></li>
+</ul>
+<p><br></p>
+<p>This presentation will begin with a short introduction into functional programming concepts, how they differ from imperial programming and why they are important. This will be followed by a discussion of language features in R that facilitate the use of functional techniques as well as some deficiencies. Examples will be given and seasoned R users may realize that they have used some of these techniques all the time. Finally, functional alternatives to using R will be mentioned.</p>
 <p><br></p>
 </div>
 <div id="nov-20-rig-state-detection-model-agnostic-approach-asset-failure-susceptibility-ranking" class="section level4">

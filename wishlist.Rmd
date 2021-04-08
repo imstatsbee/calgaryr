@@ -19,6 +19,7 @@ output: html_document
 Please contact one of organizers to request a topic.  We are searching for speakers 
 
 + Disease mapping 
++ Spatial data analysis 
 + Building a package 
 + Data management and preprocessing 
 + Outbreak detection 
@@ -48,11 +49,13 @@ Please contact one of organizers to request a topic.  We are searching for speak
 + Sports data analysis 
 + Probability models 
 + Imaging process 
++ RNA/DNA sequence data analysis 
 + Signal analysis 
 + Agreement between two measurement systems 
 + Advanced data cleaning and management techniques 
 + R on high performance computing environment 
 + Sample size calculation 
++ Genomic data analysis 
 
 
 

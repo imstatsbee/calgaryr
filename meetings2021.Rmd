@@ -1,5 +1,5 @@
 ---
-title: "**Meetings in 2020-2021**"
+title: "**Meetings in 2021**"
 output: html_document
 ---
 
@@ -24,7 +24,12 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 
 ## Upcomings!
 
-#### 2021-JUN/JULY/AUG [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+#### 2021-MAY/JUN [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+#### 2021-JUL/AUG [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
@@ -35,18 +40,6 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 + Location: Online Event
 
 #### 2021-NOV/DEC [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
-
-+ Speaker: [<b>Volunteer</b>](){target="_blank"}
-+ Location: Online Event
-
-
-#### 2022-JAN/FEB [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
-
-+ Speaker: [<b>Volunteer</b>](){target="_blank"}
-+ Location: Online Event
-
-
-#### 2022-MAR/APR [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
