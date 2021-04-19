@@ -61,11 +61,12 @@ A member of the R Community is:
 <img src = '../img/headshot/Lee, Chel Hee.jpg' alt = 'Chel Hee Lee' width = 150>
 <img src = '../img/headshot/Sobchuk, Cliff.jpg' alt = 'Cliff Sobchuck)' width = 150>
 <img src = '../img/headshot/Lin, Jonathan.jpg' alt = 'Jonathan Lin' width = 150>
+<img src = '../img/headshot/Pablo, Adames.jpg' alt = 'Adames Pablo' width = 150>
 <img src = '../img/headshot/Brosz, John.jpg' alt = 'John Brosz)' width = 150>
 <img src = '../img/headshot/Chu, Byron.jpg' alt = 'Byron Chu' width = 150>
 
+
 * Dylan Loader
-* Adames Pablo
 * Jennifer Lee
 
 ---
