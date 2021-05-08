@@ -1,15 +1,27 @@
 ---
-title: "**Meetings in 2021**"
+title: "**Meetings in 2021 (Virtual)**"
 output: html_document
 ---
 
 <br>
 
-#### 2021-APR-21 [Exploring Alberta’s Solar Resource through R](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"}
+#### 2021-JUL-XX [Title: TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Danielle Clake</b>](email:danielle.clake@ucalgary.ca){target="_blank"}
++ Location: Online Event
++ [RSVP at ](){target="_blank"}
+
+<b>Abstract</b> 
+
+\
+
+#### 2021-APR-21 [Exploring Alberta’s Solar Resource through R](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"} 
 
 + Speaker: [<b>Abed W Ayyad</b>](https://manipulativegerbil.blogspot.com/){target="_blank"}
 + Location: Online Event
 + [RSVP at https://www.meetup.com/calgaryr/events/277113865/](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"}
++ [ [An extended version of the slides is available from here] ](./archives/2021_04_21/abed_ayyad_beamer_slides_for_calgary_rug_21_april.pdf){target="_blank"}
++ [ [Full R Codes used for this talk are available from here] ](./archives/2021_04_21/codes_for_abed_ayyad_presentation_pablo_help.R){target="_blank"}
 
 <b>Synopsis</b>: Solar energy converted to electricity (photovoltaic, or PV, electricity) seems almost too good to be true when it comes to thinking about ways of reducing global carbon emissions. According to a widely repeated claim, one hour's worth of the solar radiation which falls on the earth's surface could meet human energy needs for one year. Though impressive and technically "correct", this is far from being a practical or meaningful calculation. So how much carbon-neutral electricity could someone sitting in the Canadian prairies actually harvest from the sunshine falling on their backyard? 
 
@@ -24,22 +36,24 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 
 ## Upcomings!
 
-#### 2021-MAY/JUN [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+#### 2021-AUG-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
 
-#### 2021-JUL/AUG [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
+#### 2021-SEP-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
 
-#### 2021-SEP/OCT [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
+#### 2021-OCT-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
 
-#### 2021-NOV/DEC [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+#### 2021-NOV [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
 + Speaker: [<b>Volunteer</b>](){target="_blank"}
 + Location: Online Event
