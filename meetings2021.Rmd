@@ -20,6 +20,8 @@ output: html_document
 + Speaker: [<b>Abed W Ayyad</b>](https://manipulativegerbil.blogspot.com/){target="_blank"}
 + Location: Online Event
 + [RSVP at https://www.meetup.com/calgaryr/events/277113865/](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"}
+
++ [ [Zoom video recording] ](https://www.youtube.com/watch?v=JddDAqsUWhM&feature=youtu.be){target="_blank"}
 + [ [An extended version of the slides is available from here] ](./archives/2021_04_21/abed_ayyad_beamer_slides_for_calgary_rug_21_april.pdf){target="_blank"}
 + [ [Full R Codes used for this talk are available from here] ](./archives/2021_04_21/codes_for_abed_ayyad_presentation_pablo_help.R){target="_blank"}
 
