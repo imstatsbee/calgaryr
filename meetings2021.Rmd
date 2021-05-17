@@ -5,15 +5,7 @@ output: html_document
 
 <br>
 
-#### 2021-JUL-XX [Title: TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
-+ Speaker: [<b>Danielle Clake</b>](email:danielle.clake@ucalgary.ca){target="_blank"}
-+ Location: Online Event
-+ [RSVP at ](){target="_blank"}
-
-<b>Abstract</b> 
-
-\
 
 #### 2021-APR-21 [Exploring Alberta’s Solar Resource through R](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"} 
 
@@ -36,6 +28,23 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 \
 
 ## Upcomings!
+
+
+#### 2021-JUN-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+\
+
+
+#### 2021-JUL-XX [Title: TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Danielle Clake</b>](email:danielle.clake@ucalgary.ca){target="_blank"}
++ Location: Online Event
+
+\
+
 
 #### 2021-AUG-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
