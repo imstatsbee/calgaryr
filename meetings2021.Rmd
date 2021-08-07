@@ -5,6 +5,20 @@ output: html_document
 
 <br>
 
+#### 2021-AUG-25 [Using R for Geographic Information System (GIS) and Landscape Analyses](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Danielle Clake</b>](){target="_blank"}
++ Location: Online Event
+
+\
+
+The loss of habitat is a well-known challenge facing global biodiversity, but we still require a better understanding of how specific aspects of landscape changes can affect communities. For example, while the amount of habitat available to a species is known to be important for its survival, there can also be an influence of the configuration of that habitat into one or many patches, or of the patches into either simple or complex shapes. Different landscape metrics have been developed to characterize these and other differences between habitats. R provides useful tools to calculate and assess landscape metrics, and to integrate the results into downstream analysis and modelling. 
+
+In this talk I will provide a brief overview of the basics of spatial data and geographic information system (GIS) analysis in R, using the sf and raster packages to create and visualize spatial data. I will then show how the landscapemetrics package can be used to characterize the composition and configuration of landscapes. 
+
+My research on bumble bee (Bombus sp.) habitat in the Rocky Mountains is an example of how these types of landscape analyses can be applied to test hypotheses about the relationships between species and the landscapes that they inhabit. I will discuss my findings in this project, and the various uses of R throughout.
+
+\
 
 
 #### 2021-APR-21 [Exploring Alberta’s Solar Resource through R](https://www.meetup.com/calgaryr/events/277113865/){target="_blank"} 
@@ -30,26 +44,7 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 ## Upcomings!
 
 
-#### 2021-JUN-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
-+ Speaker: [<b>Volunteer</b>](){target="_blank"}
-+ Location: Online Event
-
-\
-
-
-#### 2021-JUL-XX [Title: TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
-
-+ Speaker: [<b>Danielle Clake</b>](email:danielle.clake@ucalgary.ca){target="_blank"}
-+ Location: Online Event
-
-\
-
-
-#### 2021-AUG-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
-
-+ Speaker: [<b>Volunteer</b>](){target="_blank"}
-+ Location: Online Event
 
 
 #### 2021-SEP-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
