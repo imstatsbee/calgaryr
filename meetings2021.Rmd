@@ -5,9 +5,9 @@ output: html_document
 
 <br>
 
-#### 2021-AUG-25 (or 2021-SEP-XX) [Using R for Geographic Information System (GIS) and Landscape Analyses](https://www.meetup.com/calgaryr/events/){target="_blank"}
+#### 2021-SEP-29 [Using R for Geographic Information System (GIS) and Landscape Analyses](https://www.meetup.com/calgaryr/events/280192457/){target="_blank"}
 
-+ Speaker: [<b>Danielle Clake</b>](){target="_blank"}
++ Speaker: [<b>Danielle Clake</b>](danielle.clake@ucalgary.ca){target="_blank"}
 + Location: Online Event
 
 \
@@ -47,11 +47,11 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 
 #### 2021-OCT-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
-+ Speaker: [<b>occupied by Cherri Zhang</b>](){target="_blank"}
++ Speaker: [<b>occupied by Marta Vidal Garcia</b>](){target="_blank"}
 + Location: Online Event
 
 
 #### 2021-NOV [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
 
-+ Speaker: [<b>occupied by Marta Vidal Garcia</b>](){target="_blank"}
++ Speaker: [<b>occupied by Cherri Zhang</b>](){target="_blank"}
 + Location: Online Event
