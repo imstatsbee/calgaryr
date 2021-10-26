@@ -5,6 +5,20 @@ output: html_document
 
 <br>
 
+
+#### 2021-NOV-03 at 5:30 pm [Meta-analysis in Medical Research: A Critical Appraisal and Brief Tutorial](https://www.meetup.com/calgaryr/events/281143383/){target="_blank"}
+
++ Speaker: [<b>vDr. Stephana Julia Moss</b>](stephana.moss@ucalgary.ca){target="_blank"}
++ Location: Online Event
+
+\
+
+A systematic review and meta-analysis is a scientific exercise that impacts healthcare and health policy. Readers of systematic reviews and meta-analyses may be patients, clinicians, administrators, or policymakers and therefore possess a wide range of skill in understanding research terms. It is important that authors of systematic reviews and meta-analyses make every effort to guide readers in making the best use of results in myriad clinical contexts and settings. Dr. Moss will present a critical appraisal of the methodological approach of a published systematic review and meta-analysis that culminates with a brief tutorial that compares the statistical approach to meta-analysis in STATA and R.
+
+Dr. Moss received her BSc in Biochemistry from the University of Calgary, her MSc in Pharmacology from the University of Alberta, and her PhD in Epidemiology from the University of Calgary. Her most important scholarly contributions to date have centered on how to best partner with citizens in research. Thought leaders and funding agencies have been advocating with limited success for years for researcher-citizen partnerships to maximize the relevance and impact of scholarly work. Dr. Moss’s work epitomizes the value of this conceptual approach.
+
+\
+
 #### 2021-SEP-29 [Using R for Geographic Information System (GIS) and Landscape Analyses](https://www.meetup.com/calgaryr/events/280192457/){target="_blank"}
 
 + Speaker: [<b>Danielle Clake</b>](danielle.clake@ucalgary.ca){target="_blank"}
@@ -44,14 +58,26 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 ## Upcomings!
 
 
+#### 2021-NOV-16 **Tuesday at 5 pm** [R Package DIY](https://www.meetup.com/calgaryr/events/281143383/){target="_blank"}
 
-#### 2021-OCT-XX [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
-
-+ Speaker: [<b>Not found yet</b>](){target="_blank"}
++ Speaker: [<b>Dr. Fonti Kar</b>](f.kar@unsw.edu.au){target="_blank"}
 + Location: Online Event
 
+\
 
-#### 2021-NOV [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+Please welcome our speaker, Dr. Fonti Kar, Postdoctoral Research Fellow at University of New South Wales, Sydney, Australia.
 
-+ Speaker: [<b>Not found yet</b>](){target="_blank"}
-+ Location: Online Event
+Do you have a few custom functions on heavy rotation?
+
+Perhaps you have a piece of code that you regularly share with colleagues? Maybe you want to include your analysis code alongside a publication? Why not put it all in an R package?!
+
+This interactive workshop will equip you with the basic skills to create an R package of your own!
+
+Participants should have:
+
+1) a Github account;
+2) the most recent version of R and RStudio installed;
+3) the following package(s) and their dependencies installed: devtools, testthat, knitr.
+
+Dr. Kar is an evolutionary biologist at heart but is currently working as an R package developer. She works alongside researchers to develop R software tools for the research community. Her interests include biostatistics, reproducible science, learning about the latest coding practices and teaching others to enjoy using R. She is the founder of UNSWcodeRs - a university R user community where students and staff can learn new skills and find coding support.
+\
