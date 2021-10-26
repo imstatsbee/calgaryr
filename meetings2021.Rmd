@@ -8,7 +8,7 @@ output: html_document
 
 #### 2021-NOV-03 at 5:30 pm [Meta-analysis in Medical Research: A Critical Appraisal and Brief Tutorial](https://www.meetup.com/calgaryr/events/281143383/){target="_blank"}
 
-+ Speaker: [<b>vDr. Stephana Julia Moss</b>](stephana.moss@ucalgary.ca){target="_blank"}
++ Speaker: [<b>Stephana Julia Moss</b>](stephana.moss@ucalgary.ca){target="_blank"}
 + Location: Online Event
 
 \
@@ -60,7 +60,7 @@ R lends itself perfectly to the data intensive task of planning and predicting t
 
 #### 2021-NOV-16 **Tuesday at 5 pm** [R Package DIY](https://www.meetup.com/calgaryr/events/281143383/){target="_blank"}
 
-+ Speaker: [<b>Dr. Fonti Kar</b>](f.kar@unsw.edu.au){target="_blank"}
++ Speaker: [<b>Fonti Kar</b>](f.kar@unsw.edu.au){target="_blank"}
 + Location: Online Event
 
 \
